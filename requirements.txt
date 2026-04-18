@@ -1,6 +1,6 @@
 streamlit
 pandas
-chromadb==0.5.23
+chromadb==0.4.24
 openai
 sentence-transformers
 pysqlite3-binary

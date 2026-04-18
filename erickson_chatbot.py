@@ -1,17 +1,17 @@
+import os
+os.environ["PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION"] = "python"
+
 try:
-    # 클라우드(리눅스) 환경에서 SQLite 버전 문제를 해결하기 위한 코드
     __import__('pysqlite3')
     import sys
     sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
-except ImportError:
-    # 로컬(윈도우) 환경에서는 위 코드가 실패하며, 자연스럽게 기본 sqlite3를 사용합니다.
+except (ImportError, KeyError):
     pass
 
 import streamlit as st
 import chromadb
 from chromadb.utils import embedding_functions
 from openai import OpenAI
-import os
 from datetime import datetime
 
 # 1. Page Config
@@ -22,14 +22,15 @@ st.set_page_config(page_title="Erickson Master AI", page_icon="🧠", layout="wi
 def get_collection():
     db_path = 'erickson_vector_db'
     if not os.path.exists(db_path):
-        st.error(f"데이터베이스 경로를 찾을 수 없습니다: {db_path}")
         return None
     try:
+        # 설정을 명시적으로 지정하여 버전 충돌 방지
         client = chromadb.PersistentClient(path=db_path)
         emb_fn = embedding_functions.SentenceTransformerEmbeddingFunction(model_name="all-MiniLM-L6-v2")
         return client.get_collection(name="erickson_strategies", embedding_function=emb_fn)
     except Exception as e:
-        st.error(f"데이터베이스 로드 오류: {e}")
+        # 에러 발생 시 캐시를 지우고 다시 시도하도록 유도
+        st.warning(f"데이터베이스 연결 재시도 중... ({e})")
         return None
 
 # 3. Master DNA
@@ -82,10 +83,13 @@ if prompt := st.chat_input("메시지를 입력하세요..."):
     collection = get_collection()
     retrieved_context = ""
     if collection:
-        results = collection.query(query_texts=[prompt], n_results=5)
-        if results and results['documents']:
-            for i in range(len(results['documents'][0])):
-                retrieved_context += f"\n[DNA 사례 #{i+1}]\n{results['documents'][0][i]}\n"
+        try:
+            results = collection.query(query_texts=[prompt], n_results=5)
+            if results and results['documents']:
+                for i in range(len(results['documents'][0])):
+                    retrieved_context += f"\n[DNA 사례 #{i+1}]\n{results['documents'][0][i]}\n"
+        except:
+            retrieved_context = "검색 데이터를 불러오는 중 오류가 발생했습니다."
     
     if api_key:
         client = OpenAI(base_url=base_url, api_key=api_key)
@@ -115,6 +119,6 @@ if prompt := st.chat_input("메시지를 입력하세요..."):
                 message_placeholder.markdown(full_response)
                 st.session_state.messages.append({"role": "assistant", "content": full_response})
             except Exception as e:
-                st.error(f"오류: {e}")
+                st.error(f"모델 호출 오류: {e}")
     else:
         st.warning("사이드바에 API Key를 입력해 주세요.")

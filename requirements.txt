@@ -1,8 +1,7 @@
 streamlit
 pandas
-chromadb==0.5.23
+chromadb==1.5.8
 openai
 sentence-transformers
 pysqlite3-binary
-protobuf==4.25.1
 numpy<2

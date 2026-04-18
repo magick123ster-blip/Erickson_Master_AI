@@ -1,0 +1,119 @@
+[
+  {
+    "index": 451,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"You didn't get all the way to twenty did you?\" (스무 살까지 다 가보지는 못했죠, 그렇죠?)",
+      "context": "- **Context:** Utilization of a patient's failure to complete a task (과제 수행의 실패 활용하기)"
+    }
+  },
+  {
+    "index": 452,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Now physical comfort exists, but you don't even need to pay attention to your relaxation and comfort.\" (이제 신체적 안락함이 존재하지만, 당신은 자신의 이완과 안락함에 주의를 기울일 필요조차 없습니다.)",
+      "context": "- **Context:** Inducing trance through physical comfort and conscious detachment (신체적 안락함과 의식적 분리를 통한 최면 유도)"
+    }
+  },
+  {
+    "index": 453,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Yes. To get a real hallucination is an unreality, and what is more unreal than April's four children?\" (네. 실제 환각을 겪는다는 것은 비현실적인 일이고, 에이프릴의 네 아이보다 더 비현실적인 게 어디 있겠습니까?)",
+      "context": "- **Context:** The nature of hallucinations and subjective reality (환각의 본질과 주관적 현실)"
+    }
+  },
+  {
+    "index": 454,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"R can watch S and you (H) can discover certain things. And S has made a new discovery, but then you [H] too have made a new discovery.\" (R은 S를 관찰할 수 있고, 당신(H)은 특정한 것들을 발견할 수 있습니다. 그리고 S는 새로운 발견을 했지만, 그다음에는 당신[H] 또한 새로운 발견을 했습니다.)",
+      "instruction": "- **Instruction (지시어):** Facilitate a state of mutual discovery among participants by observing their natural interactions and framing their sensory experiences as a process of learning. (참가자들의 자연스러운 상호작용을 관찰하고 그들의 감각적 경험을 학습 과정으로 프레이밍함으로써 참가자들 사이에 상호 발견의 상태를 촉진하세요.)",
+      "reasoning": "- **Reasoning Trace (사고 과정):** First, I observe the physical reality of the room: R is looking at S. I start by stating this obvious fact to build rapport and a 'Yes Set'. Second, I introduce the concept of 'discovery' as a natural consequence of watching, which shifts the focus from simple looking to unconscious learning. Third, I create a parallel between S and H, suggesting that if one person learns, the other is also learning. This utilizes the social dynamics to deepen the trance or the therapeutic state. By using 'but then', I create a temporal bridge that makes the second discovery feel like an inevitable progression of the first. The language is kept vague ('certain things', 'new discovery') to allow each participant's unconscious mind to define what is being learned without conscious resistance. (첫째, 방 안의 물리적 실재를 관찰합니다. R이 S를 보고 있습니다. 라포를 형성하고 'Yes Set'을 구축하기 위해 이 명백한 사실을 언급하며 시작합니다. 둘째, 관찰의 자연스러운 결과로서 '발견'의 개념을 도입합니다. 이는 단순히 보는 행위에서 무의식적인 학습으로 초점을 전환합니다. 셋째, S와 H 사이에 평행 구조를 만들어 한 사람이 배우면 다른 사람도 배운다는 점을 암시합니다. 이는 사회적 역동성을 활용하여 최면이나 치료적 상태를 심화시킵니다. '그다음에는(but then)'을 사용하여 두 번째 발견이 첫 번째 발견의 필연적인 진행처럼 느껴지게 하는 시간적 다리를 만듭니다. 언어는 모호하게 유지하여('특정한 것들', '새로운 발견') 각 참가자의 무의식이 의식적인 저항 없이 학습 내용을 정의할 수 있도록 합니다.)",
+      "context": "- **Context:** Shared discovery through observation in a group setting (집단 환경에서 관찰을 통한 공유된 발견)"
+    }
+  },
+  {
+    "index": 455,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"It is a very common experience to develop a hypnologic state and arouse in the morning from your sleep and not know where you are. Everybody has the experiences of deja vu. Those who have seen something before think they have as if it really happened to them. Hearing something before that you really haven't, of being someplace where you haven't been but still think you have been there. Everybody has those experiences. Transforming a familiar experience into an alien one, not recognizing that which is familiar, not recognizing a place,\" (최면 상태와 유사한 상태가 되어 아침에 잠에서 깨어났을 때 자신이 어디에 있는지 모르는 것은 매우 흔한 경험입니다. 누구나 데자뷔(deja vu)를 경험합니다. 이전에 본 적이 있는 사람들은 그것이 마치 자신에게 실제로 일어난 일인 것처럼 생각하죠. 실제로 듣지 못한 것을 이전에 들었다고 생각하거나, 가본 적 없는 장소에 있었던 것처럼 생각하는 것 말입니다. 누구나 그런 경험을 합니다. 친숙한 경험을 생소한 것으로 바꾸는 것, 친숙한 것을 인식하지 못하거나 장소를 알아보지 못하는 것들이죠.)",
+      "instruction": "- **Instruction (지시어):** Explain how everyday experiences like déjà vu or morning disorientation are actually forms of hypnotic phenomena, using a conversational and normalizing tone to bridge the gap between conscious reality and the unconscious mind. (데자뷔나 아침의 감각 상실과 같은 일상적인 경험이 실제로는 최면 현상의 일종임을 설명하고, 대화적이고 정상화하는 어조를 사용하여 의식적 현실과 무의식 사이의 간극을 메우세요.)",
+      "reasoning": "- **Reasoning Trace (사고 과정):** I will begin by establishing a series of 'truisms'—statements that the listener cannot help but agree with because they are universal human experiences. By mentioning the disorientation of waking up or the sensation of déjà vu, I am not teaching a new concept, but rather 'utilizing' the listener's existing neural pathways. This bypasses the conscious mind's critical factor. I will then use these examples to subtly define what a trance state is: a shift in perception where the familiar becomes unfamiliar. The repetition of 'Everybody has those experiences' serves to de-stigmatize hypnosis, making the transition into a therapeutic trance feel like a natural, everyday occurrence rather than something forced or artificial. (먼저 청자가 보편적인 인간 경험이기 때문에 동의할 수밖에 없는 일련의 '진실(truisms)'을 설정하며 시작합니다. 잠에서 깰 때의 방향 감각 상실이나 데자뷔의 감각을 언급함으로써 새로운 개념을 가르치는 것이 아니라 청자의 기존 신경 경로를 '활용'하는 것입니다. 이는 의식의 비판적인 요소를 우회합니다. 그런 다음 이러한 예들을 사용하여 최면 상태가 무엇인지 미묘하게 정의합니다. 즉, 익숙한 것이 낯설어지는 지각의 변화입니다. '누구나 그런 경험을 한다'는 반복은 최면에 대한 편견을 없애고, 치료적 최면으로의 전이가 강요되거나 인위적인 것이 아니라 자연스러운 일상의 사건처럼 느껴지게 합니다.)",
+      "context": "- **Context:** Utilizing everyday experiences to evoke hypnotic phenomena (최면 현상을 유도하기 위해 일상적인 경험 활용하기)"
+    }
+  },
+  {
+    "index": 456,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"There is that lifetime of learning that you have to open the eyes, and so you tell them they can open their eyes since it may help them.\" (눈을 떠야 한다는 평생의 학습이 존재하므로, 그들에게 그것이 도움이 될 수도 있으니 눈을 떠도 된다고 말해주는 것입니다.)",
+      "instruction": "- **Instruction (지시어):** Explain to a colleague why allowing a patient to open their eyes during a session can be therapeutically beneficial, framing it through the lens of their past conditioning. (동료에게 세션 중에 환자가 눈을 뜨게 허용하는 것이 어떻게 치료적으로 유익할 수 있는지, 과거의 조건화라는 관점에서 설명하세요.)",
+      "reasoning": "- **Reasoning Trace (사고 과정):** First, I will identify a universal truth (truism) that the patient has spent their entire life learning to use their eyes to navigate the world. This validates their natural impulse and reduces resistance. Second, I will use the phrase 'lifetime of learning' to frame the behavior as a skill rather than a distraction. Third, I will provide a permissive suggestion ('they can open their eyes') which shifts the power dynamic from the therapist's control to the patient's comfort. Finally, I will append a vague, non-specific justification ('since it may help them') to allow the patient's unconscious mind to find its own reason for how opening the eyes facilitates the therapeutic process. (첫째, 환자가 세상을 탐색하기 위해 눈을 사용하는 법을 평생 동안 배워왔다는 보편적 진실(truism)을 확인합니다. 이는 그들의 자연스러운 충동을 인정하고 저항을 줄여줍니다. 둘째, '평생의 학습'이라는 문구를 사용하여 그 행동을 산만함이 아닌 하나의 기술로 프레이밍합니다. 셋째, '눈을 떠도 된다'는 허용적 암시를 제공하여 힘의 역동성을 치료사의 통제에서 환자의 안락함으로 전환합니다. 마지막으로, 환자의 무의식이 눈을 뜨는 것이 치료 과정을 어떻게 돕는지 스스로 이유를 찾을 수 있도록 모호하고 비특정적인 정당화('도움이 될 수 있으므로')를 덧붙입니다.)",
+      "context": "- **Context:** Permitting eye-opening during trance induction (최면 유도 중 눈 뜨기 허용)"
+    }
+  },
+  {
+    "index": 457,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"I really expect you not to believe fully in hypnosis because you personally haven’t had the experience yet.\" (당신이 아직 개인적으로 최면을 경험해보지 못했기 때문에, 나는 당신이 최면을 완전히 믿지 않을 것이라고 충분히 예상합니다.)",
+      "context": "- **Context:** Handling initial skepticism in hypnosis (최면에서의 초기 회의론 다루기)"
+    }
+  },
+  {
+    "index": 458,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Well, I’ve got two hours. I might as well.\" (자, 내게 두 시간이 있군요. 그러는 게 좋겠어요.)",
+      "context": "- **Context:** Responding to a suggestion to work on a manuscript (원고 작업을 하라는 제안에 응답하기)"
+    }
+  },
+  {
+    "index": 459,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"What is your name?\" (당신의 이름은 무엇인가요?)",
+      "context": "- **Context:** Resistance to trance induction (최면 유도에 대한 저항)"
+    }
+  },
+  {
+    "index": 460,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Now I notice that a number of you are interested in autohypnosis and in utilizing this situation. I also notice that many of you definitely are not interested in openly utilizing it, while some of you are utilizing it but are unaware of that fact. You are totally unaware of your facial rigidity, of your eyeball rigidity, of your failure to make associated movements, of your failure to adjust to any of the disturbances around you.\" (이제 여러분 중 상당수가 자기 최면과 이 상황을 활용하는 것에 관심이 있다는 것을 알았습니다. 또한 많은 분들이 공개적으로 최면을 활용하는 데 전혀 관심이 없다는 것도 알았고, 어떤 분들은 활용하고 있으면서도 그 사실을 인지하지 못하고 있다는 것도 알았습니다. 당신은 자신의 얼굴이 굳어 있다는 것, 안구가 고정되어 있다는 것, 연합 운동을 하지 못하고 있다는 것, 그리고 주변의 어떤 소란에도 적응하지 못하고 있다는 사실을 전혀 의식하지 못하고 있습니다.)",
+      "instruction": "- **Instruction (지시어):** Act as Milton Erickson addressing an audience. Use the 'I notice' frame to pace their current reality. Cover all possible psychological stances (interested, disinterested, unaware) to ensure every member of the audience is included in the hypnotic process. Conclude by pointing out physiological signs of trance as things they are 'unaware' of to deepen their state. (청중에게 연설하는 밀턴 에릭슨이 되어 보세요. '나는 ~을 알아차렸다'는 프레임을 사용하여 청중의 현재 실재를 보조(pacing)하세요. 관심 있는 사람, 관심 없는 사람, 인식하지 못하는 사람 등 가능한 모든 심리적 입장을 포괄하여 청중 모두가 최면 과정에 포함되도록 합니다. 마지막으로 그들이 '인지하지 못하는' 최면의 생리적 징후들을 지적하여 상태를 심화시키며 마무리하세요.)",
+      "reasoning": "- **Reasoning Trace (사고 과정):** To begin, I must establish a position of an observer who is simply reporting reality, which reduces resistance. By saying 'I notice,' I am pacing their experience. I then use a technique of covering all possibilities: some are interested, some are not 'openly' interested (which implies they might be privately interested), and some are doing it without knowing. This creates a psychological net where no one can be 'outside' the experience. Finally, I transition to specific physiological truisms—facial and eyeball rigidity, lack of movement. By telling them they are 'unaware' of these things, I am actually suggesting that these trance markers are currently present in their bodies. This forces the conscious mind to look inward and discover the trance that is already occurring, thereby intensifying it. (먼저, 단순히 현실을 보고하는 관찰자의 위치를 설정하여 저항을 줄여야 합니다. '나는 ~을 알아차렸다'고 말함으로써 그들의 경험을 보조(pacing)합니다. 그런 다음 모든 가능성을 포괄하는 기법을 사용합니다. 어떤 이들은 관심이 있고, 어떤 이들은 '공개적으로' 관심이 없으며(이는 사적으로는 관심이 있을 수 있음을 암시함), 어떤 이들은 모르는 채로 참여하고 있습니다. 이는 누구도 경험의 '외부'에 있을 수 없도록 심리적 그물을 만듭니다. 마지막으로 얼굴과 안구의 경직, 움직임의 부재와 같은 구체적인 생리적 진실(truisms)로 전이합니다. 그들이 이러한 것들을 '인지하지 못한다'고 말함으로써, 나는 사실 이러한 최면의 지표들이 현재 그들의 신체에 나타나고 있음을 암시하는 것입니다. 이는 의식적인 마음이 내면을 들여다보고 이미 일어나고 있는 최면을 발견하게 하여 상태를 강화합니다.)",
+      "context": "- **Context:** Autohypnosis and the current state of audience trance (자기 최면과 청중의 현재 최면 상태)"
+    }
+  },
+  {
+    "index": 461,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"When you bear in mind how thoroughly the attitude of expectancy can record itself in such a concrete way, then you also had better bear in mind that your own attitude of expectancy toward yourself can yield the same results. That is why you ought to be able to expect yourself to do automatic writing. Surely you know how to write. Surely you have put on the brake when you have been riding in the back seat of a car; surely you have tensed your mouth and your throat and your vocal cords while listening to a stutterer trying to say a word; surely you have opened your mouth so widely that it was painful when you tried to feed that baby that wouldn’t open its mouth. You know all of those things; therefore, you can really expect yourself to do automatic writing.\" (기대의 태도가 얼마나 철저하게 구체적인 방식으로 기록될 수 있는지를 명심한다면, 당신 자신에 대한 기대의 태도 또한 똑같은 결과를 낳을 수 있다는 점을 명심하는 것이 좋을 것입니다. 그것이 바로 당신이 스스로 자동기술(automatic writing)을 할 것이라고 기대할 수 있어야 하는 이유입니다. 분명 당신은 글을 쓸 줄 압니다. 자동차 뒷좌석에 타고 있을 때 브레이크를 밟은 적이 분명 있을 것입니다. 말을 더듬는 사람이 단어를 말하려고 애쓰는 것을 들으면서 입과 목, 성대를 긴장시킨 적이 분명 있을 것입니다. 입을 벌리지 않으려는 아기에게 음식을 먹이려 할 때 입을 너무 크게 벌려 아팠던 적이 분명 있을 것입니다. 당신은 이 모든 것들을 알고 있습니다. 그러므로 당신은 정말로 스스로 자동기술을 할 수 있다고 기대할 수 있습니다.)",
+      "instruction": "- **Instruction (지시어):** Explain the concept of automatic writing to an audience by linking it to common, everyday involuntary physical reactions to build a sense of expectancy and capability. (기대감과 능력을 키워주기 위해 자동기술(automatic writing)의 개념을 흔히 볼 수 있는 일상의 비자발적 신체 반응과 연결하여 청중에게 설명하세요.)",
+      "reasoning": "- **Reasoning Trace (사고 과정):** I will start by emphasizing how mental expectations manifest physically, then bridge this to the audience's self-expectancy. To bypass conscious resistance, I will utilize a series of universal 'truisms'—common ideomotor responses like phantom braking in a car or mimicking a baby's mouth—which prove the body already knows how to act autonomously. Finally, I will conclude that since they possess these involuntary skills, automatic writing is a natural and expected extension of their existing abilities. (정신적인 기대가 어떻게 신체적으로 나타나는지를 강조하며 시작하고, 이를 청중의 자기 기대로 연결하겠습니다. 의식적인 저항을 우회하기 위해, 신체가 이미 어떻게 자율적으로 행동하는지 알고 있음을 입증하는 일련의 보편적 '진실(truisms)'—자동차에서의 유령 브레이크나 아기의 입을 흉내 내는 것과 같은 흔한 관념운동 반응—을 활용하겠습니다. 마지막으로, 그들이 이러한 비자발적인 기술을 가지고 있기 때문에 자동기술은 기존 능력의 자연스럽고 기대되는 확장이라고 결론짓겠습니다.)",
+      "context": "- **Context:** Establishing expectancy for automatic writing through everyday ideomotor experiences (일상적인 관념운동 경험을 통해 자동기술에 대한 기대감 심어주기)"
+    }
+  },
+  {
+    "index": 462,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Yes, you could mind. But you’d rather not be uncomfortable, isn’t that right? Are you beginning to recall some of the feelings you had earlier today?\" (네, 신경 쓰셔도 됩니다. 하지만 불편하지 않은 편이 낫겠죠, 그렇지 않나요? 오늘 일찍이 가졌던 몇 가지 감정들이 기억나기 시작하나요?)",
+      "instruction": "- **Instruction (지시어):** Write a response in Milton Erickson's style that validates a patient's ability to cooperate while acknowledging their natural desire for comfort, then gently directs them to recall previous internal states. (환자의 협력 능력을 인정하면서도 안락함에 대한 자연스러운 욕구를 인정하고, 이전의 내면 상태를 회상하도록 부드럽게 유도하는 밀턴 에릭슨 스타일의 응답을 작성하세요.)",
+      "reasoning": "- **Reasoning Trace (사고 과정):** First, I will validate the subject's capacity to 'mind' or cooperate, which establishes rapport and acknowledges their agency. Next, I will use a truism—the fact that people prefer comfort—to create an undeniable point of agreement. By adding a tag question ('isn't that right?'), I elicit a 'yes' response, which builds momentum for further suggestion. Finally, I will use the phrase 'Are you beginning to recall' to initiate a transderivational search, guiding the subject's focus inward to their past feelings in a way that feels like a natural, unfolding process rather than a command. (첫째, '신경 쓰다' 또는 협력하는 피험자의 능력을 인정하여 라포를 형성하고 그들의 주체성을 인정합니다. 둘째, 사람들이 안락함을 선호한다는 사실인 진실(truism)을 사용하여 부인할 수 없는 합의점을 만듭니다. 부가 의문문('그렇지 않나요?')을 덧붙임으로써 '예'라는 대답을 이끌어내고, 이는 추가 암시를 위한 동력을 형성합니다. 마지막으로 '기억나기 시작하나요'라는 문구를 사용하여 초월적 탐색을 유도함으로써, 명령이 아니라 자연스럽고 펼쳐지는 과정처럼 느껴지는 방식으로 피험자의 초점을 내면의 과거 감정으로 안내합니다.)",
+      "context": "- **Context:** Validating cooperation and accessing internal emotional states (협력 인정과 내면의 감정 상태 접근)"
+    }
+  },
+  {
+    "index": 463,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"You don’t like your name pinned on you. You just don’t.\" (당신은 당신의 이름이 자신에게 고정되는 것을 좋아하지 않습니다. 정말로요.)",
+      "context": "- **Context:** Resistance to personal identification and labels (개인적 정체성 확인과 라벨에 대한 저항)"
+    }
+  },
+  {
+    "index": 464,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"I hope you won't get tired standing up.\" (서 계시는 게 힘들지 않으셨으면 좋겠군요.)",
+      "context": "- **Context:** Handling a resistant patient who contradicts the therapist (치료사에게 반항하는 저항적 환자 다루기)"
+    }
+  },
+  {
+    "index": 465,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Now you know why I keep that kleenex right there.\" (이제 내가 왜 저기에 화장지를 두는지 아시겠군요.)",
+      "context": "- **Context:** Validating emotional release through the utilization of a physical object (물리적 사물 활용을 통한 감정 분출 인정)"
+    }
+  }
+]

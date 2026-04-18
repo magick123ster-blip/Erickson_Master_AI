@@ -1,0 +1,480 @@
+=== Milton Erickson Situational Best-Chains TOP 10 ===
+
+이 리포트는 에릭슨의 전략 체인 중 각 치료 상황별로 가장 중요한 70개 시퀀스를 정리한 것입니다.
+
+
+[Confusion & Induction]
+--------------------------------------------------
+
+1. Score: 0.0038
+   Sequence: ERICKSON_CONFUSION_INTERROGATIVE -> ERICKSON_NEGATIVE_APPROACH -> ERICKSON_INDIRECT_SUGGESTION
+   - 1: ERICKSON_CONFUSION_INTERROGATIVE | Do you think you're awake?
+   - 2: ERICKSON_NEGATIVE_APPROACH | "That could be worked on." It's a negative approach. You're just raising this as an unimportant question. "Do you suppose there are problems that coul
+   - 3: ERICKSON_INDIRECT_SUGGESTION | She didn’t watch her wiggle and watch all the others wiggle. Now all of you understand what I mean when I say “watch the others wiggle.” You’re stayin
+
+2. Score: 0.0038
+   Sequence: ERICKSON_CONFUSION_BY_PANTOMIME -> ERICKSON_ANALOGY_REFRAMING -> ERICKSON_INDIRECT_SUGGESTION
+   - 1: ERICKSON_CONFUSION_BY_PANTOMIME | A completely pantomime technique would have to be used, and the subject’s own state of mental uncertainty and eagerness to comprehend would effect the
+   - 2: ERICKSON_ANALOGY_REFRAMING | manipulative in the same sense as when you put salt on food to manipulate your sense of taste.
+   - 3: ERICKSON_INDIRECT_SUGGESTION | She didn’t watch her wiggle and watch all the others wiggle. Now all of you understand what I mean when I say “watch the others wiggle.” You’re stayin
+
+3. Score: 0.0038
+   Sequence: ERICKSON_SHOCK_AND_METAPHOR -> ERICKSON_INDIRECT_SUGGESTION_AND_CHALLENGE -> ERICKSON_INDIRECT_SUGGESTION
+   - 1: ERICKSON_SHOCK_AND_METAPHOR | That is a ‘hell of a mess on my desk, and sometime when I get through straightening out patients, I’ll straighten up the desk, too.
+   - 2: ERICKSON_INDIRECT_SUGGESTION_AND_CHALLENGE | I am delighted to see you gentlemen today. I have one of the easiest cases in the world for you. You do not have to take any history of the patient. J
+   - 3: ERICKSON_INDIRECT_SUGGESTION | She didn’t watch her wiggle and watch all the others wiggle. Now all of you understand what I mean when I say “watch the others wiggle.” You’re stayin
+
+4. Score: 0.0036
+   Sequence: ERICKSON_IDEOMOTOR_GUIDANCE -> ERICKSON_INEVITABILITY_FRAME -> ERICKSON_IDEOMOTOR_LINKAGE -> ERICKSON_PACING_AND_VALIDATION
+   - 1: ERICKSON_IDEOMOTOR_GUIDANCE | A little bit higher.
+   - 2: ERICKSON_INEVITABILITY_FRAME | There is nothing you can do to stop your hand from feeling hair.
+   - 3: ERICKSON_IDEOMOTOR_LINKAGE | The feeling of hair, and you can't stop your hand from doing that. And now you know that whenever you wish your penis can stand up and feel hair.
+   - 4: ERICKSON_PACING_AND_VALIDATION | You are a little bit surprised about your left hand?
+
+5. Score: 0.0036
+   Sequence: ERICKSON_TRANCE_DESCRIPTION -> ERICKSON_TRUISM_CALIBRATION -> ERICKSON_CHALLENGE_TO_CONSCIOUS_DEFINITION -> ERICKSON_PACING_AND_VALIDATION
+   - 1: ERICKSON_TRANCE_DESCRIPTION | He was further away. H tended to go into a reality that included himself and me but excluding S and you.
+   - 2: ERICKSON_TRUISM_CALIBRATION | A person could be looking right at you, yet you know they are not paying attention to you without their even knowing they are not paying attention.
+   - 3: ERICKSON_CHALLENGE_TO_CONSCIOUS_DEFINITION | But can you define that "faraway look" in precise terms?
+   - 4: ERICKSON_PACING_AND_VALIDATION | You are a little bit surprised about your left hand?
+
+6. Score: 0.0036
+   Sequence: ERICKSON_SHOCK_AND_DOUBLE_BIND -> ERICKSON_DOUBLE_BIND_HUMILITY -> ERICKSON_UTILIZATION_REFRAMING
+   - 1: ERICKSON_SHOCK_AND_DOUBLE_BIND | Yes. But, of course, with that couple I told them they needed shock treatment. And then I proceeded to give them the shock treatment. Now in raising t
+   - 2: ERICKSON_DOUBLE_BIND_HUMILITY | Just as soon as you think you can discuss your sexual maladjustments, let me know. Let me know directly, or let me know indirectly. I don't care which
+   - 3: ERICKSON_UTILIZATION_REFRAMING | Well, since I can’t get anything out of her, I will create a situation in which Mary can really teach us all a great deal.
+
+7. Score: 0.0035
+   Sequence: ERICKSON_AMBIGUITY_AND_RAPPORT -> ERICKSON_AWARENESS_TEST -> ERICKSON_REFRAMING_UTILIZATION
+   - 1: ERICKSON_AMBIGUITY_AND_RAPPORT | Tell us what you think we've experienced.
+   - 2: ERICKSON_AWARENESS_TEST | Do you hear your daughter? How do you feel about that? Does it distress you? That's an odd feeling, isn't it?
+   - 3: ERICKSON_REFRAMING_UTILIZATION | Now, I want to make the accusation of all of you that you talk too softly. I think the truth is, I can’t hear so well.
+
+8. Score: 0.0033
+   Sequence: ERICKSON_INTERRUPTED_TRUISM -> ERICKSON_DIRECT_INQUIRY_TRANCE -> ERICKSON_CONSCIOUS_UNCONSCIOUS_DISSOCIATION
+   - 1: ERICKSON_INTERRUPTED_TRUISM | You don’t think completely. And you—
+   - 2: ERICKSON_DIRECT_INQUIRY_TRANCE | Yes— —are you in a trance?
+   - 3: ERICKSON_CONSCIOUS_UNCONSCIOUS_DISSOCIATION | Now, another thing I want to call your attention to is the matter of hypnosis. Hypnosis is the ceasing to use your conscious awareness; in hypnosis yo
+
+9. Score: 0.0030
+   Sequence: ERICKSON_TRANCE_INDUCTION_DESCRIPTION -> ERICKSON_CALIBRATION_UTILIZATION -> ERICKSON_DISSOCIATION_PRINCIPLE -> ERICKSON_LEARNING_PROCESS -> ERICKSON_PACING_AND_VALIDATION
+   - 1: ERICKSON_TRANCE_INDUCTION_DESCRIPTION | And she's removing herself from this reality to go into a different reality where R's reality and H's reality is changed and mine is becoming less and
+   - 2: ERICKSON_CALIBRATION_UTILIZATION | Yes, her sensory process. It was my word “visual” and her action was visual.
+   - 3: ERICKSON_DISSOCIATION_PRINCIPLE | To separate her from our reality (the tripart reality shared by E, R, and H) helps deepen the trance by focusing her in on her own reality.
+   - 4: ERICKSON_LEARNING_PROCESS | I discovered the hard way. Part of my early experience was in subjects always awakening, and I had a lot of difficulty. I'd have one subject in one ro
+   - 5: ERICKSON_PACING_AND_VALIDATION | You are a little bit surprised about your left hand?
+
+10. Score: 0.0029
+   Sequence: ERICKSON_TRANCE_DEPTH_CALIBRATION -> ERICKSON_TRANCE_DESCRIPTION -> ERICKSON_TRUISM_CALIBRATION -> ERICKSON_CHALLENGE_TO_CONSCIOUS_DEFINITION -> ERICKSON_PACING_AND_VALIDATION
+   - 1: ERICKSON_TRANCE_DEPTH_CALIBRATION | Yes. At this point H's distance was much greater than S's.
+   - 2: ERICKSON_TRANCE_DESCRIPTION | He was further away. H tended to go into a reality that included himself and me but excluding S and you.
+   - 3: ERICKSON_TRUISM_CALIBRATION | A person could be looking right at you, yet you know they are not paying attention to you without their even knowing they are not paying attention.
+   - 4: ERICKSON_CHALLENGE_TO_CONSCIOUS_DEFINITION | But can you define that "faraway look" in precise terms?
+   - 5: ERICKSON_PACING_AND_VALIDATION | You are a little bit surprised about your left hand?
+
+[Deepening & Ratification]
+--------------------------------------------------
+
+1. Score: 0.0038
+   Sequence: ERICKSON_TIME_DOUBLE_BIND -> ERICKSON_PERMISSIVE_RELAXATION -> ERICKSON_INDIRECT_SUGGESTION
+   - 1: ERICKSON_TIME_DOUBLE_BIND | Take all the time that you want to go deeply into a trance. Go only as deeply as you want to go, and take all the time that is necessary, but you real
+   - 2: ERICKSON_PERMISSIVE_RELAXATION | Now relax gently... feel at ease... be comfortable all over... and begin relaxing your feet, and your legs, and your thighs... and feel the comfort of
+   - 3: ERICKSON_INDIRECT_SUGGESTION | She didn’t watch her wiggle and watch all the others wiggle. Now all of you understand what I mean when I say “watch the others wiggle.” You’re stayin
+
+2. Score: 0.0037
+   Sequence: ERICKSON_RATIFICATION_AND_CHALLENGE -> ERICKSON_DIRECT_ASSERTION -> ERICKSON_TIME_DISTORTION_INQUIRY -> ERICKSON_PACING_AND_VALIDATION
+   - 1: ERICKSON_RATIFICATION_AND_CHALLENGE | That's right. And you're sure you are wide awake now?
+   - 2: ERICKSON_DIRECT_ASSERTION | No doubts!
+   - 3: ERICKSON_TIME_DISTORTION_INQUIRY | What time do you think it is right now?
+   - 4: ERICKSON_PACING_AND_VALIDATION | You are a little bit surprised about your left hand?
+
+3. Score: 0.0028
+   Sequence: ERICKSON_TIME_DISTORTION_RECALL -> ERICKSON_CHALLENGING_AMBIGUITY -> ERICKSON_YES_SET_PACING
+   - 1: ERICKSON_TIME_DISTORTION_RECALL | You will in due course say something Long forgotten now remembered. (Pause) A very happy memory. And then the next year you will remember, and the yea
+   - 2: ERICKSON_CHALLENGING_AMBIGUITY | When is "in due course"?
+   - 3: ERICKSON_YES_SET_PACING | And are there lots of trees?
+
+4. Score: 0.0020
+   Sequence: ERICKSON_TIME_DISTORTION_VALIDATION -> ERICKSON_CHALLENGE_AUTHORITY -> ERICKSON_PRESUPPOSITION
+   - 1: ERICKSON_TIME_DISTORTION_VALIDATION | We have done a lot together. You have been here two and a quarter hours. Do you believe me?
+   - 2: ERICKSON_CHALLENGE_AUTHORITY | Why, just because I said it?
+   - 3: ERICKSON_PRESUPPOSITION | And how straight a line would you walk?
+
+5. Score: 0.0019
+   Sequence: ERICKSON_TIME_DISTORTION_AND_PACING -> ERICKSON_INDIRECT_ENVIRONMENTAL_MANIPULATION -> ERICKSON_REFRAMING
+   - 1: ERICKSON_TIME_DISTORTION_AND_PACING | I had told him that I didn't know how long it would take the ulcer to heal. It was my feeling, since he had had it continuously for two years, that it
+   - 2: ERICKSON_INDIRECT_ENVIRONMENTAL_MANIPULATION | He took his breaks. He started at 6 o'clock. I told his mother to be sure to be very dilatory in preparing his breakfast.
+   - 3: ERICKSON_REFRAMING | Poliomyelitis was the best teacher I ever had about human behavior and its potentials.
+
+6. Score: 0.0017
+   Sequence: ERICKSON_TIME_DISTORTION_IDENTITY_INTEGRATION -> ERICKSON_TIME_DISTORTION_INTEGRATION -> ERICKSON_TRUISM_UTILIZATION
+   - 1: ERICKSON_TIME_DISTORTION_IDENTITY_INTEGRATION | Would you like to rest? All right. Just close your eyes and rest. Very comfortably. Rest. And have a long rest. A rest that seems hours long. Hours lo
+   - 2: ERICKSON_TIME_DISTORTION_INTEGRATION | I use time distortion here to allow her to adjust to the awake state, yet allowing her to retain all the memories of the different Jill states.
+   - 3: ERICKSON_TRUISM_UTILIZATION | I am partially color-blind.
+
+7. Score: 0.0016
+   Sequence: ERICKSON_RATIFICATION_TAG -> ERICKSON_TIME_DISTORTION_VALIDATION -> ERICKSON_CHALLENGE_AUTHORITY -> ERICKSON_PRESUPPOSITION
+   - 1: ERICKSON_RATIFICATION_TAG | We have done a lot together, haven't we?
+   - 2: ERICKSON_TIME_DISTORTION_VALIDATION | We have done a lot together. You have been here two and a quarter hours. Do you believe me?
+   - 3: ERICKSON_CHALLENGE_AUTHORITY | Why, just because I said it?
+   - 4: ERICKSON_PRESUPPOSITION | And how straight a line would you walk?
+
+8. Score: 0.0015
+   Sequence: ERICKSON_VALIDATION_META -> ERICKSON_WAKING_TRANCE_TEST -> ERICKSON_LITERALISM_TEST -> ERICKSON_GUIDED_IMAGERY_SPECIFICATION -> ERICKSON_VISUALIZATION_DEEPENING -> ERICKSON_UTILIZATION_FACTUAL -> ERICKSON_CONSCIOUS_UNCONSCIOUS_DISSOCIATION
+   - 1: ERICKSON_VALIDATION_META | Yes. I'm proving the trance exists.
+   - 2: ERICKSON_WAKING_TRANCE_TEST | Who is here? Who else? Is your daughter's voice here? That's a nice sound, isn't it? How do you feel about being in a trance with your eyes wide open?
+   - 3: ERICKSON_LITERALISM_TEST | What am I doing? Anything else? Anything else? And how are you seeing me?
+   - 4: ERICKSON_GUIDED_IMAGERY_SPECIFICATION | She’s on the platform. Where is the platform?
+   - 5: ERICKSON_VISUALIZATION_DEEPENING | In an auditorium. Now where is the auditorium?
+   - 6: ERICKSON_UTILIZATION_FACTUAL | And where is the hospital?
+   - 7: ERICKSON_CONSCIOUS_UNCONSCIOUS_DISSOCIATION | Now, another thing I want to call your attention to is the matter of hypnosis. Hypnosis is the ceasing to use your conscious awareness; in hypnosis yo
+
+9. Score: 0.0012
+   Sequence: ERICKSON_RATIFICATION_OF_CHANGE -> ERICKSON_SPECIFIC_INQUIRY -> ERICKSON_DIRECTIVE_EXPECTATION -> ERICKSON_TRUISM_AND_MULTIPLE_CHOICE -> ERICKSON_DIRECTIVE_REFRAMING -> ERICKSON_DIRECT_COMMAND_FOR_OBSERVATION -> ERICKSON_METAPHOR_FUTURE_PACING -> ERICKSON_PRESUPPOSITION_IGNORANCE -> ERICKSON_CONSCIOUS_UNCONSCIOUS_DISSOCIATION
+   - 1: ERICKSON_RATIFICATION_OF_CHANGE | Notice the ease with which he now accepts my observations about his left arm and hand anesthesia. His questions all imply an acceptance.
+   - 2: ERICKSON_SPECIFIC_INQUIRY | Let's go back to that word threat. What was the threat?
+   - 3: ERICKSON_DIRECTIVE_EXPECTATION | Now you keep very quiet. Your husband has got something to say.
+   - 4: ERICKSON_TRUISM_AND_MULTIPLE_CHOICE | You have a lot of thinking to do. Do you want to continue your marriage, do you want a divorce, do you want a separation?
+   - 5: ERICKSON_DIRECTIVE_REFRAMING | That's an impulsive utterance. Suppose you come back here a week from now. In the meantime, don't see her. Do all of your own thinking all by yourself
+   - 6: ERICKSON_DIRECT_COMMAND_FOR_OBSERVATION | Just sit down and be quiet.
+   - 7: ERICKSON_METAPHOR_FUTURE_PACING | Give yourself plenty of time. Now your hands have fizzled out for today. They can have some wetness tomorrow, the next day. And you will be surprised 
+   - 8: ERICKSON_PRESUPPOSITION_IGNORANCE | You really don’t know, do you? In what way did I touch your elbow differently?
+   - 9: ERICKSON_CONSCIOUS_UNCONSCIOUS_DISSOCIATION | Now, another thing I want to call your attention to is the matter of hypnosis. Hypnosis is the ceasing to use your conscious awareness; in hypnosis yo
+
+10. Score: 0.0012
+   Sequence: ERICKSON_VALIDATION_ACCEPTANCE -> ERICKSON_RELATIONAL_PROMPT -> ERICKSON_SOURCE_INQUIRY -> ERICKSON_INTERROGATIVE_FOCUS -> ERICKSON_REFRAMING
+   - 1: ERICKSON_VALIDATION_ACCEPTANCE | Sure.
+   - 2: ERICKSON_RELATIONAL_PROMPT | What do you want to do in relationship to the harp?
+   - 3: ERICKSON_SOURCE_INQUIRY | And whose idea was it that you be a concert harpist?
+   - 4: ERICKSON_INTERROGATIVE_FOCUS | Now why did you have wet hands?
+   - 5: ERICKSON_REFRAMING | Poliomyelitis was the best teacher I ever had about human behavior and its potentials.
+
+[Future Pacing & Integration]
+--------------------------------------------------
+
+1. Score: 0.0049
+   Sequence: ERICKSON_POSTHYPNOTIC_VALIDATION -> ERICKSON_UNCONSCIOUS_PROCESS -> ERICKSON_PACING_AND_VALIDATION
+   - 1: ERICKSON_POSTHYPNOTIC_VALIDATION | He is following the posthypnotic suggestion given back in the last session.
+   - 2: ERICKSON_UNCONSCIOUS_PROCESS | I worked with Mary for Mary’s benefit, not for the benefit of the audience. I want Mary to mull it all over in her own unconscious mind, and to think 
+   - 3: ERICKSON_PACING_AND_VALIDATION | You are a little bit surprised about your left hand?
+
+2. Score: 0.0048
+   Sequence: ERICKSON_FUTURE_PACING_AND_GENERALIZATION -> ERICKSON_ANTI_PATTERN_CONTRADICTION -> ERICKSON_PACING_AND_VALIDATION
+   - 1: ERICKSON_FUTURE_PACING_AND_GENERALIZATION | You may get married some time. You may get pregnant. You may not get married. You may have a severe attack of pneumonia that will interfere with your 
+   - 2: ERICKSON_ANTI_PATTERN_CONTRADICTION | It doesn’t hurt, or You’ll feel better shortly. You don’t need to be afraid...I’m not going to hurt you... This Novocain will really fix you up... You
+   - 3: ERICKSON_PACING_AND_VALIDATION | You are a little bit surprised about your left hand?
+
+3. Score: 0.0038
+   Sequence: ERICKSON_INTEGRATION_DIRECTIVE -> ERICKSON_DISSOCIATION_AFFECT_SPLIT -> ERICKSON_INDIRECT_SUGGESTION
+   - 1: ERICKSON_INTEGRATION_DIRECTIVE | There has to be an integration of unconscious learnings with conscious learnings. This should be foremost in your mind whenever you use hypnosis on ps
+   - 2: ERICKSON_DISSOCIATION_AFFECT_SPLIT | I have demonstrated this phenomenon in the past by having one of my demonstration subjects recover all the merriment of a joke without knowing what th
+   - 3: ERICKSON_INDIRECT_SUGGESTION | She didn’t watch her wiggle and watch all the others wiggle. Now all of you understand what I mean when I say “watch the others wiggle.” You’re stayin
+
+4. Score: 0.0036
+   Sequence: ERICKSON_AMNESIA_IMPLICATION -> ERICKSON_INDIRECT_INDUCTION_QUESTIONS -> ERICKSON_FRAGMENTATION_UTILIZATION -> ERICKSON_PACING_AND_VALIDATION
+   - 1: ERICKSON_AMNESIA_IMPLICATION | Yes, I'm causing an amnesia by implying "that's all over and done with. Now let's go on to something else."
+   - 2: ERICKSON_INDIRECT_INDUCTION_QUESTIONS | What kind of trance would you like to experience? How long will it take you to go into that trance? How will you know you are beginning to experience 
+   - 3: ERICKSON_FRAGMENTATION_UTILIZATION | You induce a small fragment of the trance and then another. Then you can connect those two.
+   - 4: ERICKSON_PACING_AND_VALIDATION | You are a little bit surprised about your left hand?
+
+5. Score: 0.0029
+   Sequence: ERICKSON_FUTURE_PACING_LINKAGE -> ERICKSON_GENERALIZATION_STORY -> ERICKSON_PRESUPPOSITION_SEARCH -> ERICKSON_FUTURE_PACING_UNCONSCIOUS_GUIDANCE -> ERICKSON_PACING_AND_VALIDATION
+   - 1: ERICKSON_FUTURE_PACING_LINKAGE | Yes. When I associate her current hypnotic learning with inevitable things that will happen to her child, I'm extending these learnings into her futur
+   - 2: ERICKSON_GENERALIZATION_STORY | I now generalize it further with this other story of how I taught a physician the surprise technique of anesthesia.
+   - 3: ERICKSON_PRESUPPOSITION_SEARCH | One thing more: Your returning memories will start. What tune did you say the water bag broke?
+   - 4: ERICKSON_FUTURE_PACING_UNCONSCIOUS_GUIDANCE | The memories will start by a sudden recovery of that memory, very intense, and then you can go on to the rest. You see, you weren't asking for the bre
+   - 5: ERICKSON_PACING_AND_VALIDATION | You are a little bit surprised about your left hand?
+
+6. Score: 0.0028
+   Sequence: ERICKSON_FUTURE_PACING_AMNESIA -> ERICKSON_UNCONSCIOUS_PROTECTION -> ERICKSON_PERMISSIVE_SUGGESTION
+   - 1: ERICKSON_FUTURE_PACING_AMNESIA | And you don’t know who that person is? No, you don’t know. I am going to ask you this same question next year around May 2, 1962. Will that be all rig
+   - 2: ERICKSON_UNCONSCIOUS_PROTECTION | Yes, within the framework that has been given her. Only she can’t analyze that framework.
+   - 3: ERICKSON_PERMISSIVE_SUGGESTION | You don’t have to go to the bathroom.
+
+7. Score: 0.0028
+   Sequence: ERICKSON_LEARNING_AUTONOMY -> ERICKSON_CHALLENGE_CONSCIOUS_PREMISE -> ERICKSON_YES_SET_PACING
+   - 1: ERICKSON_LEARNING_AUTONOMY | In a learning situation you have to do your own learning. I want you to learn a lot faster than I did. It took me about 30 years to learn, and there i
+   - 2: ERICKSON_CHALLENGE_CONSCIOUS_PREMISE | Are you sure you come out of it because you are bored?
+   - 3: ERICKSON_YES_SET_PACING | And are there lots of trees?
+
+8. Score: 0.0025
+   Sequence: ERICKSON_AMNESIA_LINKING -> ERICKSON_POST_HYPNOTIC_AMNESIA_AND_PERMISSIVE_SUGGESTION -> ERICKSON_RATIFICATION_PHYSIOLOGY -> ERICKSON_CONSCIOUS_UNCONSCIOUS_DISSOCIATION
+   - 1: ERICKSON_AMNESIA_LINKING | It's tying that previous section with this section.
+   - 2: ERICKSON_POST_HYPNOTIC_AMNESIA_AND_PERMISSIVE_SUGGESTION | Yes, all that material will fall into a lacuna. I also said that about not needing to listen to me and letting your mind wander in an earlier section.
+   - 3: ERICKSON_RATIFICATION_PHYSIOLOGY | But your unconscious mind will pay attention, you will understand. And you are drifting into a trance. You've altered your rhythm of breathing. Your p
+   - 4: ERICKSON_CONSCIOUS_UNCONSCIOUS_DISSOCIATION | Now, another thing I want to call your attention to is the matter of hypnosis. Hypnosis is the ceasing to use your conscious awareness; in hypnosis yo
+
+9. Score: 0.0025
+   Sequence: ERICKSON_POSTHYPNOTIC_DISSOCIATION -> ERICKSON_REFRAMING_NOMINALIZATION -> ERICKSON_POSTHYPNOTIC_FEEDBACK_LOOP -> ERICKSON_CONSCIOUS_UNCONSCIOUS_DISSOCIATION
+   - 1: ERICKSON_POSTHYPNOTIC_DISSOCIATION | and you won't, will you? You will see them but you won't be able to feel them after I awaken you. Agreed?
+   - 2: ERICKSON_REFRAMING_NOMINALIZATION | 우리는 이것을 '외부 현실의 희미해짐'이라고 부를 것입니다. 외부 현실이 희미해지면, 당신은 혼란을 느끼게 됩니다.
+   - 3: ERICKSON_POSTHYPNOTIC_FEEDBACK_LOOP | In future work with you, your unconscious is going to resort to that pupillary dilation many times to let Dr. H know that your unconscious is really t
+   - 4: ERICKSON_CONSCIOUS_UNCONSCIOUS_DISSOCIATION | Now, another thing I want to call your attention to is the matter of hypnosis. Hypnosis is the ceasing to use your conscious awareness; in hypnosis yo
+
+10. Score: 0.0020
+   Sequence: ERICKSON_FUTURE_PRESUPPOSITION -> ERICKSON_DOUBLE_BIND_FUTURE_PACING -> ERICKSON_DOUBLE_BIND_DEPOTENTIATION -> ERICKSON_DOUBLE_BIND_UNCONSCIOUS -> ERICKSON_CONSCIOUS_UNCONSCIOUS_DISSOCIATION
+   - 1: ERICKSON_FUTURE_PRESUPPOSITION | Your behavior will change.
+   - 2: ERICKSON_DOUBLE_BIND_FUTURE_PACING | I know your father and mother have been asking you, Jimmy, to quit biting your nails. They don't seem to know that you're just a six-year-old boy. And
+   - 3: ERICKSON_DOUBLE_BIND_DEPOTENTIATION | But your conscious mind will keep it only with the consent of your unconscious mind.
+   - 4: ERICKSON_DOUBLE_BIND_UNCONSCIOUS | You don't need to listen to me. Your unconscious mind can listen to me without your knowledge.
+   - 5: ERICKSON_CONSCIOUS_UNCONSCIOUS_DISSOCIATION | Now, another thing I want to call your attention to is the matter of hypnosis. Hypnosis is the ceasing to use your conscious awareness; in hypnosis yo
+
+[Metaphor & Narrative]
+--------------------------------------------------
+
+1. Score: 0.0038
+   Sequence: ERICKSON_METAPHOR_MODERNIZATION -> ERICKSON_SENSORY_EVOCATION -> ERICKSON_INDIRECT_SUGGESTION
+   - 1: ERICKSON_METAPHOR_MODERNIZATION | Ten to three. I asked you yesterday if you believed in Aladdin’s lamp out of which a genie would come. Now how many of you believe that a genie can co
+   - 2: ERICKSON_SENSORY_EVOCATION | Well, she kisses, she smiles, she winks. Would you like to meet that kind of beautiful genie?
+   - 3: ERICKSON_INDIRECT_SUGGESTION | She didn’t watch her wiggle and watch all the others wiggle. Now all of you understand what I mean when I say “watch the others wiggle.” You’re stayin
+
+2. Score: 0.0036
+   Sequence: ERICKSON_METAPHOR_AUTONOMY -> ERICKSON_REFRAMING_EXTERNALIZATION -> ERICKSON_UTILIZATION_REFRAMING
+   - 1: ERICKSON_METAPHOR_AUTONOMY | I don’t know how to tell you how to drive your car home for the simple reason that I know nothing about your reflex responses, your reaction time, or 
+   - 2: ERICKSON_REFRAMING_EXTERNALIZATION | Your dad feels that you should be a very, very clever second-storey workman; that you ought to be able to sneak up to a second storey and rob the bedr
+   - 3: ERICKSON_UTILIZATION_REFRAMING | Well, since I can’t get anything out of her, I will create a situation in which Mary can really teach us all a great deal.
+
+3. Score: 0.0036
+   Sequence: ERICKSON_SYMBOLIC_GROWTH_TASK -> ERICKSON_STRATEGIC_REFERRAL -> ERICKSON_UTILIZATION_REFRAMING
+   - 1: ERICKSON_SYMBOLIC_GROWTH_TASK | So your husband will take you home and get you an eucalyptus sapling. You tell him where to plant it. Eucalyptus trees grow very rapidly in Arizona. I
+   - 2: ERICKSON_STRATEGIC_REFERRAL | I’ll have to see you another time but first I want you to see a friend of mine, a rheumatologist. The rheumatologist owes me a lot of money and I’ll t
+   - 3: ERICKSON_UTILIZATION_REFRAMING | Well, since I can’t get anything out of her, I will create a situation in which Mary can really teach us all a great deal.
+
+4. Score: 0.0035
+   Sequence: ERICKSON_STORYTELLING_ANCHOR -> ERICKSON_INTERRUPTION_PATTERN -> ERICKSON_REFRAMING_UTILIZATION
+   - 1: ERICKSON_STORYTELLING_ANCHOR | He said, “That patient was so surprised.” The patient said, “What can I do to repay you?” Don said, “You can remember me”.
+   - 2: ERICKSON_INTERRUPTION_PATTERN | “You can remember me.” Sometime later, my friend got a block of wood out of which he made some cellos and violins. When you seem to be doing damn fool
+   - 3: ERICKSON_REFRAMING_UTILIZATION | Now, I want to make the accusation of all of you that you talk too softly. I think the truth is, I can’t hear so well.
+
+5. Score: 0.0034
+   Sequence: ERICKSON_METAPHOR_FUTURE_PACING -> ERICKSON_PRESUPPOSITION_IGNORANCE -> ERICKSON_CONSCIOUS_UNCONSCIOUS_DISSOCIATION
+   - 1: ERICKSON_METAPHOR_FUTURE_PACING | Give yourself plenty of time. Now your hands have fizzled out for today. They can have some wetness tomorrow, the next day. And you will be surprised 
+   - 2: ERICKSON_PRESUPPOSITION_IGNORANCE | You really don’t know, do you? In what way did I touch your elbow differently?
+   - 3: ERICKSON_CONSCIOUS_UNCONSCIOUS_DISSOCIATION | Now, another thing I want to call your attention to is the matter of hypnosis. Hypnosis is the ceasing to use your conscious awareness; in hypnosis yo
+
+6. Score: 0.0033
+   Sequence: ERICKSON_SYMBOLIC_UTILIZATION -> ERICKSON_METAPHOR_ABUNDANCE -> ERICKSON_CONSCIOUS_UNCONSCIOUS_DISSOCIATION
+   - 1: ERICKSON_SYMBOLIC_UTILIZATION | So what part of the itch does he want to keep?
+   - 2: ERICKSON_METAPHOR_ABUNDANCE | And the stones would be the not-so-good things. In successful living you can always afford to throw away a lot of gems because there are always a lot 
+   - 3: ERICKSON_CONSCIOUS_UNCONSCIOUS_DISSOCIATION | Now, another thing I want to call your attention to is the matter of hypnosis. Hypnosis is the ceasing to use your conscious awareness; in hypnosis yo
+
+7. Score: 0.0028
+   Sequence: ERICKSON_METAPHOR_DISSOCIATION -> ERICKSON_BYPASS_CONSCIOUS_CONTROL -> ERICKSON_PERMISSIVE_SUGGESTION
+   - 1: ERICKSON_METAPHOR_DISSOCIATION | In training a rifle team for the international shoot, I told them to let the sight wander back and forth, up and down, all over the target. You don't 
+   - 2: ERICKSON_BYPASS_CONSCIOUS_CONTROL | I did not explain it to them. I said to them they might not even know when their finger squeezed the trigger. It takes all the pressure off because it
+   - 3: ERICKSON_PERMISSIVE_SUGGESTION | You don’t have to go to the bathroom.
+
+8. Score: 0.0027
+   Sequence: ERICKSON_ANALOGY_NUDGE -> ERICKSON_SHOCK_AND_DOUBLE_BIND -> ERICKSON_DOUBLE_BIND_HUMILITY -> ERICKSON_UTILIZATION_REFRAMING
+   - 1: ERICKSON_ANALOGY_NUDGE | Well, but you see, I choose it in such a way that they're awfully glad I chose it for them. Just as you take your guest out and you know that your gue
+   - 2: ERICKSON_SHOCK_AND_DOUBLE_BIND | Yes. But, of course, with that couple I told them they needed shock treatment. And then I proceeded to give them the shock treatment. Now in raising t
+   - 3: ERICKSON_DOUBLE_BIND_HUMILITY | Just as soon as you think you can discuss your sexual maladjustments, let me know. Let me know directly, or let me know indirectly. I don't care which
+   - 4: ERICKSON_UTILIZATION_REFRAMING | Well, since I can’t get anything out of her, I will create a situation in which Mary can really teach us all a great deal.
+
+9. Score: 0.0027
+   Sequence: ERICKSON_ANALOGY_LOGIC -> ERICKSON_DIRECTIVE_OBLIGATION -> ERICKSON_REFRAMING_THROUGH_METAPHOR -> ERICKSON_REFRAMING_UTILIZATION
+   - 1: ERICKSON_ANALOGY_LOGIC | Then you point out that eventually the little girl, accordingly, is going to be a parent. When do you learn to read a book? For example, a book such a
+   - 2: ERICKSON_DIRECTIVE_OBLIGATION | I think you ought to be awfully sure that your wife teaches your daughter those feminine things that your daughter has to learn from a female, from he
+   - 3: ERICKSON_REFRAMING_THROUGH_METAPHOR | Well, tell me how do you shop at a supermarket? All right, now how would you shop in a corner grocery store? The procedure is entirely different. That
+   - 4: ERICKSON_REFRAMING_UTILIZATION | Now, I want to make the accusation of all of you that you talk too softly. I think the truth is, I can’t hear so well.
+
+10. Score: 0.0025
+   Sequence: ERICKSON_ANECDOTE_GROWTH -> ERICKSON_REFRAMING_OBSERVATION -> ERICKSON_INTER_CONTEXTUAL_CUES -> ERICKSON_CONSCIOUS_UNCONSCIOUS_DISSOCIATION
+   - 1: ERICKSON_ANECDOTE_GROWTH | You know, every time I go away from home for a week or more, when I come back my 13-year-old and 14-year-old daughters have grown, very definitely, a 
+   - 2: ERICKSON_REFRAMING_OBSERVATION | But when you think of the escape hatch, you are thinking of movement in terms of fear and escape.
+   - 3: ERICKSON_INTER_CONTEXTUAL_CUES | I had some repetitive dreams last night about some things that should be said about this. In giving suggestions and instruction to hypnotic subjects i
+   - 4: ERICKSON_CONSCIOUS_UNCONSCIOUS_DISSOCIATION | Now, another thing I want to call your attention to is the matter of hypnosis. Hypnosis is the ceasing to use your conscious awareness; in hypnosis yo
+
+[Rapport & Pacing]
+--------------------------------------------------
+
+1. Score: 0.0049
+   Sequence: ERICKSON_RAPPORT_BOUNDARY -> ERICKSON_INDIRECT_VALIDATION -> ERICKSON_PACING_AND_VALIDATION
+   - 1: ERICKSON_RAPPORT_BOUNDARY | No, you and I are together, and those people are outside. It is a very nice way of illustrating that we are here and you fellows are over there.
+   - 2: ERICKSON_INDIRECT_VALIDATION | And you did that so nicely, and I didn't tell her to do that.
+   - 3: ERICKSON_PACING_AND_VALIDATION | You are a little bit surprised about your left hand?
+
+2. Score: 0.0038
+   Sequence: ERICKSON_ALLIANCE_AND_REDIRECTION -> ERICKSON_ALLIANCE_PRESUPPOSITION -> ERICKSON_INDIRECT_SUGGESTION
+   - 1: ERICKSON_ALLIANCE_AND_REDIRECTION | But you're still mad and so am I, because they ordered me to cure your bedwetting. But they can't give me orders like they give you. But before we fix
+   - 2: ERICKSON_ALLIANCE_PRESUPPOSITION | I'm glad you're not mad at me any more and I don't think that you or I have to tell your parents anything. In fact, maybe it would serve them just rig
+   - 3: ERICKSON_INDIRECT_SUGGESTION | She didn’t watch her wiggle and watch all the others wiggle. Now all of you understand what I mean when I say “watch the others wiggle.” You’re stayin
+
+3. Score: 0.0020
+   Sequence: ERICKSON_PACING_LEADING_PROCESS -> ERICKSON_ORIENTATION_SHIFT -> ERICKSON_UTILIZATION_NEGATIVE_HALLUCINATION -> ERICKSON_PERMISSIVE_SUGGESTION
+   - 1: ERICKSON_PACING_LEADING_PROCESS | Betty, please stand up. Now walk slowly up to the stage. Continue on directly in front of me. Now don’t walk too fast or too slowly but go a little bi
+   - 2: ERICKSON_ORIENTATION_SHIFT | Where are you, Betty? ... Where is here? ... Where are we? ... What’s there
+   - 3: ERICKSON_UTILIZATION_NEGATIVE_HALLUCINATION | Nothing.
+   - 4: ERICKSON_PERMISSIVE_SUGGESTION | You don’t have to go to the bathroom.
+
+4. Score: 0.0017
+   Sequence: ERICKSON_PACING_AND_RAPPORT -> ERICKSON_UTILIZATION_PUN -> ERICKSON_TRUISM_UTILIZATION
+   - 1: ERICKSON_PACING_AND_RAPPORT | Pleased to meet you.
+   - 2: ERICKSON_UTILIZATION_PUN | Any number of bugs will be all right.
+   - 3: ERICKSON_TRUISM_UTILIZATION | I am partially color-blind.
+
+5. Score: 0.0016
+   Sequence: ERICKSON_PACING_LEADING_TRUISM -> ERICKSON_CHALLENGING_ASSUMPTIONS -> ERICKSON_UTILIZATION_RESISTANCE
+   - 1: ERICKSON_PACING_LEADING_TRUISM | I suppose they are part of your problem, and that you really want help. You want your thinking clarified, and you want your emotions clarified on the 
+   - 2: ERICKSON_CHALLENGING_ASSUMPTIONS | Who defined it as lurid?
+   - 3: ERICKSON_UTILIZATION_RESISTANCE | You don’t like what I’m doing to you right now?
+
+6. Score: 0.0015
+   Sequence: ERICKSON_AFFIRMATION_PACING -> ERICKSON_BEHAVIORAL_VALIDATION -> ERICKSON_REFRAMING_AND_DIFFERENTIATION -> ERICKSON_REFRAMING
+   - 1: ERICKSON_AFFIRMATION_PACING | Very, very often.
+   - 2: ERICKSON_BEHAVIORAL_VALIDATION | Now Ann is very, very free in discussing sex. She goes to bed in the nude. After sex relations she puts on her nightie. She likes to sleep in her nigh
+   - 3: ERICKSON_REFRAMING_AND_DIFFERENTIATION | You see, that would be a negative, hostile attitude on his part. That would be putting his wife in the nude in his presence, but also helping her to b
+   - 4: ERICKSON_REFRAMING | Poliomyelitis was the best teacher I ever had about human behavior and its potentials.
+
+7. Score: 0.0015
+   Sequence: ERICKSON_YES_SET_CONFIRMATION -> ERICKSON_NARRATIVE_REASSOCIATION -> ERICKSON_PERSONAL_NARRATIVE_UTILIZATION -> ERICKSON_REFRAMING
+   - 1: ERICKSON_YES_SET_CONFIRMATION | Yes, a tremendous number of interests.
+   - 2: ERICKSON_NARRATIVE_REASSOCIATION | Yes, and in August of 1919 I developed infantile paralysis. Finally I began using crutches, and then two canes, and then one cane. By the following su
+   - 3: ERICKSON_PERSONAL_NARRATIVE_UTILIZATION | I spent hours lying in bed trying to locate, by a sense of feeling, my foot, my toes, because I'd been told that I would be bedridden for the rest of 
+   - 4: ERICKSON_REFRAMING | Poliomyelitis was the best teacher I ever had about human behavior and its potentials.
+
+8. Score: 0.0014
+   Sequence: ERICKSON_PACING_INQUIRY -> ERICKSON_AGE_REGRESSION_TRANCE_DEEPENING -> ERICKSON_PACING_TRUISM
+   - 1: ERICKSON_PACING_INQUIRY | Where is that?
+   - 2: ERICKSON_AGE_REGRESSION_TRANCE_DEEPENING | Pennsylvania. (In a lilting voice.) How old are you?
+   - 3: ERICKSON_PACING_TRUISM | I notice that all of you are constantly changing your posture.
+
+9. Score: 0.0013
+   Sequence: ERICKSON_YES_SET_COMPLIANCE -> ERICKSON_PACING_AND_RAPPORT -> ERICKSON_UTILIZATION_PUN -> ERICKSON_TRUISM_UTILIZATION
+   - 1: ERICKSON_YES_SET_COMPLIANCE | No, today’s date. Your name, address, telephone number, your zip code, your degree, where you got it, your siblings and their sex and ages, your marit
+   - 2: ERICKSON_PACING_AND_RAPPORT | Pleased to meet you.
+   - 3: ERICKSON_UTILIZATION_PUN | Any number of bugs will be all right.
+   - 4: ERICKSON_TRUISM_UTILIZATION | I am partially color-blind.
+
+10. Score: 0.0013
+   Sequence: ERICKSON_PACING_UTILIZATION -> ERICKSON_DOUBLE_BIND_REINFORCEMENT -> ERICKSON_ILLUSION_OF_CHOICE
+   - 1: ERICKSON_PACING_UTILIZATION | Now he is stepping over to my side.
+   - 2: ERICKSON_DOUBLE_BIND_REINFORCEMENT | Gracie, I’m going to do something to you that you won’t like — to which you will object very strenuously. I will stop doing it just as soon as you go 
+   - 3: ERICKSON_ILLUSION_OF_CHOICE | Uncross your legs. Hold your hands on your knees. Does it make any difference if you count from here to there?
+
+[Reframing & Insight]
+--------------------------------------------------
+
+1. Score: 0.0050
+   Sequence: ERICKSON_PHONOLOGICAL_AMBIGUITY -> ERICKSON_LINGUISTIC_AMBIGUITY -> ERICKSON_PACING_AND_VALIDATION
+   - 1: ERICKSON_PHONOLOGICAL_AMBIGUITY | Here is another American joke. A lady saw a short-tailed cat at the railroad station and she asked the station keeper, “Manx?” And he said, “No, from 
+   - 2: ERICKSON_LINGUISTIC_AMBIGUITY | And most Americans don’t get it. The Manx cat out of Manx, England is naturally short-tailed. When the station master said, “Nope, from two to two to 
+   - 3: ERICKSON_PACING_AND_VALIDATION | You are a little bit surprised about your left hand?
+
+2. Score: 0.0049
+   Sequence: ERICKSON_REFRAMING_POSSIBILITY -> ERICKSON_REFRAMING_CONFRONTATION -> ERICKSON_PACING_AND_VALIDATION
+   - 1: ERICKSON_REFRAMING_POSSIBILITY | Does every small room have to have all the doors closed? Couldn’t a room be very small and still have the door wide open?
+   - 2: ERICKSON_REFRAMING_CONFRONTATION | Yes, but he's committed two sins: He's cheated her and he didn't give her.
+   - 3: ERICKSON_PACING_AND_VALIDATION | You are a little bit surprised about your left hand?
+
+3. Score: 0.0038
+   Sequence: ERICKSON_REFRAMING_AND_PARADOX -> ERICKSON_OPEN_ENDED_CURIOSITY -> ERICKSON_INDIRECT_SUGGESTION
+   - 1: ERICKSON_REFRAMING_AND_PARADOX | He just didn't remember it. But that damn trip to the library, that is reinforcing the memory but killing the interest. And very definitely killing th
+   - 2: ERICKSON_OPEN_ENDED_CURIOSITY | Find out what would happen.
+   - 3: ERICKSON_INDIRECT_SUGGESTION | She didn’t watch her wiggle and watch all the others wiggle. Now all of you understand what I mean when I say “watch the others wiggle.” You’re stayin
+
+4. Score: 0.0038
+   Sequence: ERICKSON_PHYSIOLOGICAL_ATTUNEMENT -> ERICKSON_STRATEGIC_PROVOCATION -> ERICKSON_INDIRECT_SUGGESTION
+   - 1: ERICKSON_PHYSIOLOGICAL_ATTUNEMENT | Now, tell me what happened. How is your heart rate?
+   - 2: ERICKSON_STRATEGIC_PROVOCATION | I am glad of that. Would you like to get even with Mrs. Linden?
+   - 3: ERICKSON_INDIRECT_SUGGESTION | She didn’t watch her wiggle and watch all the others wiggle. Now all of you understand what I mean when I say “watch the others wiggle.” You’re stayin
+
+5. Score: 0.0038
+   Sequence: ERICKSON_REFRAMING_AND_PATTERN_INTERRUPT -> ERICKSON_STRATEGIC_DIAGNOSIS -> ERICKSON_INDIRECT_SUGGESTION
+   - 1: ERICKSON_REFRAMING_AND_PATTERN_INTERRUPT | Then I would tell him, "Your wife needs a great deal of management, much more than I can give her, the kind of management that I would have to rely on
+   - 2: ERICKSON_STRATEGIC_DIAGNOSIS | He's the one that needs therapy.
+   - 3: ERICKSON_INDIRECT_SUGGESTION | She didn’t watch her wiggle and watch all the others wiggle. Now all of you understand what I mean when I say “watch the others wiggle.” You’re stayin
+
+6. Score: 0.0036
+   Sequence: ERICKSON_REFRAMING_PROCESS -> ERICKSON_DIAGNOSTIC_HEURISTIC -> ERICKSON_UTILIZATION_REFRAMING
+   - 1: ERICKSON_REFRAMING_PROCESS | She had time to digest the word.
+   - 2: ERICKSON_DIAGNOSTIC_HEURISTIC | In a woman with a low back pain you always suspect sexual difficulties.
+   - 3: ERICKSON_UTILIZATION_REFRAMING | Well, since I can’t get anything out of her, I will create a situation in which Mary can really teach us all a great deal.
+
+7. Score: 0.0036
+   Sequence: ERICKSON_PHYSIOLOGICAL_VALIDATION -> ERICKSON_UTILIZATION_EDUCATION -> ERICKSON_UTILIZATION_REFRAMING
+   - 1: ERICKSON_PHYSIOLOGICAL_VALIDATION | It's due to a different muscle tone. Her face is ironed out, there is greater plasticity and relaxation of all the muscles, including those controllin
+   - 2: ERICKSON_UTILIZATION_EDUCATION | She has this awakening reaction because I had not given her any specific instructions to disregard all extraneous stimuli while in trance. You need to
+   - 3: ERICKSON_UTILIZATION_REFRAMING | Well, since I can’t get anything out of her, I will create a situation in which Mary can really teach us all a great deal.
+
+8. Score: 0.0033
+   Sequence: ERICKSON_REFRAMING_OBSERVATION -> ERICKSON_INTER_CONTEXTUAL_CUES -> ERICKSON_CONSCIOUS_UNCONSCIOUS_DISSOCIATION
+   - 1: ERICKSON_REFRAMING_OBSERVATION | But when you think of the escape hatch, you are thinking of movement in terms of fear and escape.
+   - 2: ERICKSON_INTER_CONTEXTUAL_CUES | I had some repetitive dreams last night about some things that should be said about this. In giving suggestions and instruction to hypnotic subjects i
+   - 3: ERICKSON_CONSCIOUS_UNCONSCIOUS_DISSOCIATION | Now, another thing I want to call your attention to is the matter of hypnosis. Hypnosis is the ceasing to use your conscious awareness; in hypnosis yo
+
+9. Score: 0.0033
+   Sequence: ERICKSON_LOGICAL_GENERALIZATION -> ERICKSON_TRY_PARADOX -> ERICKSON_CONSCIOUS_UNCONSCIOUS_DISSOCIATION
+   - 1: ERICKSON_LOGICAL_GENERALIZATION | If I can put a trance in her hips, she has to recognize I can put a trance in her hands.
+   - 2: ERICKSON_TRY_PARADOX | Try to sit down.
+   - 3: ERICKSON_CONSCIOUS_UNCONSCIOUS_DISSOCIATION | Now, another thing I want to call your attention to is the matter of hypnosis. Hypnosis is the ceasing to use your conscious awareness; in hypnosis yo
+
+10. Score: 0.0032
+   Sequence: ERICKSON_REFRAMING_NOMINALIZATION -> ERICKSON_POSTHYPNOTIC_FEEDBACK_LOOP -> ERICKSON_CONSCIOUS_UNCONSCIOUS_DISSOCIATION
+   - 1: ERICKSON_REFRAMING_NOMINALIZATION | 우리는 이것을 '외부 현실의 희미해짐'이라고 부를 것입니다. 외부 현실이 희미해지면, 당신은 혼란을 느끼게 됩니다.
+   - 2: ERICKSON_POSTHYPNOTIC_FEEDBACK_LOOP | In future work with you, your unconscious is going to resort to that pupillary dilation many times to let Dr. H know that your unconscious is really t
+   - 3: ERICKSON_CONSCIOUS_UNCONSCIOUS_DISSOCIATION | Now, another thing I want to call your attention to is the matter of hypnosis. Hypnosis is the ceasing to use your conscious awareness; in hypnosis yo
+
+[Resistance & Utilization]
+--------------------------------------------------
+
+1. Score: 0.0049
+   Sequence: ERICKSON_PARADOXICAL_IMPLICATION -> ERICKSON_IDEOMOTOR_DYNAMICS -> ERICKSON_PACING_AND_VALIDATION
+   - 1: ERICKSON_PARADOXICAL_IMPLICATION | Yes, and she knows she's been trying to stay awake! It's been a difficult job to stay awake. Therefore by implication, it's easy to lapse into sleep o
+   - 2: ERICKSON_IDEOMOTOR_DYNAMICS | And I'd like to have you watch, look at my finger now. And I want you to notice something that happens to you. Take a deep breath, close your eyes. Th
+   - 3: ERICKSON_PACING_AND_VALIDATION | You are a little bit surprised about your left hand?
+
+2. Score: 0.0048
+   Sequence: ERICKSON_UTILIZATION_VULNERABILITY -> ERICKSON_NORMALIZATION_THROUGH_CURIOSITY -> ERICKSON_PACING_AND_VALIDATION
+   - 1: ERICKSON_UTILIZATION_VULNERABILITY | I must have had a slight dyslexia. I thought I knew for an absolute fact that when I said “co-mick-al, vin-
+   - 2: ERICKSON_NORMALIZATION_THROUGH_CURIOSITY | Good heavens, I even encountered them when I was a kid on the farm. The average psychiatrist does not ever try to find out those things. What's odd an
+   - 3: ERICKSON_PACING_AND_VALIDATION | You are a little bit surprised about your left hand?
+
+3. Score: 0.0048
+   Sequence: ERICKSON_UTILIZATION_AND_EXCLUSION -> ERICKSON_METAPHOR_INSIGHT -> ERICKSON_PACING_AND_VALIDATION
+   - 1: ERICKSON_UTILIZATION_AND_EXCLUSION | I saw them as they were. [Erickson draws a simple picture of a cloud effect with a 3 and an m in the center.] And this excluded everything else!
+   - 2: ERICKSON_METAPHOR_INSIGHT | Yes, I can’t remember anything else pertaining to that day. The most blinding, dazzling flash of light occurred in my sophomore year of high school. I
+   - 3: ERICKSON_PACING_AND_VALIDATION | You are a little bit surprised about your left hand?
+
+4. Score: 0.0048
+   Sequence: ERICKSON_UTILIZATION_OF_ENVIRONMENT -> ERICKSON_SELF_MODELING -> ERICKSON_PACING_AND_VALIDATION
+   - 1: ERICKSON_UTILIZATION_OF_ENVIRONMENT | In doing experimental hypnotic work with a subject in the laboratory I would notice we were all alone. The only thing present was the subject, the phy
+   - 2: ERICKSON_SELF_MODELING | Yes, I discovered I was in a trance with my subject. The next thing I wanted to learn was, could I do equally good work with reality all around me, or
+   - 3: ERICKSON_PACING_AND_VALIDATION | You are a little bit surprised about your left hand?
+
+5. Score: 0.0038
+   Sequence: ERICKSON_UTILIZATION_MOMENTUM -> ERICKSON_ANALOGY_REFRAMING -> ERICKSON_INDIRECT_SUGGESTION
+   - 1: ERICKSON_UTILIZATION_MOMENTUM | Yes, by the end of the hour she told me everything because once she told me one thing it led to the next. She finally found she had nothing she had an
+   - 2: ERICKSON_ANALOGY_REFRAMING | manipulative in the same sense as when you put salt on food to manipulate your sense of taste.
+   - 3: ERICKSON_INDIRECT_SUGGESTION | She didn’t watch her wiggle and watch all the others wiggle. Now all of you understand what I mean when I say “watch the others wiggle.” You’re stayin
+
+6. Score: 0.0038
+   Sequence: ERICKSON_UTILIZATION_AND_SELECTIVE_PERCEPTION -> ERICKSON_PROVOCATIVE_INQUIRY -> ERICKSON_INDIRECT_VALIDATION -> ERICKSON_PACING_AND_VALIDATION
+   - 1: ERICKSON_UTILIZATION_AND_SELECTIVE_PERCEPTION | Now your feelings may be positive, they may be negative, but I would like to have you feel exceedingly comfortable about this matter of a straightforw
+   - 2: ERICKSON_PROVOCATIVE_INQUIRY | What would happen if you spit on someone?
+   - 3: ERICKSON_INDIRECT_VALIDATION | And you did that so nicely, and I didn't tell her to do that.
+   - 4: ERICKSON_PACING_AND_VALIDATION | You are a little bit surprised about your left hand?
+
+7. Score: 0.0038
+   Sequence: ERICKSON_UTILIZATION_AND_RAPPORT -> ERICKSON_UTILIZATION_AND_CURIOSITY -> ERICKSON_INDIRECT_SUGGESTION
+   - 1: ERICKSON_UTILIZATION_AND_RAPPORT | And, stranger, what is your first name?
+   - 2: ERICKSON_UTILIZATION_AND_CURIOSITY | All right, my German friend, I just asked her if her middle name was Lee. Sarah Lee. Do you know why?
+   - 3: ERICKSON_INDIRECT_SUGGESTION | She didn’t watch her wiggle and watch all the others wiggle. Now all of you understand what I mean when I say “watch the others wiggle.” You’re stayin
+
+8. Score: 0.0035
+   Sequence: ERICKSON_UTILIZATION_AGREEMENT -> ERICKSON_PRESUPPOSITION_QUANTITY -> ERICKSON_REFRAMING_UTILIZATION
+   - 1: ERICKSON_UTILIZATION_AGREEMENT | Yes. Let’s protect the situation.
+   - 2: ERICKSON_PRESUPPOSITION_QUANTITY | How much hypnosis do you think you'll need to achieve a freedom from the disgusting qualities of fear and of claustrophobia?
+   - 3: ERICKSON_REFRAMING_UTILIZATION | Now, I want to make the accusation of all of you that you talk too softly. I think the truth is, I can’t hear so well.
+
+9. Score: 0.0035
+   Sequence: ERICKSON_UTILIZATION_OF_CONTEXT -> ERICKSON_PHYSIOLOGICAL_ANCHORING -> ERICKSON_REFRAMING_UTILIZATION
+   - 1: ERICKSON_UTILIZATION_OF_CONTEXT | While everybody looks on?
+   - 2: ERICKSON_PHYSIOLOGICAL_ANCHORING | Start looking. She’s going to unblink Blinky. And Blinky is predominantly right-eyed.
+   - 3: ERICKSON_REFRAMING_UTILIZATION | Now, I want to make the accusation of all of you that you talk too softly. I think the truth is, I can’t hear so well.
+
+10. Score: 0.0032
+   Sequence: ERICKSON_UTILIZATION_LINKING -> ERICKSON_LINKAGE_BIND -> ERICKSON_CONSCIOUS_UNCONSCIOUS_DISSOCIATION
+   - 1: ERICKSON_UTILIZATION_LINKING | And you can go into a trance just as easily and quickly as your unconscious answered that question just by continuing to watch as your unconscious min
+   - 2: ERICKSON_LINKAGE_BIND | As your hand moves up, your eyes will close, and you will go into a deep trance.
+   - 3: ERICKSON_CONSCIOUS_UNCONSCIOUS_DISSOCIATION | Now, another thing I want to call your attention to is the matter of hypnosis. Hypnosis is the ceasing to use your conscious awareness; in hypnosis yo

@@ -1,0 +1,26 @@
+=== MACRO-TOPOLOGY: ERICKSON'S MOST FREQUENT STRATEGY SHIFTS ===
+
+--- TOP 10 STRATEGY BIGRAMS (2-Step Combos) ---
+[부정적 예스-세트 (Cluster 3)] ---> [저항의 역설적 과제화 (Cluster 6)] (빈도: 127)
+[저항의 역설적 과제화 (Cluster 6)] ---> [부정적 예스-세트 (Cluster 3)] (빈도: 116)
+[허용적 전제 질문법 (Cluster 9)] ---> [시간적 지연과 과정의 유예 (Cluster 2)] (빈도: 89)
+[저항의 역설적 과제화 (Cluster 6)] ---> [우회적 성취 루프 (Cluster 5)] (빈도: 89)
+[우회적 성취 루프 (Cluster 5)] ---> [부정적 예스-세트 (Cluster 3)] (빈도: 88)
+[우회적 성취 루프 (Cluster 5)] ---> [저항의 역설적 과제화 (Cluster 6)] (빈도: 88)
+[부정적 예스-세트 (Cluster 3)] ---> [우회적 성취 루프 (Cluster 5)] (빈도: 83)
+[시간적 지연과 과정의 유예 (Cluster 2)] ---> [허용적 전제 질문법 (Cluster 9)] (빈도: 77)
+[허용적 전제 질문법 (Cluster 9)] ---> [저항의 역설적 과제화 (Cluster 6)] (빈도: 76)
+[허용적 전제 질문법 (Cluster 9)] ---> [부정적 예스-세트 (Cluster 3)] (빈도: 68)
+
+
+--- TOP 10 STRATEGY TRIGRAMS (3-Step Combos) ---
+[부정적 예스-세트 (Cluster 3)] ---> [저항의 역설적 과제화 (Cluster 6)] ---> [부정적 예스-세트 (Cluster 3)] (빈도: 26)
+[저항의 역설적 과제화 (Cluster 6)] ---> [부정적 예스-세트 (Cluster 3)] ---> [저항의 역설적 과제화 (Cluster 6)] (빈도: 23)
+[부정적 예스-세트 (Cluster 3)] ---> [저항의 역설적 과제화 (Cluster 6)] ---> [우회적 성취 루프 (Cluster 5)] (빈도: 20)
+[허용적 전제 질문법 (Cluster 9)] ---> [시간적 지연과 과정의 유예 (Cluster 2)] ---> [허용적 전제 질문법 (Cluster 9)] (빈도: 19)
+[부정적 예스-세트 (Cluster 3)] ---> [우회적 성취 루프 (Cluster 5)] ---> [부정적 예스-세트 (Cluster 3)] (빈도: 19)
+[시간적 지연과 과정의 유예 (Cluster 2)] ---> [허용적 전제 질문법 (Cluster 9)] ---> [시간적 지연과 과정의 유예 (Cluster 2)] (빈도: 18)
+[저항의 역설적 과제화 (Cluster 6)] ---> [우회적 성취 루프 (Cluster 5)] ---> [저항의 역설적 과제화 (Cluster 6)] (빈도: 18)
+[우회적 성취 루프 (Cluster 5)] ---> [부정적 예스-세트 (Cluster 3)] ---> [저항의 역설적 과제화 (Cluster 6)] (빈도: 16)
+[우회적 성취 루프 (Cluster 5)] ---> [부정적 예스-세트 (Cluster 3)] ---> [우회적 성취 루프 (Cluster 5)] (빈도: 16)
+[허용적 전제 질문법 (Cluster 9)] ---> [저항의 역설적 과제화 (Cluster 6)] ---> [부정적 예스-세트 (Cluster 3)] (빈도: 15)

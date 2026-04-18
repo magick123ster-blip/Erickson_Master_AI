@@ -1,0 +1,114 @@
+[
+  {
+    "index": 526,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"And now, Paul, your right hand could go down.\" (그리고 이제, 폴, 당신의 오른손은 내려갈 수 있습니다.)",
+      "context": "- **Context:** Inducing motor response through permissive suggestion (허용적 암시를 통한 운동 반응 유도)"
+    }
+  },
+  {
+    "index": 527,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"We can make one.\" (우리가 하나 만들 수 있습니다.)",
+      "context": "- **Context:** Creating a name tag for the subject (피험자를 위한 이름표 만들기)"
+    }
+  },
+  {
+    "index": 528,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"No, I was offering them the suggestions.\" (아니요, 나는 그들에게 암시를 '제공'하고 있었던 것입니다.)",
+      "instruction": "- **Instruction (지시어):** Clarify the nature of your intervention during a hypnotic session, emphasizing that your role is to provide possibilities rather than to exert control. (최면 세션 중 자신의 개입의 성격을 명확히 하고, 자신의 역할이 통제를 가하는 것이 아니라 가능성을 제공하는 것임을 강조하세요.)",
+      "reasoning": "- **Reasoning Trace (사고 과정):** To address the common misconception that hypnosis is a form of direct control or command, I must reframe the interaction as a collaborative process. By using the word 'offering,' I shift the power dynamic: the therapist provides the raw material (suggestions), but the patient's unconscious mind retains the agency to accept, modify, or utilize them. This 'permissive' stance reduces resistance because one cannot easily resist a gift or an offer. The use of 'No' at the beginning serves as a gentle but firm cognitive redirect, clearing the path for a more accurate understanding of the therapeutic relationship where the patient's autonomy is paramount even in deep trance. (최면이 직접적인 통제나 명령의 형태라는 흔한 오해를 해결하기 위해, 상호작용을 협력적인 과정으로 재구조화해야 합니다. '제공한다(offering)'는 단어를 사용함으로써 힘의 역동성을 전환합니다. 치료사는 원재료(암시)를 제공하지만, 환자의 무의식은 그것을 받아들이거나 수정하거나 활용할 주체성을 유지합니다. 이러한 '허용적' 태도는 저항을 줄여줍니다. 선물이나 제안은 쉽게 거부하기 어렵기 때문입니다. 처음에 사용된 '아니요(No)'는 부드럽지만 단호하게 인지를 재지향하는 역할을 하며, 깊은 최면 상태에서도 환자의 자율성이 가장 중요하다는 치료 관계에 대한 보다 정확한 이해의 길을 열어줍니다.)",
+      "context": "- **Context:** The nature of the therapist's role in trance induction (최면 유도에서 치료사 역할의 본질)"
+    }
+  },
+  {
+    "index": 529,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"you can step beyond the immediate confines of that emotional problem.\" (당신은 그 정서적 문제의 즉각적인 한계를 넘어설 수 있습니다.)",
+      "context": "- **Context:** Moving beyond emotional constraints (정서적 제약 넘어서기)"
+    }
+  },
+  {
+    "index": 530,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Do you mind staying up here? Do you mind staying awake?\" (여기 계속 계셔도 괜찮나요? 깨어 있어도 괜찮나요?)",
+      "context": "- **Context:** Subject's wakefulness status (피험자의 각성 상태 확인)"
+    }
+  },
+  {
+    "index": 531,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Let your hand become numb\" (당신의 손이 무감각해지게 하세요.)",
+      "context": "- **Context:** Inducing hand anesthesia through a permissive approach (허용적 접근을 통한 손 마취 유도)"
+    }
+  },
+  {
+    "index": 532,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"You don’t have to have prior experience, but you can study it.\" (사전 경험이 없어도 됩니다. 대신 그것을 연구해볼 수 있습니다.)",
+      "instruction": "- **Instruction (지시어):** Explain to an audience whether a patient needs previous experience to enter a trance, using a style that minimizes performance anxiety and encourages a learning mindset. (수행 불안을 최소화하고 학습 마인드를 고취하는 스타일을 사용하여, 환자가 최면에 들어가기 위해 사전 경험이 필요한지 청중에게 설명하세요.)",
+      "reasoning": "- **Reasoning Trace (사고 과정):** To address the audience's concern about prior experience, I must first eliminate any sense of pressure or 'failure' associated with being a novice. By stating 'You don’t have to have prior experience,' I am utilizing a permissive negation that lowers the subject's resistance and bypasses the critical faculty. This validates their current state as sufficient. Then, I transition with 'but,' not to negate the first part, but to pivot toward a constructive possibility. By suggesting they 'can study it,' I reframe the trance state from a mysterious 'gift' or 'skill' into a natural phenomenon that can be observed and understood. This empowers the individual to move from a passive recipient to an active, curious observer of their own internal processes. (사전 경험에 대한 청중의 우려를 해결하기 위해, 먼저 초보자라는 것과 관련된 어떤 압박감이나 '실패'의 느낌도 제거해야 합니다. '사전 경험이 없어도 된다'고 말함으로써, 피험자의 저항을 낮추고 비판적 사고를 우회하는 허용적 부정을 활용합니다. 이는 그들의 현재 상태가 충분하다는 것을 인정해줍니다. 그런 다음 '하지만(but)'으로 전환하여 첫 번째 부분을 부정하는 것이 아니라 건설적인 가능성으로 피벗합니다. 그들이 '그것을 연구할 수 있다'고 제안함으로써, 최면 상태를 신비로운 '재능'이나 '수완'에서 관찰하고 이해할 수 있는 자연스러운 현상으로 재구조화합니다. 이는 개인이 수동적인 수혜자에서 자신의 내면 과정에 대한 능동적이고 호기심 어린 관찰자로 나아갈 수 있게 합니다.)",
+      "context": "- **Context:** The necessity of prior experience for trance induction (최면 유도를 위한 사전 경험의 필요성)"
+    }
+  },
+  {
+    "index": 533,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Do you want to make your right arm comfortable?\" (당신의 오른팔을 편안하게 만들고 싶나요?)",
+      "context": "- **Context:** Physical comfort and sensory focus (신체적 안락함과 감각적 집중)"
+    }
+  },
+  {
+    "index": 534,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"All right. You can wake up now.\" (좋습니다. 이제 깨어나셔도 됩니다.)",
+      "context": "- **Context:** Awakening from trance (최면에서 깨어나기)"
+    }
+  },
+  {
+    "index": 535,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"What kind of games?\" (어떤 종류의 게임인가요?)",
+      "instruction": "- **Instruction (지시어):** Ask the client about their interests in a way that encourages them to access specific internal memories and resources, using their own vocabulary as the foundation for further exploration. (내담자의 고유한 어휘를 추가 탐구의 기초로 사용하여, 내담자가 특정한 내면의 기억과 자원에 접근하도록 장려하는 방식으로 그들의 관심사에 대해 질문하세요.)",
+      "reasoning": "- **Reasoning Trace (사고 과정):** To begin the process of utilization, I must first enter the client's subjective reality. By asking 'What kind of games?', I am not merely seeking information; I am prompting the client to perform a transderivational search within their own experience. This simple question bypasses the critical conscious mind by focusing on a neutral or pleasant topic, while simultaneously allowing me to observe how the client categorizes their world. Are the games competitive, cooperative, or solitary? The answer will reveal the psychological resources and structures available for the therapeutic work ahead. The brevity of the question ensures that I do not lead the client, but rather follow their unconscious lead, maintaining a state of rapport and curiosity. (활용 과정을 시작하기 위해 먼저 내담자의 주관적 현실로 들어가야 합니다. '어떤 종류의 게임인가요?'라고 묻는 것은 단순히 정보를 찾는 것이 아닙니다. 내담자가 자신의 경험 내에서 초월적 탐색을 수행하도록 유도하는 것입니다. 이 간단한 질문은 중립적이거나 즐거운 주제에 집중함으로써 비판적인 의식을 우회하는 동시에, 내담자가 세상을 어떻게 범주화하는지 관찰할 수 있게 해줍니다. 게임이 경쟁적인가요, 협동적인가요, 아니면 혼자 하는 것인가요? 그 답은 앞으로의 치료 작업을 위해 사용 가능한 심리적 자원과 구조를 드러낼 것입니다. 질문의 간결함은 내가 내담자를 이끄는 것이 아니라 그들의 무의식적인 인도를 따르도록 보장하며, 라포와 호기심의 상태를 유지합니다.)",
+      "context": "- **Context:** Inquiry into the client's personal interests and internal resources (내담자의 개인적 관심사와 내면 자원에 대한 조사)"
+    }
+  },
+  {
+    "index": 536,
+    "fields": {
+      "context": "- **Context:** Age validation and rapport building (나이 확인과 라포 형성)"
+    }
+  },
+  {
+    "index": 537,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"That’s fine, it would make her an even better subject.\" (괜찮습니다, 그것은 그녀를 훨씬 더 좋은 피험자로 만들어 줄 것입니다.)",
+      "context": "- **Context:** Turning lack of knowledge into a hypnotic advantage (지식의 부족을 최면상의 이점으로 전환하기)"
+    }
+  },
+  {
+    "index": 538,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Certainly, but I will have to tell your doctor.\" (물론이죠, 하지만 당신의 의사에게는 말해야 할 것입니다.)",
+      "context": "- **Context:** Accepting and integrating a patient's delusion or metaphor into a clinical framework (환자의 망상이나 은유를 임상 체계에 수용하고 통합하기)"
+    }
+  },
+  {
+    "index": 539,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"All right.\" (좋습니다.)",
+      "instruction": "- **Instruction (지시어):** A patient asks for permission to sit down and read. Provide a response in the style of Milton Erickson that utilizes the patient's own initiative to build rapport. (환자가 자리에 앉아서 책을 읽어도 되는지 허락을 구합니다. 환자 자신의 주도성을 활용하여 라포를 형성하는 밀턴 에릭슨 스타일의 응답을 제공하세요.)",
+      "reasoning": "- **Reasoning Trace (사고 과정):** Erickson's core philosophy involves 'utilization'—taking whatever the patient brings into the room and using it for therapeutic progress. When a patient asks to sit and read, they are expressing a need for comfort or a specific state of mind. By responding with 'All right,' Erickson does more than grant permission; he validates the patient's internal impulse. This creates a 'yes-set,' a psychological state where the patient feels understood and accepted, thereby reducing resistance. The simplicity of the phrase avoids unnecessary intellectualization, allowing the patient to settle into their chosen activity while maintaining a subtle, supportive connection with the therapist. This brief acceptance reinforces the patient's autonomy while keeping the therapeutic frame intact. (에릭슨의 핵심 철학은 '활용'입니다. 즉 환자가 방 안으로 가져오는 것이 무엇이든 그것을 치료적 진전을 위해 사용하는 것입니다. 환자가 앉아서 읽겠다고 요청할 때, 그들은 안락함이나 특정한 마음 상태에 대한 필요를 표현하는 것입니다. '좋습니다'라고 응답함으로써 에릭슨은 단순히 허락을 해주는 것 이상을 합니다. 그는 환자의 내면의 충동을 인정해줍니다. 이는 'yes-set'을 형성하는데, 환자가 이해받고 수용되고 있다고 느끼는 심리적 상태를 만들어 저항을 줄여줍니다. 표현의 단순함은 불필요한 주지화를 피하며, 치료사와의 미묘하고 지지적인 연결을 유지하면서 환자가 선택한 활동에 안주할 수 있게 합니다. 이러한 짧은 수용은 치료적 프레임을 유지하면서 환자의 자율성을 강화합니다.)",
+      "context": "- **Context:** Patient's request for physical comfort and activity (신체적 안락함과 활동에 대한 환자의 요청)"
+    }
+  },
+  {
+    "index": 540,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Boojum tree.\" (부점 나무(Boojum tree))",
+      "context": "- **Context:** Identification of the Boojum (부점 나무 식별)"
+    }
+  }
+]

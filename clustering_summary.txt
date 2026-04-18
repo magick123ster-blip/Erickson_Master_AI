@@ -1,0 +1,12 @@
+Cluster 1: Keywords: verb, punct, pron, 내담자의, aux, noun, 라는 | Typical Patterns: ERICKSON_PRESUPPOSITION, ERICKSON_TRUISM_PACING, ERICKSON_PERMISSIVE_SUGGESTION
+Cluster 2: Keywords: verb, noun, adp, det, punct, pron, aux | Typical Patterns: ERICKSON_ORDEAL_THERAPY, ERICKSON_STRATEGIC_CONFRONTATION, ERICKSON_OBSERVATION_UTILIZATION
+Cluster 3: Keywords: verb, noun, propn, punct, adp, pron, det | Typical Patterns: ERICKSON_UTILIZATION_ORIENTATION, ERICKSON_IDEODYNAMIC_METAPHOR, ERICKSON_TRANSDERIVATIONAL_SEARCH
+Cluster 4: Keywords: verb, noun, pron, punct, aux, adp, det | Typical Patterns: ERICKSON_OBSERVATIONAL_PRECISION, ERICKSON_UTILIZATION_REFRAMING, ERICKSON_INDUCTION_REGRESSION
+Cluster 5: Keywords: verb, aux, punct, pron, noun, adj, adv | Typical Patterns: ERICKSON_UNCONSCIOUS_VALIDATION, ERICKSON_UTILIZATION_REFRAMING, ERICKSON_REFRAMING_TRUISM
+Cluster 6: Keywords: propn, verb, punct, noun, adp, compound, det | Typical Patterns: ERICKSON_UTILIZATION_METAPHOR, ERICKSON_DIRECTIVE_TASKING, ERICKSON_CURIOSITY_INDUCTION
+Cluster 7: Keywords: verb, pron, punct, aux, noun, adp, adv | Typical Patterns: ERICKSON_UTILIZATION_RESISTANCE, ERICKSON_UTILIZATION_TRUISM, ERICKSON_REFRAMING_UTILIZATION
+Cluster 8: Keywords: noun, verb, det, adp, punct, pron, pobj | Typical Patterns: ERICKSON_ORDEAL_THERAPY, ERICKSON_OBSERVATIONAL_ACUITY, ERICKSON_CONTRAST_ANALOGY
+Cluster 9: Keywords: verb, pron, punct, noun, aux, adp, patient | Typical Patterns: ERICKSON_UTILIZATION_REFRAME, ERICKSON_TRUISM_YES_SET, ERICKSON_PERMISSIVE_SUGGESTION
+Cluster 10: Keywords: verb, noun, aux, punct, adp, pron, det | Typical Patterns: ERICKSON_PHYSIOLOGICAL_PACING_AND_UTILIZATION, ERICKSON_UTILIZATION_RESISTANCE, ERICKSON_INDIRECT_SUGGESTION_AND_CHALLENGE
+Cluster 11: Keywords: verb, noun, det, adp, punct, pron, aux | Typical Patterns: ERICKSON_REFRAMING_UTILIZATION, ERICKSON_POST_HYPNOTIC_SUGGESTION, ERICKSON_PERMISSIVE_SUGGESTION
+Cluster 12: Keywords: punct, verb, noun, pron, aux, det, adp | Typical Patterns: ERICKSON_METAPHOR_EXPANSION, ERICKSON_EXPERIENTIAL_LEARNING, ERICKSON_UTILIZATION_VALUES

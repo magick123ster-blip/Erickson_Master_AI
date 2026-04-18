@@ -1,0 +1,115 @@
+[
+  {
+    "index": 436,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"And he has to follow his own patterns of behavior!\" (그리고 그는 그 자신의 행동 패턴을 따라야만 합니다!)",
+      "context": "- **Context:** The inevitability of the subject's behavioral patterns (피험자의 행동 패턴의 필연성)"
+    }
+  },
+  {
+    "index": 437,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"There are so many forces: foci of attention.\" (매우 많은 힘들이 있습니다. 바로 주의의 초점들이죠.)",
+      "instruction": "- **Instruction (지시어):** Explain the phenomenon of distractions or interferences during trance induction in a way that validates the patient's experience while reframing those distractions as natural psychological mechanisms. (최면 유도 중 산만함이나 방해 현상을 환자의 경험을 인정하면서도 그러한 산만함을 자연스러운 심리적 기제로 재구조화하는 방식으로 설명하세요.)",
+      "reasoning": "- **Reasoning Trace (사고 과정):** First, I must acknowledge the patient's subjective reality—that they feel 'forces' are preventing them from entering trance. By stating 'There are so many forces,' I am pacing their current experience and building rapport through validation. Second, I need to reframe these 'forces' from being obstacles into something manageable and neutral. I choose the term 'foci of attention' because it shifts the focus from an external 'interference' to an internal 'process.' This categorization allows the patient to realize that their distraction is simply their attention being placed elsewhere, which is a function they can eventually learn to redirect. The use of a simple, declarative truism bypasses conscious resistance by stating an undeniable psychological fact. (첫째, 환자의 주관적 현실, 즉 '힘들'이 최면에 들어가는 것을 방해하고 있다는 느낌을 인정해야 합니다. '매우 많은 힘들이 있다'고 말함으로써 그들의 현재 경험을 보조(pacing)하고 인정을 통해 라포를 형성합니다. 둘째, 이러한 '힘들'을 장애물에서 관리 가능하고 중립적인 것으로 재구조화해야 합니다. 외부의 '방해'에서 내부의 '과정'으로 초점을 전환하기 위해 '주의의 초점'이라는 용어를 선택합니다. 이러한 범주화는 환자로 하여금 자신의 산만함이 단순히 주의가 다른 곳에 놓여 있는 것뿐이며, 이는 결국 스스로 재지향하는 법을 배울 수 있는 기능임을 깨닫게 해줍니다. 단순하고 평서문 형태인 진실(truism)의 사용은 명백한 심리적 사실을 진술함으로써 의식적인 저항을 우회합니다.)",
+      "context": "- **Context:** Forces interfering with trance induction (최면 유도를 방해하는 힘)"
+    }
+  },
+  {
+    "index": 438,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Only 20 percent belief in catalepsy, yet he has muscles. He has had long experience in growing and using his muscles, but how much fuss do we make about developing our ability to test sensations? We accept sensations, but we learn to develop our control over our muscles.\" (부동 상태(catalepsy)에 대해서는 20퍼센트 정도만 믿고 있지만, 그럼에도 그에게는 근육이 있습니다. 그는 근육을 기르고 사용하는 데 오랜 경험이 있지만, 우리가 감각을 테스트하는 능력을 개발하는 데 얼마나 공을 들입니까? 우리는 감각을 받아들이지만, 근육에 대한 통제력을 개발하는 법은 배웁니다.)",
+      "context": "- **Context:** Catalepsy and muscle control (부동 상태와 근육 통제)"
+    }
+  },
+  {
+    "index": 439,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"You haven’t given it much thought. Well, give it some thought.\" (당신은 그것에 대해 별로 생각해보지 않았군요. 자, 이제 생각을 좀 해보세요.)",
+      "instruction": "- **Instruction (지시어):** Encourage the subject to focus on their physical sensations by first acknowledging their current state of unawareness and then directing them to begin the process of internal observation. (피험자가 현재 인식하지 못하는 상태를 먼저 인정한 다음, 내면의 관찰 과정을 시작하도록 지시함으로써 자신의 신체 감각에 집중하도록 장려하세요.)",
+      "reasoning": "- **Reasoning Trace (사고 과정):** To minimize resistance, I first start with a 'pacing' statement that describes the subject's current reality: they haven't been focusing on their body. This is a truism that the subject's conscious mind must accept as true. Once this rapport is established, I use the word 'Well' as a linguistic bridge to pivot the direction of their attention. I then provide a direct but gentle suggestion ('give it some thought') to initiate the desired psychological shift. The repetition of the word 'thought' creates a rhythmic consistency that makes the transition from 'not thinking' to 'thinking' feel like a natural and inevitable progression of their current state. (저항을 최소화하기 위해, 먼저 피험자의 현재 실재를 묘사하는 '보조(pacing)' 진술로 시작합니다. 즉, 그들이 자신의 신체에 집중하지 않고 있었다는 사실입니다. 이는 피험자의 의식이 사실로 받아들여야만 하는 진실(truism)입니다. 라포가 형성되면, '자(Well)'라는 단어를 언어적 다리로 사용하여 주의의 방향을 전환합니다. 그런 다음 원하는 심리적 변화를 일으키기 위해 직접적이면서도 부드러운 암시('생각을 좀 해보세요')를 제공합니다. '생각'이라는 단어의 반복은 '생각하지 않음'에서 '생각함'으로의 전환이 현재 상태의 자연스럽고 필연적인 진행처럼 느껴지게 하는 리드미컬한 일관성을 만들어냅니다.)",
+      "context": "- **Context:** Physical state awareness and introspection (신체 상태에 대한 인식과 자기 성찰)"
+    }
+  },
+  {
+    "index": 440,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"And I would like to have you become interested in all of the things that you as a person can do in the utilization of your own physiological learnings, your own psychological learnings. I'd like to have you respect yourself as a human being with certain competencies and certain inadequacies such as we all possess; yours that make up your personality, that give you your individuality. And the same to you, Joan. Id like to have both of you close your eyes. Mary, close your eyes and take a deep breath. Close your eyes, Joan, and take a deep breath. And feel very comfortable. And now take a deep breath and wake up wide awake and rested and refreshed. Hi!\" (그리고 나는 당신이 한 사람으로서 당신 자신의 생리적 학습과 심리적 학습을 활용하여 할 수 있는 모든 일에 관심을 갖게 되기를 바랍니다. 우리 모두가 가지고 있는 특정한 능력과 부족함을 가진 인간으로서 당신 자신을 존중했으면 합니다. 당신의 인격을 형성하고 개성을 부여하는 것들 말이죠. 조안, 당신에게도 마찬가지입니다. 두 분 다 눈을 감으셨으면 좋겠군요. 메리, 눈을 감고 심호흡을 하세요. 조안, 눈을 감고 심호흡을 하세요. 그리고 아주 편안함을 느끼세요. 이제 다시 심호흡을 하고 완전히 깨어나서 휴식을 취하고 상쾌한 기분을 느끼세요. 안녕!)",
+      "context": "- **Context:** Self-acceptance and physiological/psychological integration (자기 수용과 생리적/심리적 통합)"
+    }
+  },
+  {
+    "index": 441,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"You didn’t want to go into a trance a few minutes ago, did you?\" (몇 분 전까지만 해도 최면에 들어가고 싶지 않았죠, 그렇지 않나요?)",
+      "context": "- **Context:** Validating past resistance to build rapport and agreement (라포와 동의 형성을 위해 과거의 저항 인정하기)"
+    }
+  },
+  {
+    "index": 442,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"You will never forget anything. I told you some time ago that I do say the same things.\" (당신은 절대로 아무것도 잊지 않을 것입니다. 얼마 전에 내가 똑같은 말을 한다고 당신에게 말했었죠.)",
+      "context": "- **Context:** Memory retention and therapeutic consistency (기억 유지와 치료적 일관성)"
+    }
+  },
+  {
+    "index": 443,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Now that you have awakened and you notice that everything is fine, you might as well go right back to sleep.\" (이제 당신이 깨어났고 모든 것이 괜찮다는 것을 확인했으니, 바로 다시 잠드는 것이 좋겠군요.)"
+    }
+  },
+  {
+    "index": 444,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Perhaps you would like to keep your eyes open, and I would like to have you do so as long as you can. Naturally, we all blink our eyes sooner or later. We have done that all our lives, and regardless of how hard we try to keep from blinking our eyes we are really going to blink sooner or later. But you can do your level best to hold your eyes wide open, and that may be your desire, but your eyes have a desire, too, and your eyes are going to blink.\" (어쩌면 당신은 눈을 뜨고 있고 싶을 수도 있고, 나 역시 당신이 할 수 있는 한 그렇게 하기를 원합니다. 당연하게도 우리 모두는 조만간 눈을 깜빡입니다. 우리는 평생 그렇게 해왔고, 눈을 깜빡이지 않으려고 아무리 노력해도 결국 조만간 눈을 깜빡이게 될 것입니다. 당신은 눈을 크게 뜨기 위해 최선을 다할 수 있고 그것이 당신의 바람일 수도 있겠지만, 당신의 눈 또한 바람이 있으며 당신의 눈은 깜빡일 것입니다.)",
+      "context": "- **Context:** Utilizing resistance during hypnotic induction through physiological truisms (생리적 진실을 통해 최면 유도 중의 저항 활용하기)"
+    }
+  },
+  {
+    "index": 445,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"You know, when you sit in a chair, when you listen to somebody talk, when you are just looking at television, when you are listening to the noises in the street, listening to an orchestra, you shift a foot here, you shift a foot there, you alter your position in your chair. And as I am talking to you, you perhaps will feel an urge to move your hand, perhaps to shift your shoulders a little bit, perhaps to alter the exact position in your chair,\" (아시다시피, 의자에 앉아 있을 때, 누군가 말하는 것을 들을 때, 텔레비전을 보고 있을 때, 거리의 소음이나 교향악단의 연주를 들을 때, 당신은 발을 이리저리 움직이고 의자에서의 자세를 바꿉니다. 그리고 내가 당신에게 말하는 동안, 당신은 아마도 손을 움직이고 싶거나 어깨를 조금 들썩이고 싶거나 의자에서의 정확한 위치를 바꾸고 싶은 충동을 느낄 것입니다.)",
+      "context": "- **Context:** Addressing resistance through natural physical movement and utilization (자연스러운 신체 움직임과 활용을 통한 저항 다루기)"
+    }
+  },
+  {
+    "index": 446,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Now, let us get one thing straight. That left thumb of yours is your thumb; that mouth of yours is your mouth; those front teeth of yours are your front teeth. I think you are entitled to do anything you want to with your thumb, with your mouth, and with your teeth. They are yours, and let us get that straight. I want you to do anything you want to do.\" (자, 한 가지는 분명히 해둡시다. 당신의 그 왼쪽 엄지손가락은 당신의 손가락이고, 당신의 입은 당신의 입이며, 그 앞니들은 당신의 치아입니다. 나는 당신이 당신의 손가락과 입, 치아를 가지고 원하는 것은 무엇이든 할 권리가 있다고 생각합니다. 그것들은 당신의 것이고, 그 점을 분명히 합시다. 나는 당신이 하고 싶은 대로 하기를 바랍니다.)",
+      "instruction": "- **Instruction (지시어):** Create a therapeutic dialogue for a child named Jimmy who sucks his left thumb, using Milton Erickson's technique of utilization and establishing personal autonomy to bypass resistance. (밀턴 에릭슨의 활용 기법을 사용하고 개인적 자율성을 확립하여 저항을 우회함으로써, 왼쪽 엄지손가락을 빠는 지미라는 이름의 어린이를 위한 치료적 대화를 만드세요.)",
+      "reasoning": "- **Reasoning Trace (사고 과정):** First, I must establish a 'Yes-set' by stating undeniable physical facts (truisms) such as 'your thumb is your thumb.' This builds immediate rapport and subconscious agreement. Second, I will shift the psychological frame from 'a bad habit that needs to be stopped by an adult' to 'personal property owned by the child.' By emphasizing 'your thumb' and 'your teeth,' I am returning the responsibility of the body parts to Jimmy. Third, I will use paradoxical intention by giving him full permission to do whatever he wants. This eliminates the power struggle; if he is 'allowed' to do it, the act of sucking his thumb is no longer a form of rebellion or a secret comfort against authority, but a conscious choice he must now manage himself. The repetition of 'get that straight' adds a serious, contract-like tone to this empowerment. (첫째, '너의 엄지는 너의 엄지다'와 같이 부인할 수 없는 신체적 사실(truism)을 진술하여 'Yes-set'을 구축해야 합니다. 이는 즉각적인 라포와 잠재의식적 동의를 형성합니다. 둘째, 심리적 프레임을 '어른이 멈추게 해야 할 나쁜 습관'에서 '어린이가 소유한 개인적 자산'으로 전환합니다. '네 손가락'과 '네 치아'를 강조함으로써 신체 부위에 대한 책임을 지미에게 돌려줍니다. 셋째, 그에게 무엇이든 원하는 대로 할 수 있는 완전한 허가를 줌으로써 역설적 의도를 사용합니다. 이는 권력 다툼을 제거합니다. 만약 그가 그것을 '허락'받았다면, 엄지손가락을 빠는 행위는 더 이상 권위에 대한 반항이나 은밀한 위안이 아니라 그가 직접 관리해야 할 의식적인 선택이 됩니다. '분명히 해두자'는 반복은 이러한 권한 부여에 진지하고 계약과 같은 어조를 더합니다.)",
+      "context": "- **Context:** Addressing a child's thumb-sucking habit through ownership and autonomy (소유권과 자율성을 통해 아이의 엄지손가락 빠는 습관 다루기)"
+    }
+  },
+  {
+    "index": 447,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"I lectured there a number of years ago. Now I am engaged in social chitchat for the passage of time.\" (나는 수년 전에 그곳에서 강의했습니다. 지금은 시간을 보내기 위해 사교적인 잡담을 하고 있는 중입니다.)",
+      "context": "- **Context:** Establishing professional authority followed by a strategic meta-description of the current social interaction (전문가적 권위를 세운 뒤 현재의 사교적 상호작용에 대한 전략적 메타 묘사)"
+    }
+  },
+  {
+    "index": 448,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"You deal with the patient as a total historical being. You can rely on those neurological tracks and memories of long duration much more than you can on the very recent ones.\" (당신은 환자를 총체적인 역사적 존재로 대해야 합니다. 아주 최근의 기억보다는 오랜 기간 지속되어 온 신경학적 경로와 기억을 훨씬 더 신뢰할 수 있습니다.)",
+      "instruction": "- **Instruction (지시어):** Explain the therapeutic value of viewing a patient through their entire life history and why long-term neurological patterns are more dependable than recent ones. (환자를 평생의 역사로 바라보는 것의 치료적 가치와 왜 장기적인 신경학적 패턴이 최근의 것보다 더 신뢰할 수 있는지를 설명하세요.)",
+      "reasoning": "- **Reasoning Trace (사고 과정):** To influence the therapist's or the patient's perception of stability, I must first redefine the patient as a 'total historical being.' This immediately shifts the focus from the acute, often chaotic present symptoms to a broader, more stable timeline of existence. By using the term 'neurological tracks,' I provide a biological anchor for psychological change, making the process feel tangible and inevitable. I then employ a truism: the fact that long-term memories and deeply ingrained patterns are more resilient than recent, often stressful experiences. This comparison serves to bypass conscious resistance by appealing to the inherent strength of the unconscious mind's history. The goal is to encourage reliance on the vast, untapped resources of the patient's past successes and established neural pathways rather than the fragile, recent narratives of the problem. (치료사나 환자의 안정감에 대한 인식을 변화시키기 위해, 먼저 환자를 '총체적 역사적 존재'로 재정의해야 합니다. 이는 초점을 급성이고 종종 혼란스러운 현재 증상에서 보다 넓고 안정적인 존재의 타임라인으로 즉시 전환합니다. '신경학적 경로'라는 용어를 사용함으로써 심리적 변화를 위한 생물학적 닻을 제공하고, 그 과정이 실체적이고 필연적으로 느껴지게 합니다. 그런 다음 진실(truism)을 사용합니다. 즉, 장기 기억과 깊이 박힌 패턴은 최근의 스트레스가 심한 경험보다 더 탄력적이라는 사실입니다. 이 비교는 무의식이 가진 역사의 고유한 힘에 호소함으로써 의식적인 저항을 우회하는 역할을 합니다. 목표는 문제에 대한 취약하고 최근의 이야기에 의존하기보다, 환자의 과거 성공 사례와 구축된 신경 경로라는 방대한 미개척 자원에 의존하도록 장려하는 것입니다.)",
+      "context": "- **Context:** The reliability of long-term neurological tracks in clinical practice (임상 실제에서 장기 신경학적 경로의 신뢰성)"
+    }
+  },
+  {
+    "index": 449,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Now there are various changes that take place in you. Your heart is beating at a different rate. Your breathing has changed. Your reflexes have altered. And you are doing the same thing now that you did when you first went to school. You looked at letters of the alphabet. They seemed impossible to learn. But you did learn them. And you developed a mental image of the letters and the numerals. And you developed a mental image of each of them in various forms that stayed with you for the rest of your life. You have looked at that one spot long enough so you have a mental image, and you do not know where it is in your mind. You can close your eyes N. . .O. . . W\" (이제 당신에게 여러 가지 변화가 일어나고 있습니다. 심장 박동수가 달라졌고, 호흡이 변했으며, 반사 작용도 달라졌습니다. 그리고 당신은 지금 처음 학교에 갔을 때 했던 것과 똑같은 일을 하고 있습니다. 당신은 알파벳 글자들을 보았습니다. 그것들은 배우는 것이 불가능해 보였죠. 하지만 당신은 그것들을 배웠습니다. 그리고 당신은 글자와 숫자에 대한 정신적 이미지를 발전시켰습니다. 당신은 평생 당신과 함께할 다양한 형태의 각 이미지들을 만들어냈죠. 당신은 그 한 지점을 충분히 오랫동안 바라보았기에 정신적 이미지를 갖게 되었습니다. 그리고 그것이 당신의 마음속 어디에 있는지 당신은 모릅니다. 당신은 눈을 감을 수 있습니다. 지. . .금. . .요.)",
+      "reasoning": "- **Reasoning Trace (사고 과정):** First, I will use 'truisms'—undeniable statements about physiological changes (heart rate, breathing, reflexes)—to establish a 'Yes-Set' and pace the client's current experience. Second, I will bridge the present moment to a childhood memory of learning the alphabet. This serves two purposes: it utilizes the client's existing capacity for learning and suggests that complex tasks (like entering a trance) eventually become automatic. Third, I will shift the focus from external stimuli to internal 'mental images,' encouraging the internalization of attention. Fourth, I will introduce a subtle suggestion of 'not knowing' to bypass the conscious mind's need for control. Finally, I will deliver a direct command to close the eyes, punctuated by the temporal marker 'NOW' to trigger the transition into trance. (첫째, 클라이언트의 현재 경험을 보조하고 'Yes-Set'을 형성하기 위해 생리적 변화(심박수, 호흡, 반사 작용)에 대한 부인할 수 없는 진술인 '진실(truisms)'을 사용합니다. 둘째, 현재의 순간을 알파벳을 배우던 어린 시절의 기억과 연결합니다. 이는 두 가지 목적을 가집니다. 클라이언트의 기존 학습 능력을 활용하고, 복잡한 과제(최면 진입과 같은)가 결국 자동화된다는 점을 암시합니다. 셋째, 주의의 내면화를 유도하기 위해 외부 자극에서 내부의 '정신적 이미지'로 초점을 전환합니다. 넷째, 의식적인 통제 욕구를 우회하기 위해 '모름'에 대한 미묘한 암시를 도입합니다. 마지막으로, 최면으로의 전환을 일으키기 위해 시간적 표지인 '지금'으로 강조된 눈을 감으라는 직접적인 명령을 내립니다.)",
+      "context": "- **Context:** Trance induction through physiological pacing and utilization of early learning experiences (생리적 보조와 초기 학습 경험 활용을 통한 최면 유도)"
+    }
+  },
+  {
+    "index": 450,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Suggesting eight hours of rest also utilizes what we experience in everyday life: You frequently sleep on something in order to deal with it.\" (8시간의 휴식을 제안하는 것은 우리가 일상생활에서 경험하는 것을 활용하는 것이기도 합니다. 당신은 종종 무언가를 처리하기 위해 그것에 대해 한숨 자곤 하죠.)",
+      "context": "- **Context:** Suggesting rest as a psychological processing tool (심리적 처리 도구로서의 휴식 제안)"
+    }
+  }
+]

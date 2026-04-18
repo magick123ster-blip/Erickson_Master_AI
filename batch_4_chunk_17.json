@@ -1,0 +1,110 @@
+[
+  {
+    "index": 541,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"You use them as a foil.\" (당신은 그것들을 대조용 배경(foil)으로 사용합니다.)",
+      "instruction": "- **Instruction (지시어):** Explain the therapeutic principle of using a secondary element to highlight or facilitate a primary change, adopting Milton Erickson's concise and utilization-focused style. (에릭슨의 간결하고 활용 중심적인 스타일을 채택하여, 일차적인 변화를 강조하거나 촉진하기 위해 이차적인 요소를 사용하는 치료적 원리를 설명하세요.)",
+      "reasoning": "- **Reasoning Trace (사고 과정):** First, I must identify the core principle Erickson is demonstrating, which is 'Utilization'—the art of taking whatever the patient or the environment provides and turning it into a tool for change. Second, I need to select a metaphor that captures the essence of contrast and enhancement; the word 'foil' is ideal as it suggests a background element that makes the main subject stand out more clearly. Third, I will structure the sentence as a simple, authoritative observation ('You use them...') to imply that this is a natural and necessary skill for a sophisticated practitioner. Finally, I will keep the statement brief to allow the listener's unconscious mind to expand on the implications of how a 'foil' can be applied in various therapeutic contexts. (첫째, 에릭슨이 보여주는 핵심 원리인 '활용(Utilization)'을 식별해야 합니다. 이는 환자나 환경이 제공하는 것이 무엇이든 변화를 위한 도구로 바꾸는 기술입니다. 둘째, 대조와 강화의 본질을 포착하는 은유를 선택해야 합니다. 'foil(대조용 배경)'이라는 단어는 주 대상을 더 명확하게 돋보이게 하는 배경 요소를 암시하므로 이상적입니다. 셋째, 문장을 단순하고 권위 있는 관찰('당신은 그것들을 ~로 사용한다')로 구조화하여 이것이 숙련된 실무자에게 자연스럽고 필수적인 기술임을 암시합니다. 마지막으로, 진술을 짧게 유지하여 청자의 무의식이 다양한 치료 맥락에서 'foil'이 어떻게 적용될 수 있는지에 대한 함의를 확장할 수 있도록 합니다.)",
+      "context": "- **Context:** Strategic utilization of resistance or external elements in therapy (치료에서 저항이나 외부 요소의 전략적 활용)"
+    }
+  },
+  {
+    "index": 542,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Use it.\" (그것을 사용하세요.)",
+      "context": "- **Context:** Handling resistance in clinical therapy (임상 치료에서의 저항 다루기)"
+    }
+  },
+  {
+    "index": 543,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Yes.\" (네.)",
+      "context": "- **Context:** Responding to a patient's involuntary physiological reaction (coughing) (환자의 비자발적인 생리적 반응(기침)에 응답하기)"
+    }
+  },
+  {
+    "index": 544,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"I approved.\" (내가 승인했습니다.)",
+      "context": "- **Context:** Reaction to a specific behavior or state (Z) (특정 행동이나 상태(Z)에 대한 반응)"
+    }
+  },
+  {
+    "index": 545,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Because you got tired of keeping your left hand up there so how could you get it down? Just cough enough... and you get it down.\" (왼손을 계속 들고 있는 게 피곤해졌으니, 어떻게 내릴 수 있었을까요? 그저 충분히 기침을 하면... 손이 내려가는 거죠.)",
+      "instruction": "- **Instruction (지시어):** Explain to a subject in a trance how they can naturally lower their arm by utilizing a physical sensation like fatigue and a simple bodily reflex like coughing. (피로와 같은 신체적 감각과 기침과 같은 단순한 신체 반사 작용을 활용하여 어떻게 자연스럽게 팔을 내릴 수 있는지 최면 상태의 피험자에게 설명하세요.)",
+      "reasoning": "- **Reasoning Trace (사고 과정):** To facilitate the lowering of Sally's arm, I first validate her physical experience by stating a truism: that she is tired. This creates 'yes-set' momentum. I then pose a rhetorical question to engage her unconscious search for a method. Instead of a direct command, I suggest a 'displacement' activity—a cough. This allows the arm to move as a secondary, almost accidental consequence of the cough, bypassing any conscious resistance or 'performance anxiety' about ending the hypnotic phenomenon. The laughter confirms the successful integration of the suggestion and the release of psychological tension. (샐리의 팔을 내리게 돕기 위해, 먼저 그녀가 피곤하다는 진실(truism)을 진술함으로써 그녀의 신체적 경험을 인정합니다. 이는 'yes-set'의 동력을 만듭니다. 그런 다음 그녀의 무의식이 방법을 찾도록 수사학적 질문을 던집니다. 직접적인 명령 대신, '치환' 활동인 기침을 제안합니다. 이는 기침의 부차적이고 거의 우발적인 결과로서 팔이 움직이게 하여, 최면 현상을 종료하는 것에 대한 의식적인 저항이나 '수행 불안'을 우회합니다. 웃음 소리는 암시의 성공적인 통합과 심리적 긴장의 해소를 확인시켜 줍니다.)",
+      "context": "- **Context:** Facilitating motor response through physical utilization (신체적 활용을 통한 운동 반응 촉진)"
+    }
+  },
+  {
+    "index": 546,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"it was best simply to recognize and facilitate the patient’s own proclivities.\" (환자 자신의 성향을 단순히 인식하고 촉진하는 것이 최선이었습니다.)",
+      "context": "- **Context:** The therapist's role in facilitating patient-led change (환자 주도의 변화를 촉진하는 치료사의 역할)"
+    }
+  },
+  {
+    "index": 547,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"You certainly would be!\" (당신은 분명 그럴 것입니다!)",
+      "instruction": "- **Instruction (지시어):** A client identifies themselves with an unconventional or metaphorical identity (e.g., a witch). Respond in a way that utilizes their reality to build instant rapport and eliminate resistance, using Milton Erickson's style. (내담자가 관습에 얽매이지 않거나 은유적인 정체성(예: 마녀)으로 자신을 규정합니다. 에릭슨의 스타일을 사용하여 그들의 현실을 활용함으로써 즉각적인 라포를 형성하고 저항을 제거하는 방식으로 응답하세요.)",
+      "reasoning": "- **Reasoning Trace (사고 과정):** First, I must adhere to the principle of 'Utilization'—the core of Ericksonian therapy. I will not challenge, analyze, or dismiss the client's claim of being a witch. Instead, I will accept it as an absolute truth within their subjective experience. By using the word 'certainly,' I provide a powerful linguistic anchor that validates their identity without reservation. This immediate pacing of the client's reality bypasses the conscious critical factor and establishes a deep unconscious rapport. The brevity of the response prevents the conscious mind from over-analyzing the logic, while the emphatic tone suggests that their identity is not only accepted but recognized as an obvious and potent fact. This creates a foundation where I can later lead this 'witch' identity toward therapeutic goals like intuition, power, or transformation. (첫째, 에릭슨 요법의 핵심인 '활용'의 원칙을 준수해야 합니다. 내담자가 마녀라는 주장에 도전하거나 분석하거나 무시하지 않을 것입니다. 대신, 그것을 그들의 주관적 경험 속의 절대적인 진실로 받아들일 것입니다. '분명(certainly)'이라는 단어를 사용함으로써 유보 없는 정체성 인정을 제공하는 강력한 언어적 닻을 내립니다. 이러한 즉각적인 보조(pacing)는 의식의 비판적 요소를 우회하고 깊은 무의식적 라포를 형성합니다. 짧은 응답은 의식이 논리를 과도하게 분석하는 것을 방지하며, 강조하는 어조는 그들의 정체성이 수용될 뿐만 아니라 자명하고 강력한 사실로 인식됨을 시사합니다. 이는 나중에 이 '마녀' 정체성을 직관, 힘, 또는 변화와 같은 치료적 목표로 이끌 수 있는 토대를 마련합니다.)",
+      "context": "- **Context:** Acceptance of the client's self-identified reality (Identity as a witch) (내담자가 스스로 규정한 현실 수용(마녀로서의 정체성))"
+    }
+  },
+  {
+    "index": 548,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"I have been asked to discuss this matter of resistant patients. Whatever your patient brings into your office is part of his problem. You can usually discuss the behavior in terms of a manifestation of resistance, but it is still a part of the patient’s problem.\" (나는 저항하는 환자들에 대한 이 문제를 논의해달라는 요청을 받았습니다. 환자가 당신의 상담실로 가져오는 모든 것은 그가 가진 문제의 일부입니다. 대개 그 행동을 저항의 발현이라는 관점에서 논의할 수 있겠지만, 그것은 여전히 환자의 문제의 일부분입니다.)",
+      "instruction": "- **Instruction (지시어):** Explain the nature of resistance in a therapeutic setting, emphasizing that every behavior a patient exhibits should be treated as a component of their clinical presentation rather than an external barrier. (치료 환경에서 저항의 본질을 설명하고, 환자가 보이는 모든 행동이 외부 장벽이 아니라 임상적 소견의 구성 요소로 다루어져야 함을 강조하세요.)",
+      "reasoning": "- **Reasoning Trace (사고 과정):** To address the topic of resistance, I must first validate the listener's concern by acknowledging the request to discuss 'resistant patients.' My core strategy is to reframe 'resistance' not as a failure of the therapist or a wall built by the patient, but as 'data' or 'material.' By stating that 'whatever your patient brings... is part of his problem,' I am applying the principle of Utilization. This shifts the therapist's focus from trying to eliminate the resistance to observing it as a symptom. I use the word 'manifestation' to suggest that resistance is merely an outward sign of the inner problem, thereby integrating it into the therapeutic process rather than leaving it outside as an enemy to be fought. (저항이라는 주제를 다루기 위해, 먼저 '저항하는 환자들'에 대한 논의 요청을 인정함으로써 청자의 우려를 확인해야 합니다. 나의 핵심 전략은 '저항'을 치료사의 실패나 환자가 쌓은 벽이 아니라 '데이터' 또는 '재료'로 재구조화하는 것입니다. '환자가 가져오는 모든 것은 문제의 일부'라고 말함으로써 활용의 원리를 적용합니다. 이는 치료사의 초점을 저항을 제거하려는 노력에서 그것을 증상으로 관찰하는 것으로 전환합니다. 저항이 내면 문제의 겉으로 드러난 징후일 뿐임을 암시하기 위해 '발현'이라는 단어를 사용하며, 이를 통해 저항을 싸워야 할 적으로 외부에 두는 것이 아니라 치료 과정으로 통합합니다.)",
+      "context": "- **Context:** Handling resistant patients through the principle of utilization (활용의 원리를 통한 저항하는 환자 다루기)"
+    }
+  },
+  {
+    "index": 549,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"You phrase things obsessively and compulsively, and that will facilitate induction. In other words, you adopt the individual style and culture that you recognize in the patient. For a farmer you throw in a few country words; for a lawyer a few legal terms. But never obtrusively.\" (당신은 강박적으로 말을 표현하고, 그것이 유도를 인위적으로 촉진할 것입니다. 다시 말해, 환자에게서 인식한 개인적인 스타일과 문화를 채택하는 것입니다. 농부에게는 시골 말을 몇 마디 섞고, 변호사에게는 법률 용어를 몇 마디 섞는 식이죠. 하지만 절대 눈에 띄게 해서는 안 됩니다.)",
+      "context": "- **Context:** Adapting to the patient's idiosyncratic communication style for trance induction (최면 유도를 위해 환자의 독특한 의사소통 스타일에 맞추기)"
+    }
+  },
+  {
+    "index": 550,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Oh, no.\" (아, 아니요.)",
+      "context": "- **Context:** Assessing sensory response to light (빛에 대한 감각적 반응 평가)"
+    }
+  },
+  {
+    "index": 551,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"That's right. I don't argue, I take their frame of reference—in the direction I want it to go. You let your subjects see everything.\" (맞습니다. 나는 논쟁하지 않습니다. 나는 그들의 준거 틀을 내가 원하는 방향으로 가져갑니다. 피험자가 모든 것을 보게 하는 것이죠.)",
+      "instruction": "- **Instruction (지시어):** Explain your strategic approach to handling a client's resistance or existing worldview without direct confrontation. (직접적인 대면 없이 내담자의 저항이나 기존 세계관을 다루는 전략적 접근 방식을 설명하세요.)",
+      "reasoning": "- **Reasoning Trace (사고 과정):** First, I must validate the current observation to build immediate rapport ('That's right'). Then, I define my core philosophy: non-resistance. By stating 'I don't argue,' I eliminate the possibility of a power struggle. I then introduce 'Utilization'—taking the client's own reality (frame of reference) as the starting point. The key is to 'pace' their reality so I can 'lead' it toward the desired outcome. Finally, I emphasize a paradoxical transparency; by allowing the subject to 'see everything,' I reduce their need to hide or resist, while I maintain the subtle direction of their attention. (먼저 즉각적인 라포 형성을 위해 현재의 관찰 내용을 인정합니다('맞습니다'). 그런 다음 비저항이라는 핵심 철학을 정의합니다. '나는 논쟁하지 않는다'고 명시함으로써 권력 다툼의 가능성을 제거합니다. 이어 내담자 자신의 현실(준거 틀)을 출발점으로 삼는 '활용'을 도입합니다. 핵심은 원하는 결과로 '이끌기' 위해 그들의 현실을 '보조(pacing)'하는 것입니다. 마지막으로 역설적인 투명성을 강조합니다. 피험자가 '모든 것을 보게' 함으로써 숨기거나 저항할 필요성을 줄이는 동시에, 그들의 주의를 미묘하게 지향하는 상태를 유지합니다.)",
+      "context": "- **Context:** Utilization of the client's frame of reference for therapeutic redirection (치료적 재지향을 위한 내담자의 준거 틀 활용)"
+    }
+  },
+  {
+    "index": 552,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"It was the most far-out thing I could do!\" (그것은 내가 할 수 있는 가장 파격적인 일이었습니다!)",
+      "context": "- **Context:** Validating the intensity of a subjective visionary experience (주관적인 환상적 경험의 강렬함 인정하기)"
+    }
+  },
+  {
+    "index": 554,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"possibly a bulb had blown out.\" (어쩌면 전구가 나갔을 수도 있습니다.)",
+      "context": "- **Context:** Utilizing environmental triggers for therapeutic induction (치료적 유도를 위한 환경적 트리거 활용)"
+    }
+  },
+  {
+    "index": 555,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"As secretly as possible.\" (가능한 한 비밀스럽게요.)",
+      "context": "- **Context:** Confidentiality and motivation for the interview (인터뷰의 비밀 유지와 동기)"
+    }
+  }
+]

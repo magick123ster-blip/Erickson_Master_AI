@@ -1,0 +1,51 @@
+﻿pattern,count
+NOUN(det:DET),2796
+ADP--pobj-->NOUN--det-->DET,2555
+VERB--prep-->ADP--pobj-->NOUN,2550
+VERB--dobj-->NOUN--det-->DET,2025
+NOUN(poss:PRON),1751
+NOUN--prep-->ADP--pobj-->NOUN,1707
+VERB--xcomp-->VERB--aux-->PART,1412
+VERB--ccomp-->VERB--nsubj-->PRON,1289
+ADP--pobj-->NOUN--amod-->ADJ,1126
+"NOUN(amod:ADJ, det:DET)",1032
+VERB--dobj-->NOUN--amod-->ADJ,948
+ADP--pobj-->NOUN--poss-->PRON,882
+"NOUN(det:DET, prep:ADP)",880
+VERB--dobj-->NOUN--poss-->PRON,830
+VERB--dobj-->NOUN--prep-->ADP,792
+VERB--conj-->VERB--punct-->PUNCT,772
+VERB--ccomp-->VERB--aux-->AUX,710
+ADP--pobj-->NOUN--prep-->ADP,689
+VERB--advcl-->VERB--nsubj-->PRON,672
+VERB--advcl-->VERB--mark-->SCONJ,625
+VERB--conj-->VERB--nsubj-->PRON,584
+VERB--prep-->ADP--pobj-->PRON,571
+VERB--nsubj-->NOUN--det-->DET,556
+AUX--attr-->NOUN--det-->DET,522
+NOUN(amod:ADJ),516
+VERB--xcomp-->VERB--dobj-->NOUN,514
+NOUN--relcl-->VERB--nsubj-->PRON,486
+VERB--ccomp-->VERB--dobj-->NOUN,470
+VERB--ccomp-->VERB--prep-->ADP,433
+VERB--conj-->VERB--prep-->ADP,415
+VERB--xcomp-->VERB--prep-->ADP,414
+"VERB(aux:PART, dobj:NOUN)",397
+VERB--ccomp-->VERB--punct-->PUNCT,395
+VERB--conj-->VERB--dobj-->NOUN,384
+VERB--nsubj-->NOUN--poss-->PRON,371
+VERB--advmod-->ADV--advmod-->ADV,366
+VERB--conj-->VERB--aux-->AUX,359
+AUX--attr-->NOUN--amod-->ADJ,358
+VERB--ccomp-->VERB--mark-->SCONJ,334
+VERB--xcomp-->VERB--dobj-->PRON,332
+VERB--ccomp-->VERB--advmod-->ADV,326
+VERB--advcl-->VERB--dobj-->NOUN,317
+"NOUN(amod:ADJ, poss:PRON)",313
+VERB--ccomp-->AUX--nsubj-->PRON,309
+VERB--ccomp-->VERB--nsubj-->NOUN,305
+AUX--nsubj-->NOUN--det-->DET,304
+VERB--conj-->VERB--advmod-->ADV,302
+VERB--advcl-->VERB--prep-->ADP,300
+"NOUN(amod:ADJ, det:DET, prep:ADP)",290
+VERB--ccomp-->VERB--dobj-->PRON,281

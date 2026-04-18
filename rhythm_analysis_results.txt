@@ -1,0 +1,76 @@
+=== ERICKSON RHYTHM & DENSITY ANALYSIS ===
+
+1. 🗣️ AVERAGE WORDS PER SENTENCE (호흡의 길이 - 만연체 vs 간결체)
+가장 긴 문장(소설형)부터 가장 짧은 문장(가슴을 치는 단타형)까지 순위
+- 학술/역사적 닻 내리기: 16.00 words/sentence
+- 증상 소유권 부여: 14.15 words/sentence
+- 우회적 성취 루프: 14.00 words/sentence
+- 기억 단절을 위한 일상적 닻: 14.00 words/sentence
+- 일상 감각의 메타포화: 13.61 words/sentence
+- 인지 과부하: 13.49 words/sentence
+- 결핍의 치명적 자산화: 13.32 words/sentence
+- 데이터 기반의 논리 폭파: 12.73 words/sentence
+- 자아-무의식 해리 유도: 11.93 words/sentence
+- 저항의 역설적 과제화: 11.60 words/sentence
+- 문제의 기술적 해체: 11.59 words/sentence
+- 최소 개입 페이싱: 9.85 words/sentence
+- 허용적 전제 질문법: 8.69 words/sentence
+- 부정적 예스-세트: 7.95 words/sentence
+- 시간적 지연과 과정의 유예: 6.29 words/sentence
+
+
+2. 🌊 SENTENCE LENGTH VARIANCE (문장 요동성 - 예측 불허 리듬)
+문장의 길이가 짧았다 길어졌다 크게 요동치며 멀미(트랜스)를 유도하는 순위
+- 결핍의 치명적 자산화: 5.00 standard dev.
+- 학술/역사적 닻 내리기: 4.91 standard dev.
+- 인지 과부하: 4.86 standard dev.
+- 기억 단절을 위한 일상적 닻: 4.63 standard dev.
+- 우회적 성취 루프: 4.60 standard dev.
+- 데이터 기반의 논리 폭파: 4.29 standard dev.
+- 증상 소유권 부여: 4.08 standard dev.
+- 일상 감각의 메타포화: 4.06 standard dev.
+- 자아-무의식 해리 유도: 3.20 standard dev.
+- 저항의 역설적 과제화: 3.11 standard dev.
+- 문제의 기술적 해체: 2.81 standard dev.
+- 최소 개입 페이싱: 2.25 standard dev.
+- 허용적 전제 질문법: 1.76 standard dev.
+- 부정적 예스-세트: 1.25 standard dev.
+- 시간적 지연과 과정의 유예: 0.48 standard dev.
+
+
+3. ⏱️ COMMA DENSITY (쉼표 밀도 - 의도적인 정지와 침묵)
+100단어 당 쉼표 사용 횟수 (머뭇거림, 최면적 응시 타임)
+- 결핍의 치명적 자산화: 5.72 commas per 100 words
+- 문제의 기술적 해체: 5.43 commas per 100 words
+- 데이터 기반의 논리 폭파: 5.25 commas per 100 words
+- 증상 소유권 부여: 5.08 commas per 100 words
+- 저항의 역설적 과제화: 4.90 commas per 100 words
+- 우회적 성취 루프: 4.76 commas per 100 words
+- 인지 과부하: 4.66 commas per 100 words
+- 허용적 전제 질문법: 4.59 commas per 100 words
+- 일상 감각의 메타포화: 4.34 commas per 100 words
+- 자아-무의식 해리 유도: 4.26 commas per 100 words
+- 학술/역사적 닻 내리기: 4.25 commas per 100 words
+- 기억 단절을 위한 일상적 닻: 4.14 commas per 100 words
+- 부정적 예스-세트: 3.76 commas per 100 words
+- 최소 개입 페이싱: 3.44 commas per 100 words
+- 시간적 지연과 과정의 유예: 2.97 commas per 100 words
+
+
+4. 🔗 THE 'AND' ANCHOR (비판 회피형 연사)
+100단어 당 'And(그리고)'를 사용하여 논리적 단절 없이 밀어붙이는 순위
+- 일상 감각의 메타포화: 3.56%
+- 문제의 기술적 해체: 2.92%
+- 자아-무의식 해리 유도: 2.92%
+- 결핍의 치명적 자산화: 2.88%
+- 인지 과부하: 2.62%
+- 기억 단절을 위한 일상적 닻: 2.57%
+- 증상 소유권 부여: 2.55%
+- 우회적 성취 루프: 2.55%
+- 최소 개입 페이싱: 2.46%
+- 데이터 기반의 논리 폭파: 2.43%
+- 학술/역사적 닻 내리기: 2.41%
+- 저항의 역설적 과제화: 2.23%
+- 허용적 전제 질문법: 1.89%
+- 부정적 예스-세트: 1.55%
+- 시간적 지연과 과정의 유예: 1.03%

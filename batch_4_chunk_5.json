@@ -1,0 +1,106 @@
+[
+  {
+    "index": 361,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"I don’t like air travel. That means a train or a bus. A bus has too many stops and you can change your mind, so I suggest you use a train. Now, Ralph, do I have to send some pretty nurses with you to make sure you get to Mayo, or will you give me your word you will go there alone?\" (나는 항공 여행을 좋아하지 않습니다. 그렇다면 기차나 버스를 타야겠군요. 버스는 정거장이 너무 많고 당신이 마음을 바꿀 수도 있으니, 기차를 이용할 것을 권합니다. 자, 랄프, 당신이 메이요 클리닉에 확실히 가도록 예쁜 간호사들을 동행시켜야 할까요, 아니면 혼자서 그곳에 가겠다고 내게 약속하겠습니까?)",
+      "context": "- **Context:** Suggesting a specific mode of transportation and ensuring commitment to a medical visit. (특정 이동 수단을 제안하고 의료진 방문에 대한 약속 확약하기)"
+    }
+  },
+  {
+    "index": 362,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Can you keep it there or will it lift up to your face?\" (그것을 그대로 둘 수 있나요, 아니면 당신의 얼굴 쪽으로 떠오를까요?)",
+      "context": "- **Context:** Arm levitation and hypnotic response (팔 부양과 최면 반응)"
+    }
+  },
+  {
+    "index": 363,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"The competitive situation of a debate yields negative results, as Erickson found, unless the alternatives favor the other side.\" (에릭슨이 발견한 바와 같이, 대안이 상대방에게 유리하지 않은 한 토론의 경쟁적 상황은 부정적인 결과를 낳습니다.)",
+      "context": "- **Context:** The counter-productivity of debate and the strategic application of double binds in therapy. (토론의 역효과와 치료에서 이중 구속의 전략적 적용)"
+    }
+  },
+  {
+    "index": 364,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Do you mind not relieving your self-consciousness?\" (자의식을 해소하지 않아도 괜찮으신가요?)",
+      "context": "- **Context:** Managing self-consciousness through paradoxical acceptance (역설적 수용을 통한 자의식 관리)"
+    }
+  },
+  {
+    "index": 365,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"I expect you to tell me your entire history. Certainly I don’t want you to do it all today. I want you to be willing to withhold certain things until you are really ready to tell me more.\" (나는 당신이 당신의 모든 역사를 내게 말해주기를 기대합니다. 물론 오늘 그 전부를 하기를 바라지는 않습니다. 당신이 더 많은 것을 말할 준비가 정말 될 때까지 특정 사항들을 기꺼이 보류하기를 바랍니다.)",
+      "context": "- **Context:** Therapeutic withholding and disclosure (치료적 보류와 폭로)"
+    }
+  },
+  {
+    "index": 366,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"And I wonder which one should be picked up first?\" (어느 것을 먼저 집어 들어야 할지 궁금하군요.)",
+      "context": "- **Context:** Child's resistance to cleaning up blocks (블록 정리에 대한 아이의 저항)"
+    }
+  },
+  {
+    "index": 367,
+    "fields": {
+      "context": "- **Context:** Bedtime resistance management (잠자리 저항 관리)"
+    }
+  },
+  {
+    "index": 368,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Shall we pick up this block or that block?\" (이 블록을 집을까요, 아니면 저 블록을 집을까요?)",
+      "context": "- **Context:** Facilitating action through the illusion of choice (선택의 환상을 통한 행동 촉진)"
+    }
+  },
+  {
+    "index": 369,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Why must you have your headache on weekends?\" (왜 주말마다 두통이 있어야만 합니까?)",
+      "context": "- **Context:** Therapeutic double binds for symptom reorientation (증상 재지향을 위한 치료적 이중 구속)"
+    }
+  },
+  {
+    "index": 370,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"You've got to look for a red building in order to have the most acute phobia.\" (가장 극심한 공포를 느끼려면 빨간 건물을 찾아야 합니다.)",
+      "context": "- **Context:** Treating phobia through symptom prescription and double bind (증상 처방과 이중 구속을 통한 공포증 치료)"
+    }
+  },
+  {
+    "index": 371,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"I could see you Thursday or Friday, but I suppose Friday would be the more convenient day for you.\" (목요일이나 금요일에 볼 수 있는데, 아마 금요일이 당신에게 더 편리한 날일 것 같군요.)",
+      "context": "- **Context:** Scheduling an appointment (상담 예약 잡기)"
+    }
+  },
+  {
+    "index": 372,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"There are various ways of getting used to your dentures, and I don’t know the most convenient time for you to sit down and give attention to the fitting feeling of the dentures in your mouth. I suppose a good time to study how nicely your jaws are accommodating your dentures would be right after a meal when you’ve been using them to enjoy your food, or just before you go to bed.\" (틀니에 익숙해지는 방법은 다양하지만, 당신이 가만히 앉아 입안에 틀니가 맞는 느낌에 주의를 기울이기에 가장 편리한 시간이 언제인지 나는 모릅니다. 아마도 식사를 하며 음식을 즐긴 바로 직후나 잠자리에 들기 직전이 당신의 턱이 틀니를 얼마나 잘 수용하고 있는지 살펴보기에 좋은 시간일 것이라고 생각합니다.)",
+      "context": "- **Context:** Helping dental patients adapt to dentures using psychological techniques. (심리학적 기법을 통해 치과 환자들이 틀니에 적응하도록 돕기)"
+    }
+  },
+  {
+    "index": 373,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"I want you to be sure to see to it that you do not ‘learn one bit more than you want to learn.\" (나는 당신이 당신이 배우고 싶은 것보다 '단 조금이라도 더' 배우지 않도록 확실히 해두기를 바랍니다.)",
+      "context": "- **Context:** Setting learning boundaries through therapeutic paradox (치료적 역설을 통한 학습 경계 설정)"
+    }
+  },
+  {
+    "index": 374,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"There is no conceivable way in which your hand can move, yet when I give the signal, it must move.\" (당신의 손이 움직일 수 있는 어떤 생각 가능한 방법도 없지만, 내가 신호를 주면 그것은 반드시 움직여야 합니다.)",
+      "context": "- **Context:** Inducing hallucination through physical catalepsy and contradictory commands (신체적 부동 상태와 모순된 명령을 통한 환각 유도)"
+    }
+  },
+  {
+    "index": 375,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Stay awake!\" (잠들지 말고 깨어 있으세요!)",
+      "context": "- **Context:** Hypnotic induction using contradictory primary-level statements (모순된 일차적 진술을 사용한 최면 유도)"
+    }
+  }
+]

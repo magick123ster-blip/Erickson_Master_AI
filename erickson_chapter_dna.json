@@ -1,0 +1,408 @@
+{
+    "Confusion & Induction": [
+        {
+            "pattern_id": "ERICKSON_PACING_AND_VALIDATION",
+            "formula": "nan",
+            "logic": "내담자의 현재 반응이나 감각적 경험을 즉각적으로 언어화하여 거울처럼 반영함으로써, 내담자가 치료자에 대해 깊은 신뢰와 안전함을 느끼게 하여 트랜스 상태를 공고히 하는 기법이다.",
+            "example": "You are a little bit surprised about your left hand?",
+            "importance": 0.003639051134197,
+            "probability": 0.1111111111111111
+        },
+        {
+            "pattern_id": "ERICKSON_INDIRECT_SUGGESTION",
+            "formula": "she->watch->wiggle",
+            "logic": "명령이 아닌 비유나 타인의 사례를 통해 암시를 우회적으로 전달하여 내담자의 방어 기제를 무력화하고, 내담자 스스로가 그 아이디어를 창안한 것처럼 느끼게 하는 기법이다.",
+            "example": "She didn’t watch her wiggle and watch all the others wiggle. Now all of you understand what I mean when I say “watch the others wiggle.” You’re staying awfully still for somebody who is awake. Now let your arm get more and more tired until you want to... use your left hand to push it down....",
+            "importance": 0.0038076590024682,
+            "probability": 0.08333333333333333
+        },
+        {
+            "pattern_id": "ERICKSON_TRANCE_DESCRIPTION",
+            "formula": "that->include->himself",
+            "logic": "대상의 주관적 현실이 일상과 멀어져 있음을 정의하고 내면 세계의 경계를 설정함으로써, 주의력의 협착이라는 트랜스의 특징을 강화하고 그 상태의 주관적 진실성을 입증하는 기법이다.",
+            "example": "He was further away. H tended to go into a reality that included himself and me but excluding S and you.",
+            "importance": 0.0036390355715145,
+            "probability": 0.05555555555555555
+        },
+        {
+            "pattern_id": "ERICKSON_TRUISM_CALIBRATION",
+            "formula": "they->pay->attention; they->pay->attention",
+            "logic": "인간 행동에 대한 부정할 수 없는 보편적 진실(Truism)을 진술하여 신뢰를 구축하고, 이를 통해 내담자가 자신의 내면 상태를 스스로 교정(Calibration)하도록 유도하는 라포 강화 기법이다.",
+            "example": "A person could be looking right at you, yet you know they are not paying attention to you without their even knowing they are not paying attention.",
+            "importance": 0.0036390355715145,
+            "probability": 0.05555555555555555
+        },
+        {
+            "pattern_id": "ERICKSON_CHALLENGE_TO_CONSCIOUS_DEFINITION",
+            "formula": "you->define->look",
+            "logic": "내담자가 트랜스 현상을 의식적으로 정의하거나 분석하려 할 때, 불가능한 수준의 정밀한 정의를 요구함으로써 의식의 과부하와 혼란을 유도하고 무의식적 수용성을 높이는 기법이다.",
+            "example": "But can you define that \"faraway look\" in precise terms?",
+            "importance": 0.0036390355715145,
+            "probability": 0.05555555555555555
+        },
+        {
+            "pattern_id": "ERICKSON_NEGATIVE_APPROACH",
+            "formula": "you->raise->this",
+            "logic": "변화에 대한 직접적인 압박을 제거하고 '단순한 가능성'으로만 제시함으로써 환자의 방어적 저항을 무력화하고, 호기심 어린 탐색을 통해 스스로 변화의 문을 열게 하는 역설적 접근법이다.",
+            "example": "\"That could be worked on.\" It's a negative approach. You're just raising this as an unimportant question. \"Do you suppose there are problems that could be worked on?\"",
+            "importance": 0.0038076590024682,
+            "probability": 0.027777777777777776
+        },
+        {
+            "pattern_id": "ERICKSON_CONFUSION_BY_PANTOMIME",
+            "formula": "state->effect->sort",
+            "logic": "언어적 소통이 제한된 상황에서 비언어적 암시를 통해 내담자의 이해 욕구를 자극하고, 이 과정에서 발생하는 정신적 불확실성을 활용하여 암시의 수용성을 극대화하는 기법이다.",
+            "example": "A completely pantomime technique would have to be used, and the subject’s own state of mental uncertainty and eagerness to comprehend would effect the same sort of readiness to accept any comprehensible communication by pantomime as is effected by clear-cut definite communications in the Confusion Technique.",
+            "importance": 0.0038068721371395,
+            "probability": 0.027777777777777776
+        }
+    ],
+    "Deepening & Ratification": [
+        {
+            "pattern_id": "ERICKSON_PRESUPPOSITION",
+            "formula": "nan",
+            "logic": "변화가 일어날 것임을 문법적으로 당연하게 전제하여 내담자의 주의를 '변화의 방식'으로 돌림으로써, 내담자가 질문에 답하는 동안 무의식적으로 변화를 사실로 받아들이게 하는 기법이다.",
+            "example": "And how straight a line would you walk?",
+            "importance": 0.0020371139252915,
+            "probability": 0.045454545454545456
+        },
+        {
+            "pattern_id": "ERICKSON_CHALLENGE_AUTHORITY",
+            "formula": "i->say->it",
+            "logic": "치료자의 권위에 대한 맹목적인 순응을 경계하고, 내담자가 자신의 행동과 믿음에 대한 내부적 근거를 스스로 찾도록 유도하여 자발적인 변화를 촉진하는 기법이다.",
+            "example": "Why, just because I said it?",
+            "importance": 0.0020371139252915,
+            "probability": 0.045454545454545456
+        },
+        {
+            "pattern_id": "ERICKSON_CONSCIOUS_UNCONSCIOUS_DISSOCIATION",
+            "formula": "you->know->much",
+            "logic": "의식과 무의식의 기능을 이분법적으로 분리하여, 의식이 분석이나 방어에 몰두하는 동안 무의식이 치료적 학습을 독립적으로 수행하도록 만드는 핵심 해리 기법이다.",
+            "example": "Now, another thing I want to call your attention to is the matter of hypnosis. Hypnosis is the ceasing to use your conscious awareness; in hypnosis you begin to use your unconscious awareness. Because unconsciously you know as much and a lot more than you do consciously.",
+            "importance": 0.0014805886410056,
+            "probability": 0.045454545454545456
+        },
+        {
+            "pattern_id": "ERICKSON_REFRAMING",
+            "formula": "nan",
+            "logic": "고착된 문제나 고통을 '지혜로운 스승'이나 '학습의 기회'로 재정의하여 사건의 의미를 완전히 바꿈으로써, 모든 부정적 경험을 성장을 위한 긍정적 자원으로 전환시키는 핵심 기법이다.",
+            "example": "Poliomyelitis was the best teacher I ever had about human behavior and its potentials.",
+            "importance": 0.0018953884546448,
+            "probability": 0.045454545454545456
+        },
+        {
+            "pattern_id": "ERICKSON_TIME_DISTORTION_VALIDATION",
+            "formula": "we->do->lot; you->believe->me",
+            "logic": "트랜스 상태에서의 주관적 시간과 실제 시간의 괴리를 내담자에게 확인시켜 무의식적 변화의 깊이를 실감하게 하고, 이를 통해 치료적 성과를 의식 차원에서 강력하게 공고히 하는 기법이다.",
+            "example": "We have done a lot together. You have been here two and a quarter hours. Do you believe me?",
+            "importance": 0.0020371139252915,
+            "probability": 0.045454545454545456
+        },
+        {
+            "pattern_id": "ERICKSON_PERMISSIVE_RELAXATION",
+            "formula": "nan",
+            "logic": "강압적인 명령 대신 '당신이 원하는 만큼'과 같은 허용적인 언어를 사용하여 내담자에게 통제권을 부여하고, 무의식이 스스로의 속도에 맞춰 깊은 이완 상태로 진입하도록 돕는 기법이다.",
+            "example": "Now relax gently... feel at ease... be comfortable all over... and begin relaxing your feet, and your legs, and your thighs... and feel the comfort of your arms... and take all the time that you want to take.",
+            "importance": 0.0037589479399079,
+            "probability": 0.022727272727272728
+        },
+        {
+            "pattern_id": "ERICKSON_TIME_DOUBLE_BIND",
+            "formula": "nan",
+            "logic": "시간을 충분히 갖는 것과 빠르게 트랜스에 들어가는 것을 한 문장에 결합하여 의식적 혼란을 유도하고, 무의식이 가장 효율적인 방식으로 트랜스를 수용하도록 유도하는 이중 구속 기법이다.",
+            "example": "Take all the time that you want to go deeply into a trance. Go only as deeply as you want to go, and take all the time that is necessary, but you really don’t need to waste any time at all. But take your time, and go deeply and quickly into a trance in the way that is most satisfying to you.",
+            "importance": 0.0037589479399079,
+            "probability": 0.022727272727272728
+        }
+    ],
+    "Future Pacing & Integration": [
+        {
+            "pattern_id": "ERICKSON_PACING_AND_VALIDATION",
+            "formula": "nan",
+            "logic": "내담자의 현재 반응이나 감각적 경험을 즉각적으로 언어화하여 거울처럼 반영함으로써, 내담자가 치료자에 대해 깊은 신뢰와 안전함을 느끼게 하여 트랜스 상태를 공고히 하는 기법이다.",
+            "example": "You are a little bit surprised about your left hand?",
+            "importance": 0.0048997208016333,
+            "probability": 0.10810810810810811
+        },
+        {
+            "pattern_id": "ERICKSON_CONSCIOUS_UNCONSCIOUS_DISSOCIATION",
+            "formula": "you->know->much",
+            "logic": "의식과 무의식의 기능을 이분법적으로 분리하여, 의식이 분석이나 방어에 몰두하는 동안 무의식이 치료적 학습을 독립적으로 수행하도록 만드는 핵심 해리 기법이다.",
+            "example": "Now, another thing I want to call your attention to is the matter of hypnosis. Hypnosis is the ceasing to use your conscious awareness; in hypnosis you begin to use your unconscious awareness. Because unconsciously you know as much and a lot more than you do consciously.",
+            "importance": 0.0025194801403921,
+            "probability": 0.08108108108108109
+        },
+        {
+            "pattern_id": "ERICKSON_UNCONSCIOUS_PROCESS",
+            "formula": "mary->mull->it",
+            "logic": "치료의 목표를 개인적 성장으로 재설정하고 과정 중심의 동사를 사용하여, 의식적인 불안이나 강박 없이 무의식이 자연스럽게 정보를 통합하고 변화를 이끌어내도록 돕는 원리이다.",
+            "example": "I worked with Mary for Mary’s benefit, not for the benefit of the audience. I want Mary to mull it all over in her own unconscious mind, and to think it over, and to incorporate it into her thinking. Then I can be sure that Mary is going to sing in front of an audience. I am not going to put her in a challenging situation.",
+            "importance": 0.0048997208016333,
+            "probability": 0.02702702702702703
+        },
+        {
+            "pattern_id": "ERICKSON_POSTHYPNOTIC_VALIDATION",
+            "formula": "he->follow->suggestion",
+            "logic": "트랜스 상태에서 부여된 암시가 일상에서 실제로 실행되고 있음을 입증하고 설명함으로써, 무의식이 시간이 지난 후에도 지시를 충실히 수행하는 강력한 실행체임을 확인시키는 기법이다.",
+            "example": "He is following the posthypnotic suggestion given back in the last session.",
+            "importance": 0.0048997208016333,
+            "probability": 0.02702702702702703
+        },
+        {
+            "pattern_id": "ERICKSON_ANTI_PATTERN_CONTRADICTION",
+            "formula": "novocain->fix->you; you->notice->anesthetic",
+            "logic": "환자의 주관적 고통이나 현실을 직접적으로 부정하는 기존의 의료적 접근(안티 패턴)을 비판하고, 대신 환자의 현실을 인정하는 것이 라포 형성의 핵심임을 강조하는 원리이다.",
+            "example": "It doesn’t hurt, or You’ll feel better shortly. You don’t need to be afraid...I’m not going to hurt you... This Novocain will really fix you up... You won’t notice this local anesthetic much",
+            "importance": 0.0048043442233062,
+            "probability": 0.02702702702702703
+        },
+        {
+            "pattern_id": "ERICKSON_INTEGRATION_DIRECTIVE",
+            "formula": "you->use->hypnosis",
+            "logic": "무의식적으로 습득한 새로운 학습 내용을 의식적인 삶과 연결하도록 강력한 임상적 지침을 제공하여, 일시적인 상태 변화가 아닌 지속적인 인격적 통합을 목표로 하는 원리이다.",
+            "example": "There has to be an integration of unconscious learnings with conscious learnings. This should be foremost in your mind whenever you use hypnosis on psychiatric patients.",
+            "importance": 0.003757558833294,
+            "probability": 0.02702702702702703
+        },
+        {
+            "pattern_id": "ERICKSON_DISSOCIATION_AFFECT_SPLIT",
+            "formula": "i->demonstrate->phenomenon; one->recover->merriment",
+            "logic": "지적 이해와 정서적 경험을 분리하여, 내담자가 문제의 원인을 알지 못하더라도 정서적 방출을 먼저 경험하게 함으로써 안전하고 점진적인 통합을 돕는 해리 기법이다.",
+            "example": "I have demonstrated this phenomenon in the past by having one of my demonstration subjects recover all the merriment of a joke without knowing what the joke was. And yet that subject laughed and laughed in the merriest fashion over the joke, wondering at the time what the joke was! Later, I let my subject remember the actual joke.",
+            "importance": 0.003757558833294,
+            "probability": 0.02702702702702703
+        }
+    ],
+    "Metaphor & Narrative": [
+        {
+            "pattern_id": "ERICKSON_UTILIZATION_REFRAMING",
+            "formula": "i->get->anything; i->create->situation",
+            "logic": "내담자가 보이는 무반응이나 무능력을 오히려 새로운 가치를 창출할 수 있는 독특한 기회로 재정의하여, 내담자를 '치료 대상'에서 '모두를 가르칠 수 있는 스승'으로 격상시키는 리프레이밍 기법이다.",
+            "example": "Well, since I can’t get anything out of her, I will create a situation in which Mary can really teach us all a great deal.",
+            "importance": 0.0035777297905473,
+            "probability": 0.09090909090909091
+        },
+        {
+            "pattern_id": "ERICKSON_CONSCIOUS_UNCONSCIOUS_DISSOCIATION",
+            "formula": "you->know->much",
+            "logic": "의식과 무의식의 기능을 이분법적으로 분리하여, 의식이 분석이나 방어에 몰두하는 동안 무의식이 치료적 학습을 독립적으로 수행하도록 만드는 핵심 해리 기법이다.",
+            "example": "Now, another thing I want to call your attention to is the matter of hypnosis. Hypnosis is the ceasing to use your conscious awareness; in hypnosis you begin to use your unconscious awareness. Because unconsciously you know as much and a lot more than you do consciously.",
+            "importance": 0.0033604457102137,
+            "probability": 0.09090909090909091
+        },
+        {
+            "pattern_id": "ERICKSON_REFRAMING_UTILIZATION",
+            "formula": "nan",
+            "logic": "내담자의 요청이나 불평을 치료적 주도권을 확보하기 위한 '활용'의 기회로 전환하고, 상황을 역설적으로 재정의하여 내담자의 주의를 즉각적으로 환기시키고 정서적 유대를 강화하는 기법이다.",
+            "example": "Now, I want to make the accusation of all of you that you talk too softly. I think the truth is, I can’t hear so well.",
+            "importance": 0.0034574844478927,
+            "probability": 0.06060606060606061
+        },
+        {
+            "pattern_id": "ERICKSON_METAPHOR_MODERNIZATION",
+            "formula": "i->ask->you; story->do->you",
+            "logic": "고전적이고 마법 같은 은유를 현대적인 맥락으로 재구성하여 내담자의 논리적 거부감을 줄이고, 현대인의 생활 양식에 맞는 그럴듯한 방식으로 변화의 원리를 수용하게 하는 기법이다.",
+            "example": "Ten to three. I asked you yesterday if you believed in Aladdin’s lamp out of which a genie would come. Now how many of you believe that a genie can come out of a lamp? You know that childhood story, don’t you, about Aladdin and his magic lamp? I have an Aladdin’s lamp and it is modernized. I don’t have to stroke it. I just plug it in the wall socket and the genie comes forth — a real genie. You think I am telling you a tale or telling you the truth? Huh?",
+            "importance": 0.0038056004428399,
+            "probability": 0.030303030303030304
+        },
+        {
+            "pattern_id": "ERICKSON_METAPHOR_AUTONOMY",
+            "formula": "i->know->nothing",
+            "logic": "치료자가 내담자의 모든 것을 통제할 수 없음을 인정하는 '전략적 무지'를 통해 내담자에게 변화의 주도권을 넘기고, 내담자의 고유한 무의식적 능력을 신뢰하도록 만드는 기법이다.",
+            "example": "I don’t know how to tell you how to drive your car home for the simple reason that I know nothing about your reflex responses, your reaction time, or anything of that sort; I am simply not qualified to tell you how to drive a car, even though I myself know how to drive a car. I do not know how you react to red lights or green lights, or how you react to pedestrians; so the best that I could do would be",
+            "importance": 0.0035777297905473,
+            "probability": 0.030303030303030304
+        },
+        {
+            "pattern_id": "ERICKSON_INDIRECT_SUGGESTION",
+            "formula": "she->watch->wiggle",
+            "logic": "명령이 아닌 비유나 타인의 사례를 통해 암시를 우회적으로 전달하여 내담자의 방어 기제를 무력화하고, 내담자 스스로가 그 아이디어를 창안한 것처럼 느끼게 하는 기법이다.",
+            "example": "She didn’t watch her wiggle and watch all the others wiggle. Now all of you understand what I mean when I say “watch the others wiggle.” You’re staying awfully still for somebody who is awake. Now let your arm get more and more tired until you want to... use your left hand to push it down....",
+            "importance": 0.0038056004428399,
+            "probability": 0.030303030303030304
+        },
+        {
+            "pattern_id": "ERICKSON_SYMBOLIC_GROWTH_TASK",
+            "formula": "husband->take->you; you->tell->him",
+            "logic": "슬픔이나 정체를 상징하는 대상에 성장의 의미를 부여하고 이를 지켜보는 구체적인 과업을 할당하여, 내담자의 심리에너지가 고통스러운 과거에서 역동적인 미래로 자연스럽게 흐르도록 돕는 기법이다.",
+            "example": "So your husband will take you home and get you an eucalyptus sapling. You tell him where to plant it. Eucalyptus trees grow very rapidly in Arizona. I want you to name that eucalyptus sapling, Cynthia’s. I want you to watch Cynthia grow. I want you to look forward to the day when you can sit in the shade of Cynthia.",
+            "importance": 0.0035775400224181,
+            "probability": 0.030303030303030304
+        }
+    ],
+    "Rapport & Pacing": [
+        {
+            "pattern_id": "ERICKSON_TRUISM_UTILIZATION",
+            "formula": "nan",
+            "logic": "치료자 자신의 인간적인 약점이나 명백한 사실을 솔직하게 고백하여 내담자의 방어 기제를 낮추고, 인식의 상대성을 일깨워 문제 상황을 다른 시각으로 바라볼 수 있게 돕는 기초 기법이다.",
+            "example": "I am partially color-blind.",
+            "importance": 0.0017057579620816,
+            "probability": 0.058823529411764705
+        },
+        {
+            "pattern_id": "ERICKSON_UTILIZATION_PUN",
+            "formula": "nan",
+            "logic": "주변의 예기치 않은 자극이나 환경적 변화를 유머러스한 중의적 표현으로 재정의하여 치료적 과정에 흡수함으로써, 어떤 외부적 요소도 치료의 흐름을 방해할 수 없음을 보여주는 활용 기법이다.",
+            "example": "Any number of bugs will be all right.",
+            "importance": 0.0017057579620816,
+            "probability": 0.058823529411764705
+        },
+        {
+            "pattern_id": "ERICKSON_PACING_AND_RAPPORT",
+            "formula": "nan",
+            "logic": "내담자의 사회적 신분이나 방어적인 페르소나를 있는 그대로 수용하고 평범하게 반응함으로써 불필요한 권력 투쟁을 피하고 안정적인 심리적 유대감을 형성하는 기초 기법이다.",
+            "example": "Pleased to meet you.",
+            "importance": 0.0017057579620816,
+            "probability": 0.058823529411764705
+        },
+        {
+            "pattern_id": "ERICKSON_REFRAMING",
+            "formula": "nan",
+            "logic": "고착된 문제나 고통을 '지혜로운 스승'이나 '학습의 기회'로 재정의하여 사건의 의미를 완전히 바꿈으로써, 모든 부정적 경험을 성장을 위한 긍정적 자원으로 전환시키는 핵심 기법이다.",
+            "example": "Poliomyelitis was the best teacher I ever had about human behavior and its potentials.",
+            "importance": 0.0014528547961766,
+            "probability": 0.058823529411764705
+        },
+        {
+            "pattern_id": "ERICKSON_RAPPORT_BOUNDARY",
+            "formula": "nan",
+            "logic": "치료자와 내담자 사이의 배타적인 심리적 공간을 설정하고 외부의 간섭을 차단함으로써, 내담자가 외부 시선에서 자유로워져 오직 자신의 내면적 탐색에만 집중할 수 있게 돕는 기법이다.",
+            "example": "No, you and I are together, and those people are outside. It is a very nice way of illustrating that we are here and you fellows are over there.",
+            "importance": 0.0049445427565753,
+            "probability": 0.029411764705882353
+        },
+        {
+            "pattern_id": "ERICKSON_PACING_AND_VALIDATION",
+            "formula": "nan",
+            "logic": "내담자의 현재 반응이나 감각적 경험을 즉각적으로 언어화하여 거울처럼 반영함으로써, 내담자가 치료자에 대해 깊은 신뢰와 안전함을 느끼게 하여 트랜스 상태를 공고히 하는 기법이다.",
+            "example": "You are a little bit surprised about your left hand?",
+            "importance": 0.0049445427565753,
+            "probability": 0.029411764705882353
+        },
+        {
+            "pattern_id": "ERICKSON_INDIRECT_SUGGESTION",
+            "formula": "she->watch->wiggle",
+            "logic": "명령이 아닌 비유나 타인의 사례를 통해 암시를 우회적으로 전달하여 내담자의 방어 기제를 무력화하고, 내담자 스스로가 그 아이디어를 창안한 것처럼 느끼게 하는 기법이다.",
+            "example": "She didn’t watch her wiggle and watch all the others wiggle. Now all of you understand what I mean when I say “watch the others wiggle.” You’re staying awfully still for somebody who is awake. Now let your arm get more and more tired until you want to... use your left hand to push it down....",
+            "importance": 0.0037580823675518,
+            "probability": 0.029411764705882353
+        }
+    ],
+    "Reframing & Insight": [
+        {
+            "pattern_id": "ERICKSON_INDIRECT_SUGGESTION",
+            "formula": "she->watch->wiggle",
+            "logic": "명령이 아닌 비유나 타인의 사례를 통해 암시를 우회적으로 전달하여 내담자의 방어 기제를 무력화하고, 내담자 스스로가 그 아이디어를 창안한 것처럼 느끼게 하는 기법이다.",
+            "example": "She didn’t watch her wiggle and watch all the others wiggle. Now all of you understand what I mean when I say “watch the others wiggle.” You’re staying awfully still for somebody who is awake. Now let your arm get more and more tired until you want to... use your left hand to push it down....",
+            "importance": 0.0037687771615907,
+            "probability": 0.1
+        },
+        {
+            "pattern_id": "ERICKSON_CONSCIOUS_UNCONSCIOUS_DISSOCIATION",
+            "formula": "you->know->much",
+            "logic": "의식과 무의식의 기능을 이분법적으로 분리하여, 의식이 분석이나 방어에 몰두하는 동안 무의식이 치료적 학습을 독립적으로 수행하도록 만드는 핵심 해리 기법이다.",
+            "example": "Now, another thing I want to call your attention to is the matter of hypnosis. Hypnosis is the ceasing to use your conscious awareness; in hypnosis you begin to use your unconscious awareness. Because unconsciously you know as much and a lot more than you do consciously.",
+            "importance": 0.0033107710234462,
+            "probability": 0.1
+        },
+        {
+            "pattern_id": "ERICKSON_UTILIZATION_REFRAMING",
+            "formula": "i->get->anything; i->create->situation",
+            "logic": "내담자가 보이는 무반응이나 무능력을 오히려 새로운 가치를 창출할 수 있는 독특한 기회로 재정의하여, 내담자를 '치료 대상'에서 '모두를 가르칠 수 있는 스승'으로 격상시키는 리프레이밍 기법이다.",
+            "example": "Well, since I can’t get anything out of her, I will create a situation in which Mary can really teach us all a great deal.",
+            "importance": 0.0036251305530714,
+            "probability": 0.06666666666666667
+        },
+        {
+            "pattern_id": "ERICKSON_PACING_AND_VALIDATION",
+            "formula": "nan",
+            "logic": "내담자의 현재 반응이나 감각적 경험을 즉각적으로 언어화하여 거울처럼 반영함으로써, 내담자가 치료자에 대해 깊은 신뢰와 안전함을 느끼게 하여 트랜스 상태를 공고히 하는 기법이다.",
+            "example": "You are a little bit surprised about your left hand?",
+            "importance": 0.0049941802567506,
+            "probability": 0.06666666666666667
+        },
+        {
+            "pattern_id": "ERICKSON_REFRAMING_POSSIBILITY",
+            "formula": "nan",
+            "logic": "내담자의 경직된 논리에 의문을 제기하고 상반된 속성이 동시에 존재할 수 있음을 제안하여, 좁은 문제 상황 속에서도 새로운 가능성과 개방성을 발견하도록 돕는 인지적 재구조화 기법이다.",
+            "example": "Does every small room have to have all the doors closed? Couldn’t a room be very small and still have the door wide open?",
+            "importance": 0.0048518334597499,
+            "probability": 0.03333333333333333
+        },
+        {
+            "pattern_id": "ERICKSON_REFRAMING_CONFRONTATION",
+            "formula": "he->commit->sins; he->cheat->her",
+            "logic": "내담자가 겪고 있는 고통을 강력하고 명확한 도덕적/논리적 프레임으로 규정하여 내담자의 억울함을 인정하는 동시에, 상황을 치료자가 완전히 장악하고 있음을 보여주어 심리적 안정감을 주는 기법이다.",
+            "example": "Yes, but he's committed two sins: He's cheated her and he didn't give her.",
+            "importance": 0.0048518334597499,
+            "probability": 0.03333333333333333
+        },
+        {
+            "pattern_id": "ERICKSON_LINGUISTIC_AMBIGUITY",
+            "formula": "americans->get->it",
+            "logic": "언어적 중의성이나 음운론적 모호함을 사용하여 의식을 순간적으로 혼란에 빠뜨린 후, 갑작스러운 의미의 해소를 통해 암시를 무의식 깊숙이 각인시키는 기법이다.",
+            "example": "And most Americans don’t get it. The Manx cat out of Manx, England is naturally short-tailed. When the station master said, “Nope, from two to two to two two,” he was referring to the train that arrived at two minutes to two and left at two minutes past two, and ran over the cat’s tail and amputated it.",
+            "importance": 0.0049941802567506,
+            "probability": 0.03333333333333333
+        }
+    ],
+    "Resistance & Utilization": [
+        {
+            "pattern_id": "ERICKSON_PACING_AND_VALIDATION",
+            "formula": "nan",
+            "logic": "내담자의 현재 반응이나 감각적 경험을 즉각적으로 언어화하여 거울처럼 반영함으로써, 내담자가 치료자에 대해 깊은 신뢰와 안전함을 느끼게 하여 트랜스 상태를 공고히 하는 기법이다.",
+            "example": "You are a little bit surprised about your left hand?",
+            "importance": 0.0048521440237205,
+            "probability": 0.16129032258064516
+        },
+        {
+            "pattern_id": "ERICKSON_REFRAMING_UTILIZATION",
+            "formula": "nan",
+            "logic": "내담자의 요청이나 불평을 치료적 주도권을 확보하기 위한 '활용'의 기회로 전환하고, 상황을 역설적으로 재정의하여 내담자의 주의를 즉각적으로 환기시키고 정서적 유대를 강화하는 기법이다.",
+            "example": "Now, I want to make the accusation of all of you that you talk too softly. I think the truth is, I can’t hear so well.",
+            "importance": 0.0035043701887284,
+            "probability": 0.06451612903225806
+        },
+        {
+            "pattern_id": "ERICKSON_INDIRECT_SUGGESTION",
+            "formula": "she->watch->wiggle",
+            "logic": "명령이 아닌 비유나 타인의 사례를 통해 암시를 우회적으로 전달하여 내담자의 방어 기제를 무력화하고, 내담자 스스로가 그 아이디어를 창안한 것처럼 느끼게 하는 기법이다.",
+            "example": "She didn’t watch her wiggle and watch all the others wiggle. Now all of you understand what I mean when I say “watch the others wiggle.” You’re staying awfully still for somebody who is awake. Now let your arm get more and more tired until you want to... use your left hand to push it down....",
+            "importance": 0.0038064338772378,
+            "probability": 0.06451612903225806
+        },
+        {
+            "pattern_id": "ERICKSON_PARADOXICAL_IMPLICATION",
+            "formula": "nan",
+            "logic": "현재의 의식적인 노력을 '힘든 과업'으로 재정의하여 피로감을 유도하고, 그 반대 급부인 트랜스나 수면 상태를 자연스럽고 환영받는 안식으로 인식하게 만드는 역설적 암시 기법이다.",
+            "example": "Yes, and she knows she's been trying to stay awake! It's been a difficult job to stay awake. Therefore by implication, it's easy to lapse into sleep or trance.",
+            "importance": 0.0048521440237205,
+            "probability": 0.03225806451612903
+        },
+        {
+            "pattern_id": "ERICKSON_IDEOMOTOR_DYNAMICS",
+            "formula": "you->notice->something; you->learn->more",
+            "logic": "신체 부위의 상반된 불수의적 움직임을 동시에 제안하여 의식적인 통제를 어렵게 만들고, 이를 통해 무의식적 반응이 실제로 일어나고 있음을 내담자에게 신체적으로 입증하는 기법이다.",
+            "example": "And I'd like to have you watch, look at my finger now. And I want you to notice something that happens to you. Take a deep breath, close your eyes. That's right. And all the time you are beginning to feel that you are learning more and more. And it's moving up toward your face, and as soon as your right hand touches your face, you'll take another deep breath and go deeper asleep. The closer your right hand gets to your face, the more your left hand will move away from it. And up goes the right hand. That's right. Up it goes, and the left hand is moving away. A little bit faster, and a little bit faster, that's it, and faster yet, and still faster, and still faster, and faster and faster, that's it. And now, while your hands are busy doing that, Ruth, I'd like to have you open your eyes and look at me. And now I want to teach you something of importance, as soon as your right hand touches your face. And it'll start moving away, and so we'll have that alternate movement. Do you understand? And Ruth, I want you to discover something else. It is rather hard for you to guide your hand. That's it.",
+            "importance": 0.0048521440237205,
+            "probability": 0.03225806451612903
+        },
+        {
+            "pattern_id": "ERICKSON_UTILIZATION_AND_EXCLUSION",
+            "formula": "i->see->them; erickson->draw->picture",
+            "logic": "특정한 시각적 형상이나 인상에 강력하게 집중하게 함으로써 그 외의 현실을 일시적으로 지워버리는 '부정적 환각' 원리를 활용하여, 최면의 깊이를 심화하고 암시의 집중도를 높이는 기법이다.",
+            "example": "I saw them as they were. [Erickson draws a simple picture of a cloud effect with a 3 and an m in the center.] And this excluded everything else!",
+            "importance": 0.0048455208010632,
+            "probability": 0.03225806451612903
+        },
+        {
+            "pattern_id": "ERICKSON_METAPHOR_INSIGHT",
+            "formula": "i->remember->anything; i->have->nickname",
+            "logic": "일상적이고 사소한 일화에서 갑작스러운 깨달음(통찰)이 발생하는 과정을 묘사하여, 내담자의 무의식이 스스로의 문제를 해결할 수 있는 핵심 아이디어를 번뜩이듯 찾아내게 돕는 기법이다.",
+            "example": "Yes, I can’t remember anything else pertaining to that day. The most blinding, dazzling flash of light occurred in my sophomore year of high school. I had the nickname in grade school and high school, “Dictionary,” because I spent so much time reading the dictionary in the back of the room. Suddenly a blinding, dazzling flash of light occurred because I just learned how to use the dictionary. Up to that moment in looking up a word, I started at the first page and went through every column, page after page until I reached the word. In that blinding flash of light I realized that you use the alphabet as an ordered system for looking up a word. The students who brought their lunch to school always ate in the basement. I don’t know how long I sat there completely dazzled by the blinding light, but when I did get down to the basement, most of the students had finished their lunches. When they asked me why I was so late in reaching the basement, I knew that I wouldn’t tell them that I had just learned how to use the dictionary. I don’t know why it took me so long. Did my unconscious purposely withhold that knowledge because of the immense amount of education I got from",
+            "importance": 0.0048455208010632,
+            "probability": 0.03225806451612903
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+{"id": "test-1", "request": {"model": "models/gemini-3-flash-preview", "contents": [{"role": "user", "parts": [{"text": "hi"}]}]}}

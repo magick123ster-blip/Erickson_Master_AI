@@ -1,0 +1,62 @@
+=== CONTEXT-RESPONSE MAPPING (TF-IDF TRIGGER WORDS) ===
+
+--- [Strategy Cluster 0: 결핍의 치명적 자산화] ---
+CONTEXT TRIGGERS (What problems/states trigger this strategy?):
+parental(0.32), parents(0.22), alliance(0.17), mother(0.16), conspiratorial(0.15), childhood(0.14), dynamics(0.14), children(0.14), developmental(0.13), sucking(0.12), sibling(0.11), bedwetting(0.10), habit(0.10), old(0.10), biological(0.09), authority(0.09), systemic(0.08), modification(0.08), parenting(0.08), thumb(0.08)
+
+--- [Strategy Cluster 1: 시간적 지연과 과정의 유예] ---
+CONTEXT TRIGGERS (What problems/states trigger this strategy?):
+expectant(0.19), exploring(0.18), probing(0.14), destabilizing(0.13), curiosity(0.12), 질문(0.12), 대한(0.11), 내담자의(0.11), assessing(0.11), 유도(0.10), verification(0.10), residence(0.10), extremely(0.10), transderivational(0.09), checking(0.09), depth(0.09), clarification(0.09), certainty(0.09), location(0.09), authoritarian(0.08)
+
+--- [Strategy Cluster 2: 부정적 예스-세트] ---
+CONTEXT TRIGGERS (What problems/states trigger this strategy?):
+accepting(0.19), 내담자의(0.16), confirming(0.14), 대한(0.12), blunt(0.11), 수용(0.10), agreement(0.10), compliance(0.10), authoritarian(0.09), 문장(0.09), effort(0.08), treatment(0.08), profoundly(0.08), confident(0.08), 구조(0.08), definition(0.08), punchy(0.08), certain(0.08), monosyllabic(0.08), boundary(0.07)
+
+--- [Strategy Cluster 3: 문제의 기술적 해체] ---
+CONTEXT TRIGGERS (What problems/states trigger this strategy?):
+expectant(0.18), markers(0.17), distortion(0.15), childhood(0.14), deepening(0.11), awakening(0.11), marker(0.11), timing(0.10), inevitable(0.09), posthypnotic(0.09), termination(0.09), accepting(0.09), continuity(0.09), moment(0.09), possibilities(0.08), authoritarian(0.08), retrieval(0.08), curiosity(0.08), distant(0.08), early(0.08)
+
+--- [Strategy Cluster 4: 우회적 성취 루프] ---
+CONTEXT TRIGGERS (What problems/states trigger this strategy?):
+principle(0.22), symptoms(0.15), psychosomatic(0.12), anecdote(0.11), rationale(0.10), study(0.10), methodology(0.10), financial(0.10), patients(0.09), chronic(0.09), commitment(0.09), term(0.09), hypnosis(0.08), paradoxically(0.08), long(0.08), maneuver(0.08), reframe(0.08), explanatory(0.08), rigid(0.08), psychotherapy(0.08)
+
+--- [Strategy Cluster 5: 저항의 역설적 과제화] ---
+CONTEXT TRIGGERS (What problems/states trigger this strategy?):
+내담자의(0.21), accepting(0.20), authoritarian(0.16), 대한(0.12), agreement(0.11), paradoxically(0.10), hypnosis(0.10), disclosure(0.08), safety(0.08), modal(0.07), fear(0.07), clause(0.07), permission(0.07), cooperation(0.07), reduce(0.07), reassurance(0.07), compliance(0.07), demonstration(0.07), 유도(0.06), 통한(0.06)
+
+--- [Strategy Cluster 6: 기억 단절을 위한 일상적 닻] ---
+CONTEXT TRIGGERS (What problems/states trigger this strategy?):
+processes(0.24), amnesia(0.23), awakening(0.16), hypnosis(0.15), retrieval(0.15), deepening(0.14), posthypnotic(0.13), knowing(0.11), functional(0.11), explanatory(0.11), deep(0.11), signaling(0.11), mental(0.10), anecdotal(0.09), cues(0.09), principle(0.09), demonstration(0.09), faculties(0.08), effect(0.08), phenomena(0.08)
+
+--- [Strategy Cluster 7: 데이터 기반의 논리 폭파] ---
+CONTEXT TRIGGERS (What problems/states trigger this strategy?):
+marital(0.45), husband(0.28), marriage(0.20), spouse(0.18), wife(0.18), dynamics(0.15), dysfunctional(0.10), couple(0.10), couples(0.08), confrontation(0.08), financial(0.07), boundary(0.07), breaking(0.07), format(0.07), gender(0.07), 갈등(0.07), divorce(0.07), intimate(0.07), interpersonal(0.06), relationships(0.06)
+
+--- [Strategy Cluster 8: 허용적 전제 질문법] ---
+CONTEXT TRIGGERS (What problems/states trigger this strategy?):
+내담자의(0.15), expectant(0.15), curiosity(0.14), presupposes(0.13), exploring(0.13), probing(0.13), authoritarian(0.12), agreement(0.12), depth(0.11), checking(0.11), deepening(0.10), assessing(0.10), elicit(0.10), existence(0.09), 대한(0.09), mysterious(0.09), amnesia(0.09), 의문문(0.09), belief(0.08), 질문(0.08)
+
+--- [Strategy Cluster 9: 학술/역사적 닻 내리기] ---
+CONTEXT TRIGGERS (What problems/states trigger this strategy?):
+hypnosis(0.57), principle(0.16), scientific(0.13), fundamental(0.13), functional(0.11), definition(0.10), voice(0.09), january(0.09), introduction(0.09), define(0.08), power(0.08), rationale(0.08), report(0.08), wake(0.08), featuring(0.08), terms(0.07), phenomena(0.07), academic(0.07), research(0.07), demystifying(0.07)
+
+--- [Strategy Cluster 10: 최소 개입 페이싱] ---
+CONTEXT TRIGGERS (What problems/states trigger this strategy?):
+processes(0.13), hypnosis(0.12), anecdotal(0.11), confirming(0.11), cues(0.10), visual(0.10), principle(0.09), amnesia(0.09), awakening(0.08), interference(0.08), motor(0.08), expectant(0.08), interpreting(0.08), demonstration(0.07), rich(0.07), rationale(0.07), mental(0.07), location(0.07), movements(0.07), indicators(0.07)
+
+--- [Strategy Cluster 11: 증상 소유권 부여] ---
+CONTEXT TRIGGERS (What problems/states trigger this strategy?):
+symptoms(0.17), chronic(0.17), relief(0.13), cancer(0.12), headache(0.12), paradoxically(0.12), intensity(0.12), terminal(0.12), injury(0.11), healing(0.11), treatment(0.10), displacement(0.10), 환자의(0.10), psychosomatic(0.09), fear(0.08), release(0.08), trauma(0.08), reduction(0.08), suffering(0.08), insomnia(0.08)
+
+--- [Strategy Cluster 12: 일상 감각의 메타포화] ---
+CONTEXT TRIGGERS (What problems/states trigger this strategy?):
+hand(0.28), motor(0.23), levitation(0.20), deepening(0.16), catalepsy(0.14), directing(0.13), involuntary(0.13), 신체적(0.12), arm(0.12), movements(0.11), visual(0.11), relaxation(0.10), mental(0.10), conjunctions(0.10), parts(0.10), cues(0.09), signaling(0.08), authoritarian(0.08), linkage(0.08), responses(0.08)
+
+--- [Strategy Cluster 13: 자아-무의식 해리 유도] ---
+CONTEXT TRIGGERS (What problems/states trigger this strategy?):
+amnesia(0.20), deepening(0.13), mental(0.12), split(0.11), retrieval(0.11), 대한(0.10), discovery(0.10), 내담자의(0.10), processes(0.10), hand(0.10), visual(0.10), ignorance(0.10), bypassing(0.10), cues(0.09), signaling(0.09), authoritarian(0.09), mysterious(0.09), 유도(0.09), directing(0.09), eye(0.09)
+
+--- [Strategy Cluster 14: 인지 과부하] ---
+CONTEXT TRIGGERS (What problems/states trigger this strategy?):
+anecdote(0.21), anecdotal(0.20), demonstration(0.14), childhood(0.13), definition(0.12), principle(0.12), illustrative(0.12), humorous(0.11), hypnosis(0.11), processes(0.11), generalization(0.09), visual(0.09), theoretical(0.08), effect(0.08), illustrate(0.07), intellectually(0.07), mental(0.07), functional(0.07), rationale(0.07), vivid(0.07)
+

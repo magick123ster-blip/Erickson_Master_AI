@@ -1,0 +1,1010 @@
+[
+  {
+    "index": 184,
+    "header_line": "89 / 95",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Yes, and she is a legal secretary. And her reason for coming to me was, “I’ve had a lobotomy, and my family thinks I ought to go back and live with them, but I want to earn my own living, and I can handle myself satisfactorily.’’ Well, it happens that I know her employer very well, and he thinks she is a prize secretary. And she said, “Now, I want a psychiatric examination so that I can report to my parents that I’ve seen a psychiatrist and that he says it’s all right for me to earn my own living.”\"\n",
+      "instruction": "- **Instruction (지시어):** Describe a clinical case where a patient with a significant medical history, such as a lobotomy, seeks your help to prove their independence to their family. Focus on utilizing the patient's existing professional strengths and external social validation to frame their request for an examination as a tool for autonomy.",
+      "reasoning": "- **Reasoning Trace (사고 과정):** To approach this case in an Ericksonian manner, I first accept the patient's reality—the lobotomy—without treating it as a limiting disability. I immediately shift the focus to her functional identity as a 'legal secretary,' which implies high-level cognitive skills. By mentioning my personal connection to her employer and his high regard for her ('prize secretary'), I provide objective, external evidence of her competence that bypasses the family's subjective fears. I frame the psychiatric examination not as a diagnostic hurdle to see if she is 'sane,' but as a strategic instrument she is actively choosing to use to manage her family's expectations. This empowers the patient as the director of her own life, utilizing the psychiatrist's authority to validate her pre-existing success.",
+      "context": "- **Context:** Patient seeking autonomy after a lobotomy\n\n"
+    }
+  },
+  {
+    "index": 185,
+    "header_line": "90 / 95",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Yes, you can actually debate that question, but not in this sort of a fashion, every night as you try to fall asleep. You are a little bit overweight; you need the exercise; you are a third-year medical student.\"\n",
+      "context": "- **Context:** Redirection of psychological rumination into physical activity\n\n"
+    }
+  },
+  {
+    "index": 186,
+    "header_line": "91 / 95",
+    "fields": {
+      "context": "- **Context:** Overcoming resistance by shifting the locus of control to the patient\n\n"
+    }
+  },
+  {
+    "index": 187,
+    "header_line": "92 / 95",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"You use an awful lot of energy staying awake. You resort to every conceivable measure of preventing sleep. Now, if you sleep and rest yourself thoroughly, you will have an over-supply of energy. What would you really like to do with that energy? What constructive or instructive or developmental project would you like to undertake to use\"\n",
+      "context": "- **Context:** Insomnia treatment through energy redirection\n\n"
+    }
+  },
+  {
+    "index": 188,
+    "header_line": "93 / 95",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"You cased the various parking lots; you discovered a car with the keys left in it; you made note of the attendant’s habits; and one day, when the attendant went across the street to get a Coke or ice cream, you slipped into the lot and just casually drove off on the other side. You drove within the speed limit; you drove the car a total of 25 miles; you parked it very prominently on the top of a hill about six blocks from home; you got out and walked the rest of the way home, leaving the car to be discovered by the police. You weren’t caught, you didn’t violate the speed laws, or anything. You stole the car by driving it like a perfectly good citizen, not like a competent thief. And how are you going to use that energy that you’ve put into that sort of a failure? How are you going to put it to use?\"\n",
+      "instruction": "- **Instruction (지시어):** Describe a patient's past failure in a way that highlights their hidden discipline and competence, then pivot to ask how that same energy can be redirected toward a constructive goal, using Erickson's style of utilization and reframing.",
+      "reasoning": "- **Reasoning Trace (사고 과정):** 1. Establish Rapport through Pacing: I will recount the specific details of the patient's actions (casing lots, noting habits) to show deep listening and validation of their reality. 2. Neutralize Moral Judgment: I will describe the theft not as a moral failing, but as a sequence of logistical steps. This bypasses the patient's defensive ego and allows them to view their own behavior objectively. 3. Identify the Paradox: I will point out that the patient acted like a 'good citizen' while committing a crime. This highlights the patient's innate tendency toward order and discipline, even in a 'failure.' 4. Reframing the Failure: I will label the event as a 'sort of failure' not because it was a crime, but because the energy was wasted. 5. The Therapeutic Pivot (Utilization): I will conclude with a direct question about how to use that same 'energy' for something else. This forces the patient's unconscious to search for positive applications of their existing skills and resources.",
+      "context": "- **Context:** Analyzing a patient's self-sabotaging behavior through a specific past event to identify underlying strengths.\n\n"
+    }
+  },
+  {
+    "index": 189,
+    "header_line": "94 / 95",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"You know that your present position indicates that you are full of resistance. I don’t think unconsciously you want hypnosis. Therefore, my feeling is that first of all, in addition to your neurodermatitis, we recognize your resistance as a part of the problem. You say you married your husband for his money; many a man takes a job for money, and there is nothing wrong with that. Even if he doesn’t work for his job he may take it just to have the money. Many a man marries a woman for money. I think he works for it and he earns it if he marries her for her money. If a woman marries a man for his money, I think she is going to earn it, for she is going to have to put up with a lot of things. So, if you have a job that is going to pay you big money, all I can say is, congratulations. Don’t ask me to take any moralistic attitude about your marriage because I am awfully, awfully certain that you are earning every cent of it, and that you will keep on earning every cent of it. The question really is this: you are going to have your resistances to a lot of things, because in working at the kind of a job you have elected, you are going to have to resist a lot of emotional distress; you are going to have to resist a lot of unhappiness, a lot of disappointment. Why not use your powers of resistance in that regard and leave your neurodermatitis unprotected for me to handle?\"\n",
+      "instruction": "- **Instruction (지시어):** A patient with neurodermatitis is highly resistant and skeptical. She confesses she married her husband only for money, expecting judgment. Demonstrate how to utilize her resistance and reframe her marriage to facilitate therapy.",
+      "reasoning": "- **Reasoning Trace (사고 과정):** First, I will explicitly acknowledge her resistance to create a 'yes-set' of reality. Second, I will address her confession about marrying for money not with moral judgment, but by reframing it as a difficult 'job' that she 'earns.' This validates her struggle and reduces her need to defend herself against me. Third, I will define her resistance as a necessary tool for her 'job' (the marriage), thereby validating the resistance itself. Finally, I will suggest a strategic redirection: use that powerful resistance to handle the emotional distress of her marriage, while leaving the neurodermatitis 'unprotected' for me to treat. This bypasses the ego's defense by giving the resistance a 'useful' place to go.",
+      "context": "- **Context:** Utilizing patient resistance and reframing moral issues to bypass defense mechanisms.\n\n"
+    }
+  },
+  {
+    "index": 190,
+    "header_line": "95 / 95",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Maybe you consider it small to be intense about swearing; maybe you consider it small to be intense about saying ‘Darn.’ And in some peoples’ lives it can be considered small to feel intensely about smoking. But if you do feel intensely about something, I think that you—as the TB patient with only one lung—with a family, a wife (unskilled), and your own precarious health—that you can afford to feel strongly about the wastefulness of cigarettes. The wastefulness. You have a family to support; you have a limited physical ability; you are not a white-collar man; you work at manual labor; you have lost one lung; you are handicapped. I think you can afford to feel strongly about any kind of waste. You’d rather object to your wife throwing away 25 cents worth of butter a day. You would object to her throwing away 50 cents worth of meat. You would really object to her throwing away 75 cents worth of food supplies a day. I think you can feel rather strongly on the subject of wasting 75 cents by blowing 75 cents of smoke away. I don’t know how you want to do that—whether you want to start with 1/60 of 75 cents and save 1/60 of 75 cents by cutting down your cigarettes from three packages a day—but I think you could feel strongly about that waste of one plus cents a day; that you could really feel strongly about the waste of 2 cents a day, of 3 cents, of 4 cents, of 8 cents, of 16 cents, 32 cents, 64 cents, 75 cents a day.\"\n"
+    }
+  },
+  {
+    "index": 191,
+    "header_line": "1 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"She didn’t watch her wiggle and watch all the others wiggle. Now all of you understand what I mean when I say “watch the others wiggle.” You’re staying awfully still for somebody who is awake. Now let your arm get more and more tired until you want to... use your left hand to push it down....\"\n",
+      "context": "- **Context:** Trance induction through group observation and physical fatigue\n\n"
+    }
+  },
+  {
+    "index": 192,
+    "header_line": "2 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"You’re not sure. Do you think your eyes will soon close?\"\n",
+      "context": "- **Context:** Inducing trance through physiological focus\n\n"
+    }
+  },
+  {
+    "index": 193,
+    "header_line": "3 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"So I am saying something that children think about. And palm reading is another useful thing. And the fact that Count Dracula is a long, long way from Reading Park allowed for amnesia and directed her attention away from this chair to Reading Park, to her childhood, to the past, and I didn’t tell her to have an amnesia.\"\n",
+      "instruction": "- **Instruction (지시어):** Explain the psychological mechanism behind using childhood themes and spatial displacement to induce amnesia without a direct command.",
+      "reasoning": "- **Reasoning Trace (사고 과정):** To bypass conscious resistance to amnesia, I utilize the natural curiosity and imaginative capacity of the childhood mind. By introducing elements like palm reading and Count Dracula, I engage the patient in a non-threatening, regressive state. I then create a mental distance by contrasting the immediate environment ('this chair') with a distant, emotionally resonant location ('Reading Park'). This spatial and temporal shift naturally draws the patient's attention away from the present therapeutic work. By focusing her mind on the 'long, long way' between these points, I facilitate a natural fading of the immediate memory—amnesia—without ever having to issue a direct, potentially confrontational instruction to forget.",
+      "context": "- **Context:** Technique explanation regarding Carol\n\n"
+    }
+  },
+  {
+    "index": 194,
+    "header_line": "4 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Would you find a card there for me please?\"\n",
+      "instruction": "- **Instruction (지시어):** Generate a request for a card using Milton Erickson's indirect and permissive style to minimize resistance and encourage cooperation.",
+      "reasoning": "- **Reasoning Trace (사고 과정):** To achieve the goal of obtaining a card without appearing authoritarian, I will frame the command as a polite question. By using the phrase 'Would you find,' I am shifting the focus from my demand to the subject's own capability and agency. The word 'find' is particularly effective because it suggests a process of discovery or a small task that the subject can successfully complete, thereby building a micro-momentum of compliance. The inclusion of 'there' provides a soft spatial direction without being overly rigid, and 'for me please' frames the action as a cooperative social gesture rather than a clinical instruction. This approach bypasses the subject's critical faculty by making the request feel like a natural part of a helpful interaction.",
+      "context": "- **Context:** Requesting a physical object (a card)\n\n"
+    }
+  },
+  {
+    "index": 195,
+    "header_line": "5 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Would you like to meet that kind of beautiful genie?\"\n",
+      "instruction": "- **Instruction (지시어):** Invite the client to explore their unconscious potential by using a metaphor that bypasses conscious resistance.",
+      "reasoning": "- **Reasoning Trace (사고 과정):** I utilize the 'genie' as a powerful metaphor for the unconscious mind, framing the encounter as a desirable and aesthetic experience. By repeating the question, I gently focus the subject's attention on the possibility of inner discovery without imposing a direct command. This approach encourages a voluntary opening to the subconscious while maintaining a safe, curiosity-driven therapeutic environment.",
+      "context": "- **Context:** Unconscious resource exploration\n\n"
+    }
+  },
+  {
+    "index": 196,
+    "header_line": "6 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"It is a real genie that comes out of a light. Now are you sure that you would like to see her?\"\n",
+      "context": "- **Context:** The manifestation of a subconscious metaphor (genie)\n\n"
+    }
+  },
+  {
+    "index": 197,
+    "header_line": "7 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Betty, is there any way of turning on Blinky?\"\n",
+      "context": "- **Context:** Turning on a specific object named Blinky\n\n"
+    }
+  },
+  {
+    "index": 198,
+    "header_line": "8 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"And would you explain to him?\"\n",
+      "context": "- **Context:** Delegating an explanation to a participant\n\n"
+    }
+  },
+  {
+    "index": 199,
+    "header_line": "9 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"The George Washington Bridge.\"\n",
+      "instruction": "- **Instruction (지시어):** Suggest an alternative location for a therapeutic walk to a client who has already proposed the Brooklyn Bridge, adopting Milton Erickson's style of brief, indirect suggestion.",
+      "reasoning": "- **Reasoning Trace (사고 과정):** First, I must accept the client's premise that walking across a bridge is a valid therapeutic action, which follows the principle of 'utilization.' However, to facilitate change, I need to gently shift the client's focus away from their own suggestion to prevent them from staying within their existing mental loop. By providing a specific alternative—the George Washington Bridge—I am not debating the Brooklyn Bridge but expanding the client's field of possibilities. The George Washington Bridge is physically larger and offers a different perspective, which metaphorically suggests a broader outlook on their depression. I will present this as a simple, unadorned fact to bypass conscious critical analysis and plant the seed of a new experience directly into the unconscious.",
+      "context": "- **Context:** Walking as a therapeutic intervention for depression\n\n"
+    }
+  },
+  {
+    "index": 200,
+    "header_line": "10 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"You are less sure about being awake.\"\n",
+      "context": "- **Context:** Transitioning from wakefulness to trance\n\n"
+    }
+  },
+  {
+    "index": 201,
+    "header_line": "11 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Um-hum. And making certain she could put her hand down.\"\n",
+      "context": "- **Context:** Hand movement and motor control\n\n"
+    }
+  },
+  {
+    "index": 202,
+    "header_line": "12 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Neither is that bulldog technique of yours you use on your patients. Why don’t you use a gentle, little, soft-spoken voice on some of your patients?\"\n",
+      "reasoning": "- **Reasoning Trace (사고 과정):** 1. Identify the core problem: The patient is using excessive force ('bulldog technique') which is counterproductive and leads to an unnecessarily long trance duration. 2. Use a negative comparison: Start with 'Neither is...' to link the patient's current dissatisfaction (the duration) with their habitual style of interaction. 3. Metaphorical Labeling: Label the patient's current style as a 'bulldog technique' to highlight its aggressive and stubborn nature, making it something the patient can objectively look at and potentially discard. 4. Indirect Suggestion via Rhetorical Question: Instead of commanding the patient to change, ask 'Why don't you...?' This invites the patient to consider the alternative as their own choice, reducing resistance. 5. Sensory-Rich Language: Use specific adjectives like 'gentle', 'little', and 'soft-spoken' to provide a clear, contrasting auditory and behavioral target for the patient to emulate. 6. Professional Context Utilization: Apply the advice to the patient's own clinical practice ('on some of your patients'), which allows the patient to practice the new behavior in a professional role, which will then naturally generalize to their own self-trance experiences.",
+      "context": "- **Context:** Transitioning from rigid control to a softer therapeutic approach\n\n"
+    }
+  },
+  {
+    "index": 203,
+    "header_line": "13 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"In your next psychoanalytic situation, why don’t you surprise the living daylights out of your analyst by pouring out all the information you have withheld from him for three long months, and deluge him with it?\"\n",
+      "context": "- **Context:** Overcoming resistance in psychoanalysis\n\n"
+    }
+  },
+  {
+    "index": 204,
+    "header_line": "14 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"It will probably lift him right off his chair. Thank you very much.\"\n",
+      "context": "- **Context:** The psychological and physiological impact of a song on a listener\n\n"
+    }
+  },
+  {
+    "index": 205,
+    "header_line": "15 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Not really. Not really. Therefore, one doesn’t bargain, because if you learn space and sound, you can’t fear—just as Danny couldn’t fear when he learned space and sound. I didn’t try to treat Danny for his agoraphobia.\"\n",
+      "context": "- **Context:** The futility of bargaining with symptoms and the power of sensory learning\n\n"
+    }
+  },
+  {
+    "index": 206,
+    "header_line": "16 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"I see you haven’t got the diagnosis yet. Why don’t you look at the patient. It is an awfully hot, humid day. Just look at the patient. As soon as you get the diagnosis, go to the nurses’ station and call me. I will be back in an hour’s time.\"\n",
+      "instruction": "- **Instruction (지시어):** As Milton Erickson, provide a prompt to students who are failing to diagnose a patient, using an indirect suggestion that directs their attention to a specific environmental factor as a clue.",
+      "reasoning": "- **Reasoning Trace (사고 과정):** First, I must acknowledge the current reality—the students' failure to reach a diagnosis—to establish a baseline of honesty. Then, I redirect their attention from internal theoretical searching to external sensory observation by repeatedly telling them to 'look at the patient.' To facilitate their insight without giving the answer, I introduce a 'truism' about the environment—the heat and humidity. This is not small talk; it is a strategic redirection to help them notice how the patient is reacting to the environment (e.g., sweating, breathing patterns, or skin condition). Finally, I embed a post-hypnotic-like suggestion: I assume they *will* get the diagnosis by giving them the next behavioral step (calling me at the station), thereby installing the expectation of success within a specific timeframe.",
+      "context": "- **Context:** Clinical diagnosis and observational training\n\n"
+    }
+  },
+  {
+    "index": 207,
+    "header_line": "17 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Well, that one over there looks interesting.\"\n",
+      "context": "- **Context:** Guiding a child to pick up blocks\n\n"
+    }
+  },
+  {
+    "index": 208,
+    "header_line": "18 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"You may even do perfectly remarkable things.\"\n",
+      "context": "- **Context:** Unconscious competence and post-hypnotic potential\n\n"
+    }
+  },
+  {
+    "index": 209,
+    "header_line": "19 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"There is the blueness of the sky, and you’ve got darkness around you. There is the blueness of the sky and the brightness of the stars, and you've got darkness around you.\"\n",
+      "context": "- **Context:** Indirectly introducing the concept of the color black\n\n"
+    }
+  },
+  {
+    "index": 211,
+    "header_line": "21 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"And so, in an apparently random fashion, I stated that I could place a chair right there, that it would be just about so far from the bookcase, about so far from the door, about so far from my desk, and it would be really very nice to sit in that chair and be able to talk when sitting in that chair.\"\n",
+      "context": "- **Context:** Managing resistance through spatial anchoring and indirect suggestion\n\n"
+    }
+  },
+  {
+    "index": 212,
+    "header_line": "22 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"You simply wait. You let me do the talking. In time I'll ask you certain things. And as it becomes a natural feeling with you, you will answer, but in your own way.\"\n",
+      "context": "- **Context:** Relaxation and induction\n\n"
+    }
+  },
+  {
+    "index": 213,
+    "header_line": "23 / 88",
+    "fields": {
+      "context": "- **Context:** Hypnotic amnesia through the 'I don't know' set\n\n"
+    }
+  },
+  {
+    "index": 214,
+    "header_line": "24 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Would you like to have the fun of finding out what it is you want to say?\"\n",
+      "context": "- **Context:** Unconscious self-discovery\n\n"
+    }
+  },
+  {
+    "index": 215,
+    "header_line": "25 / 88",
+    "fields": {
+      "context": "- **Context:** Explaining the mechanics of covert hypnotic suggestions and their unconscious integration.\n\n"
+    }
+  },
+  {
+    "index": 216,
+    "header_line": "26 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"That is better than telling him, 'Don't put it down.'\"\n",
+      "instruction": "- **Instruction (지시어):** Explain the psychological advantage of avoiding direct negative commands in favor of indirect suggestions to bypass client resistance.",
+      "reasoning": "- **Reasoning Trace (사고 과정):** I will evaluate the impact of direct negative imperatives on the conscious mind and how they often provoke immediate resistance. By contrasting a direct command with a more nuanced approach, I will illustrate the clinical value of preserving the subject's autonomy while guiding their behavior. This comparison serves to reinforce the effectiveness of indirect communication in achieving therapeutic outcomes without triggering the critical factor.",
+      "context": "- **Context:** Comparison between direct commands and indirect therapeutic communication\n\n"
+    }
+  },
+  {
+    "index": 217,
+    "header_line": "27 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"That's right! Just \"wait and see.\" That is so enigmatic that it arouses expectation!\"\n",
+      "context": "- **Context:** Avoiding resistance through strategic ambiguity\n\n"
+    }
+  },
+  {
+    "index": 218,
+    "header_line": "28 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"\"And keep it in mind,\" but I didn't do it elaborately, \"Now forever more you will remember!\"\"\n",
+      "context": "- **Context:** The strategic use of casual phrasing in post-hypnotic suggestions\n\n"
+    }
+  },
+  {
+    "index": 219,
+    "header_line": "29 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"You could have remained in it for hours, so long as you didn't hear me leave.\"\n",
+      "context": "- **Context:** Trance duration and stability\n\n"
+    }
+  },
+  {
+    "index": 220,
+    "header_line": "30 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"That's it! When she is ready, not when you are ready. You wait for that undefinable behavior that she manifests. You don't ask a girl for a kiss, but in her presence you just gaze thoughtfully at the mistletoe. You are just being thoughtful. She gets the idea, and she starts thinking about the kiss.\"\n",
+      "context": "- **Context:** Indirect suggestion and the importance of timing in psychological intervention\n\n"
+    }
+  },
+  {
+    "index": 221,
+    "header_line": "31 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Various groups of medical students are going to work with you. I want you to do whatever they really mean.\"\n",
+      "instruction": "- **Instruction (지시어):** Explain to a subject how they should respond to upcoming instructions from medical students, emphasizing the importance of responding to the underlying intent rather than just the literal words.",
+      "reasoning": "- **Reasoning Trace (사고 과정):** 1. Establish the external reality: Inform the subject that they will be interacting with various groups of medical students to set the stage for the experiment. 2. Introduce a directive that shifts the focus from the conscious to the unconscious level: Use the phrase 'whatever they really mean'. 3. The word 'really' acts as a linguistic presupposition, implying that there is a deeper, more authentic meaning beneath the surface of the students' literal instructions. 4. By telling the subject to follow the 'meaning' rather than the 'words', I am effectively inducing a state of heightened unconscious sensitivity. 5. This instruction serves a dual purpose: it protects the subject from potentially clumsy phrasing by novice students and ensures the hypnotic phenomena occur based on the students' actual goals, while simultaneously deepening the subject's rapport with the unconscious process.",
+      "context": "- **Context:** Hypnotic experiment instructions regarding unconscious intent\n\n"
+    }
+  },
+  {
+    "index": 222,
+    "header_line": "32 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Do you think you could take her by the left hand and bring her up here?\"\n",
+      "context": "- **Context:** Requesting assistance to move a subject to the stage\n\n"
+    }
+  },
+  {
+    "index": 223,
+    "header_line": "33 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Mother, you may not believe in hypnosis; you may not believe that hypnosis can do anything for you. But listen to what I say to your daughter.\"\n",
+      "context": "- **Context:** Overcoming skepticism through indirect communication\n\n"
+    }
+  },
+  {
+    "index": 224,
+    "header_line": "34 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Do your eyes feel like resting and closing for a moment while your unconscious mind explores that [whatever]?\"\n",
+      "context": "- **Context:** Inducing trance and internal search through permissive questioning\n\n"
+    }
+  },
+  {
+    "index": 225,
+    "header_line": "35 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"I want you to be quiet for a moment, and as you think that over we will see what else your unconscious mind brings up about it. And you don't have to talk until you really feel comfortable about it.\"\n",
+      "context": "- **Context:** Indirect suggestion for therapeutic silence and unconscious processing\n\n"
+    }
+  },
+  {
+    "index": 226,
+    "header_line": "36 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"And you saw someone else demonstrate scratching your sheet. It felt good. And that nurse was very successful.\"\n",
+      "context": "- **Context:** Reinforcing a motor suggestion through vicarious observation\n\n"
+    }
+  },
+  {
+    "index": 227,
+    "header_line": "37 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"I implied sex, and then I returned with there is someone else.\"\n",
+      "context": "- **Context:** Mechanism of indirect suggestion and redirection\n\n"
+    }
+  },
+  {
+    "index": 228,
+    "header_line": "38 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Now do you mind thinking, just thinking about something highly emotional?\"\n"
+    }
+  },
+  {
+    "index": 229,
+    "header_line": "39 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Um hum. Now, my question was, Do you mind thinking about a highly emotional matter?\"\n",
+      "context": "- **Context:** Clarifying a question about emotional exploration\n\n"
+    }
+  },
+  {
+    "index": 230,
+    "header_line": "40 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Well, I didn't ask her to confide in me, but the effect is what?\"\n",
+      "context": "- **Context:** Interaction with a patient (R) regarding trust and self-disclosure\n\n"
+    }
+  },
+  {
+    "index": 231,
+    "header_line": "41 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Now suppose you raise your hand.\"\n",
+      "context": "- **Context:** Trance induction and deepening\n\n"
+    }
+  },
+  {
+    "index": 232,
+    "header_line": "42 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Before the episiotomy, perhaps subsequent to it. But I wonder if before the episiotomy you had some overlooked, forgotten feeling in your breasts. You don't need to tell me.\"\n",
+      "context": "- **Context:** Exploring physical and emotional sensations related to childbirth and medical procedures\n\n"
+    }
+  },
+  {
+    "index": 233,
+    "header_line": "43 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Think it over just a little bit. You got so close to it that Dr. Rossi here knows exactly what Dr. Moore meant.\"\n"
+    }
+  },
+  {
+    "index": 234,
+    "header_line": "44 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"You have an opportunity there to find out.\"\n",
+      "context": "- **Context:** Self-discovery and seizing opportunities\n\n"
+    }
+  },
+  {
+    "index": 235,
+    "header_line": "45 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Suppose you reach down into your repressions and bring up a few pieces of the picture.\"\n",
+      "context": "- **Context:** Memory recovery and uncovering repressed material\n\n"
+    }
+  },
+  {
+    "index": 236,
+    "header_line": "46 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Take a rest Bob. You have a little more work to do. Maybe if you rest five minutes, we'll have enough strength to do a little more of the work.\"\n",
+      "context": "- **Context:** Inducing rest and preparing for further unconscious work through amnesia\n\n"
+    }
+  },
+  {
+    "index": 237,
+    "header_line": "47 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"It is desirable to do it indirectly, so that the patient does not feel under attack. It is a way of obviating defenses.\"\n",
+      "instruction": "- **Instruction (지시어):** Explain why indirect communication is a superior clinical tool compared to direct confrontation, focusing on the patient's defensive mechanisms.",
+      "reasoning": "- **Reasoning Trace (사고 과정):** To justify the use of indirectness, I must first recognize that the patient's conscious mind is often programmed to resist change as a form of self-protection. If I approach a problem directly, the patient's ego perceives it as a threat or an 'attack,' which immediately triggers defensive walls. My goal is to facilitate change without the friction of conflict. Therefore, I reason that by communicating indirectly—through metaphors, stories, or subtle implications—I can bypass the critical faculty of the conscious mind. This 'obviates' or renders the defenses unnecessary, allowing the therapeutic message to be received in a state of psychological safety. The choice of the word 'obviating' reflects a preference for elegant circumvention over forceful confrontation.",
+      "context": "- **Context:** The strategic rationale for indirect communication in psychotherapy\n\n"
+    }
+  },
+  {
+    "index": 238,
+    "header_line": "48 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"It is possible to put your hand in a position where it has an opportunity.\"\n",
+      "instruction": "- **Instruction (지시어):** Suggest the possibility of a client's hand writing again without using a direct command, focusing on creating the right conditions for the behavior to occur naturally.",
+      "reasoning": "- **Reasoning Trace (사고 과정):** To minimize conscious resistance and performance anxiety, I must avoid telling the client to 'write.' Instead, I will use a truism—a statement that is undeniably true—to gain 'yes-set' momentum. By saying 'It is possible,' I bypass the critical faculty. I will then shift the focus from the client as a whole to the 'hand' specifically, which promotes dissociation. Framing the physical placement of the hand as providing an 'opportunity' creates a psychological space where the unconscious can take over without the ego feeling pressured to perform. This transforms a difficult task into a simple physical arrangement with a potential outcome.",
+      "context": "- **Context:** Encouraging automatic writing or motor recovery of the hand\n\n"
+    }
+  },
+  {
+    "index": 239,
+    "header_line": "49 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Since that did not break down her amnesia, I hint about the fence that was so high in her hallucinations that she had to look up.\"\n",
+      "context": "- **Context:** Breaking amnesia via indirect sensory hints\n\n"
+    }
+  },
+  {
+    "index": 240,
+    "header_line": "50 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"she could and should awaken from the trance state any time that was necessary.\"\n",
+      "context": "- **Context:** Trance Termination and Awakening\n\n"
+    }
+  },
+  {
+    "index": 241,
+    "header_line": "51 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"And thereby evoke a \"yes.\"\"\n",
+      "context": "- **Context:** Evoking agreement from resistant individuals\n\n"
+    }
+  },
+  {
+    "index": 242,
+    "header_line": "52 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"I'm telling her that she has a lot more courage than she knows, and there will be more to become aware of than she knows.\"\n"
+    }
+  },
+  {
+    "index": 243,
+    "header_line": "53 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Yes. If there is a problem here, some of these questions may give her an opportunity to talk about it. But here she just treats them as straightforward questions.\"\n",
+      "context": "- **Context:** The possibility of a subject discussing a hidden problem through indirect questioning.\n\n"
+    }
+  },
+  {
+    "index": 244,
+    "header_line": "54 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"The aside (to R) at the end is actually an indirect suggestion that something is happening.\"\n",
+      "context": "- **Context:** The psychological function of an aside in clinical hypnosis\n\n"
+    }
+  },
+  {
+    "index": 245,
+    "header_line": "55 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"So why don't you look at it?\"\n",
+      "context": "- **Context:** Directing visual focus for trance induction\n\n"
+    }
+  },
+  {
+    "index": 246,
+    "header_line": "56 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Everything I say about S is also a suggestion to H, but he did not know it. Every suggestion I made to S elicits some understanding in H, and that understanding requires that he act it out for himself to some degree.\"\n",
+      "instruction": "- **Instruction (지시어):** Explain the mechanism of how suggestions directed at one person can unconsciously influence another person present in the room.",
+      "reasoning": "- **Reasoning Trace (사고 과정):** To explain the power of indirect suggestion, I must first highlight the bypass of conscious resistance. By addressing S, H's conscious mind relaxes its guard, assuming the message is not for him. However, H's unconscious mind must process the linguistic input to understand it. This processing is not merely intellectual; it involves an internal 'acting out' or simulation of the suggestion. I will frame this as an inevitable psychological process where understanding necessitates a degree of internal experiential realization, thereby turning a third-party observation into a personal hypnotic experience.",
+      "context": "- **Context:** Indirect communication and vicarious hypnotic response\n\n"
+    }
+  },
+  {
+    "index": 247,
+    "header_line": "57 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"\"You can concentrate,\" is a statement of fact, it is not a command. If I say, \"You can,\" it implies, \"you can do that or something else.\" It is not a direct order. It is an inoffensive way of directing.\"\n",
+      "context": "- **Context:** The psychological mechanism of indirect suggestion and the use of modal verbs\n\n"
+    }
+  },
+  {
+    "index": 248,
+    "header_line": "58 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Yes. 'Times when you really need.' What times? You're naturally going to have some memories of some times. So this is her own exploration. She will explore, but S has not told her to explore.\"\n",
+      "instruction": "- **Instruction (지시어):** Explain how the phrase 'Times when you really need' functions as an indirect suggestion that triggers a patient's internal search without direct command.",
+      "reasoning": "- **Reasoning Trace (사고 과정):** First, I will focus on the linguistic ambiguity of the phrase 'Times when you really need.' By not specifying the exact times, I am creating a vacuum that the patient's mind must fill. This triggers what we call a transderivational search, where the unconscious mind scans its history to find relevant experiences. Second, I will emphasize the word 'naturally' to frame this mental activity as an inevitable, biological process rather than a conscious effort. Third, I will highlight the importance of autonomy; by not explicitly telling the patient to 'explore' or 'remember,' I bypass the critical ego and any potential resistance. The goal is to let the patient believe the exploration is entirely their own initiative, while the therapist merely provides the linguistic structure for it to occur.",
+      "context": "- **Context:** Analysis of indirect suggestion and internal search mechanisms\n\n"
+    }
+  },
+  {
+    "index": 249,
+    "header_line": "59 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Can you look over in the direction of the place where he was sitting!\"\n",
+      "context": "- **Context:** Spatial anchoring of a hallucinated entity\n\n"
+    }
+  },
+  {
+    "index": 250,
+    "header_line": "60 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Now, have I done a great deal with you this morning?\"\n",
+      "context": "- **Context:** Recognizing the extent of therapeutic work\n\n"
+    }
+  },
+  {
+    "index": 251,
+    "header_line": "61 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Probably Dr. Rossi is noticing something.\"\n",
+      "context": "- **Context:** Observation of physiological trance indicators (eye blink reflex)\n\n"
+    }
+  },
+  {
+    "index": 252,
+    "header_line": "62 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Now I know that S wants to drift.\"\n",
+      "context": "- **Context:** Validating the patient's internal state to facilitate trance entry\n\n"
+    }
+  },
+  {
+    "index": 253,
+    "header_line": "63 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Yes. Without telling her to be tired!\"\n",
+      "context": "- **Context:** Inducing physiological states through indirect means\n\n"
+    }
+  },
+  {
+    "index": 254,
+    "header_line": "64 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Maybe you were in a trance. That is right. Maybe you are in a trance right now, and don’t know it.\"\n",
+      "context": "- **Context:** Suggesting the possibility of a trance state\n\n"
+    }
+  },
+  {
+    "index": 255,
+    "header_line": "65 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"You don’t know. Maybe it will come in closer and we will be able to see it; and how about tossing that stone there.\"\n",
+      "context": "- **Context:** Waiting for a boat and tossing a stone\n\n"
+    }
+  },
+  {
+    "index": 256,
+    "header_line": "66 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Perhaps you should go down further. Let us stay here for a little while. I like the look of the water down here.\"\n"
+    }
+  },
+  {
+    "index": 257,
+    "header_line": "67 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"I think that you ought to practice taking hold of a wrist or a hand at every opportunity.\"\n",
+      "context": "- **Context:** Practicing tactile contact for trance induction\n\n"
+    }
+  },
+  {
+    "index": 258,
+    "header_line": "68 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Your mother really ought to be free of pain.\"\n",
+      "context": "- **Context:** Bypassing resistance through family involvement\n\n"
+    }
+  },
+  {
+    "index": 259,
+    "header_line": "69 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"you could forget to feel the patting while she looked at her mother and wished that her mother would be free of pain.\"\n",
+      "context": "- **Context:** Pain management and empathy-based sensory dissociation\n\n"
+    }
+  },
+  {
+    "index": 260,
+    "header_line": "70 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Then when I became an intern I was interested in what an anesthetized patient really knows about what is going on during the operation. Do sound waves travel along a specific nerve to a specific center of the brain, if there is such a mechanism for the perception of sound? I soon found out one thing: by inducing trances in patients post-operatively, some of them were able to provide lots of information about what went on during their operations.\"\n",
+      "instruction": "- **Instruction (지시어):** Explain the capacity of the unconscious mind to perceive and store information during states of supposed unconsciousness, such as anesthesia, using a clinical anecdote from your early medical training.",
+      "reasoning": "- **Reasoning Trace (사고 과정):** To effectively convey the power of the unconscious mind, I must first ground the explanation in a relatable, scientific context—my time as a medical intern. I begin by posing a physiological question about sound waves and brain centers to engage the listener's conscious intellect. This creates a frame of objective inquiry. Then, I introduce the intervention: inducing trances post-operatively. By framing the discovery as something I 'found out' through observation rather than something I forced, I bypass the listener's skepticism. The core message is that the unconscious mind is a vigilant observer, even when the conscious mind is chemically suppressed. This validates the importance of the unconscious as a continuous repository of experience, which is a fundamental tenet of my therapeutic approach.",
+      "context": "- **Context:** Unconscious perception and memory retrieval during anesthesia\n\n"
+    }
+  },
+  {
+    "index": 261,
+    "header_line": "71 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"I awakened them from the trance state and asked them to speculate upon the possibilities available to them, and what they thought would happen. In discussing it they said that four children were enough at their ages, and that they had an adequate family. I let them discover, bit by bit, their feelings about this matter of being a ‘‘surgical cripple,’’ and they laughed at me and rejected the idea. Finally they decided upon a vasectomy for the husband.\"\n",
+      "instruction": "- **Instruction (지시어):** Describe the process of guiding a couple to make their own decision about family planning after a trance session, using indirect suggestion and strategic provocation to help them overcome the psychological stigma of sterilization.",
+      "reasoning": "- **Reasoning Trace (사고 과정):** To facilitate a lasting change, I first moved the clients from the trance state to a conscious state where they could integrate their unconscious insights. I used open-ended questioning—asking them to 'speculate'—to ensure the decision-making power remained entirely with them, avoiding any direct command that might trigger resistance. Once they established a logical basis for stopping at four children, I introduced the highly charged term 'surgical cripple.' This was not a diagnosis, but a strategic provocation designed to be rejected. By allowing them to 'discover' their feelings and eventually laugh at the absurdity of that label, I helped them psychologically decouple the medical procedure from any sense of personal inadequacy. Their laughter and rejection of my 'idea' served as a powerful self-assertion of their health and autonomy, leading them to naturally conclude that a vasectomy was the most practical and positive path forward.",
+      "context": "- **Context:** Post-trance family planning and overcoming psychological barriers to sterilization\n\n"
+    }
+  },
+  {
+    "index": 262,
+    "header_line": "72 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"That is, you can use your hypnosis, or you can use hypnotic techniques. Now, Kay, you are staying out of the trance, aren’t you?\"\n",
+      "instruction": "- **Instruction (지시어):** Explain the difference between hypnosis as a state and hypnotic techniques as tools, then use an indirect suggestion to Kay to make her conscious of her current state relative to a trance.",
+      "reasoning": "- **Reasoning Trace (사고 과정):** To begin, I will utilize a 'Distinction' technique to separate the abstract concept of 'hypnosis' from the practical 'hypnotic techniques.' This intellectualizes the process, lowering the subject's analytical resistance. Next, I will shift the focus from the theory to the subject's immediate experience. By addressing Kay directly and asking, 'you are staying out of the trance, aren’t you?', I am using a negative tag question. This is a classic Ericksonean maneuver: by asking if she is 'staying out,' I am forcing her unconscious mind to define the boundary of the trance. The tag question 'aren't you?' nudges her toward an affirmative response, which paradoxically validates the existence and proximity of the trance state itself, often facilitating the very entry I am ostensibly questioning.",
+      "context": "- **Context:** Distinction between hypnosis and hypnotic techniques\n\n"
+    }
+  },
+  {
+    "index": 263,
+    "header_line": "73 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"That's one way. I was thinking of two in particular. But that's one way they can do it. They can hallucinate the other person going into a trance.\"\n",
+      "instruction": "- **Instruction (지시어):** Explain a creative psychological mechanism for a couple to handle an impossible situation in the style of Milton Erickson, using indirect suggestion and the concept of subjective reality.",
+      "reasoning": "- **Reasoning Trace (사고 과정):** First, I will validate the existing perspective to establish rapport and minimize resistance by saying 'That's one way.' Next, I will introduce the idea of multiple possibilities ('I was thinking of two in particular') to stimulate the unconscious search for alternatives. Then, I will present a specific, paradoxical solution—hallucinating the other's trance state. This serves to shift the focus from external conflict to internal psychological processing, allowing the individuals to disengage from the impossible situation without direct confrontation, effectively utilizing their own mental faculties to create a new, manageable reality.",
+      "context": "- **Context:** Creative psychological resolution for interpersonal conflict\n\n"
+    }
+  },
+  {
+    "index": 264,
+    "header_line": "74 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Why don't you follow your own field of interest? You'll probably contribute more that way.\"\n",
+      "context": "- **Context:** Career path and professional identity consultation\n\n"
+    }
+  },
+  {
+    "index": 265,
+    "header_line": "75 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Have you got a yesterday's paper, or have you got some out-of-town paper that's left over? I'm playing a joke on somebody. I'd like some nice flowers. Whatever you think would be a nice joke on somebody, a very nice joke. So I'll put the flowers in this paper, just wrap it up and I'll present it to them.\"\n",
+      "context": "- **Context:** Therapeutic disruption through a practical joke\n\n"
+    }
+  },
+  {
+    "index": 266,
+    "header_line": "76 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Why hasn't the husband done one particular thing?\"\n",
+      "context": "- **Context:** Addressing resistance or omission in a clinical/therapeutic setting regarding fertility testing.\n\n"
+    }
+  },
+  {
+    "index": 267,
+    "header_line": "77 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Is it all right for you to go with her and drive the car?\"\n",
+      "context": "- **Context:** Managing husband's anxiety through task involvement\n\n"
+    }
+  },
+  {
+    "index": 268,
+    "header_line": "78 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"I don't know if you want to buy all of that about your wife.\"\n"
+    }
+  },
+  {
+    "index": 269,
+    "header_line": "79 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"But the goodness of the job on the lawn is going to overweight the negativeness of the quesiton, \"Do you suppose you could clip the hedge?\" \"The devil, I did a good job on the lawn; of course, I could clip the hedge and do just as good a job.\" You're reinforcing the goodness of the lawn job. And your patient is always entitled to a respect of his doubts. You let the correction of his doubts come from within him. I don't think you should say, \"Now that I have taught you to sleep eight hours a night, I can straighten out the rest of your problems.\" No, you say, \"Do you suppose you have any other problem that might be worked on?\" \"I suppose you could straighten out some of my marital problems.\"\"\n",
+      "context": "- **Context:** The efficacy of the negative approach and indirect suggestion in therapy\n\n"
+    }
+  },
+  {
+    "index": 270,
+    "header_line": "80 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"I think she's going to wait until he gets it before she takes it.\"\n",
+      "context": "- **Context:** Predicting the sequence of change in a marital system\n\n"
+    }
+  },
+  {
+    "index": 271,
+    "header_line": "81 / 88",
+    "fields": {
+      "context": "- **Context:** Drugstore phobia and its connection to the menstrual cycle\n\n"
+    }
+  },
+  {
+    "index": 272,
+    "header_line": "82 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Since this is our last session, how about you ... I guess you'd like to ask questions.\"\n",
+      "context": "- **Context:** Inviting questions in the final session\n\n"
+    }
+  },
+  {
+    "index": 273,
+    "header_line": "83 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"To recharge the interest? Drop it for a while and then you can pick up the book in their presence, call their attention to an interesting thing. And you build up\"\n",
+      "context": "- **Context:** Recharging interest through strategic withdrawal and modeling\n\n"
+    }
+  },
+  {
+    "index": 274,
+    "header_line": "84 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Do you suppose there's a lot of other things about yourself you don't know?\"\n",
+      "context": "- **Context:** Unconscious self-discovery and hidden internal resources\n\n"
+    }
+  },
+  {
+    "index": 275,
+    "header_line": "85 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"How does a blind man walk? How does a deaf man sit in a chair—just how?\"\n",
+      "context": "- **Context:** Inducing psychological deafness via behavioral modeling\n\n"
+    }
+  },
+  {
+    "index": 276,
+    "header_line": "86 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Keep on repeating, and mean what you say, and hope her hand lifts higher and higher.\"\n",
+      "instruction": "- **Instruction (지시어):** Create a hypnotic instruction that guides a subject to perform a repetitive task while simultaneously seeding an indirect suggestion for a physical phenomenon like hand levitation.",
+      "reasoning": "- **Reasoning Trace (사고 과정):** First, I will establish a continuous behavioral loop by using the phrase 'Keep on repeating,' which ensures the subject's conscious mind is occupied with a specific task. Second, I will deepen the psychological involvement by adding 'mean what you say,' shifting the focus from mere mechanical repetition to an internal state of sincerity and intent. Third, I will introduce the desired physical outcome—hand levitation—not as a command, but as an object of 'hope.' By using the word 'hope,' I bypass conscious resistance because hope is a passive, expectant state that allows the unconscious mind to initiate the movement autonomously. Finally, I will use the rhythmic reinforcement of 'higher and higher' to suggest a continuous, escalating progression of the physical response.",
+      "context": "- **Context:** Hand levitation through repetitive verbalization and internal intent\n\n"
+    }
+  },
+  {
+    "index": 277,
+    "header_line": "87 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"And tell her that her eyes are going to close.\"\n",
+      "context": "- **Context:** Eye closure induction through a third party\n\n"
+    }
+  },
+  {
+    "index": 278,
+    "header_line": "88 / 88",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"You know, with that color hair and that kind of a wave in it, you really ought not to wear a tight ponytail.\"\n"
+    }
+  },
+  {
+    "index": 279,
+    "header_line": "1 / 73",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Now, another thing I want to call your attention to is the matter of hypnosis. Hypnosis is the ceasing to use your conscious awareness; in hypnosis you begin to use your unconscious awareness. Because unconsciously you know as much and a lot more than you do consciously.\"\n",
+      "instruction": "- **Instruction (지시어):** Explain the nature of hypnosis to a group, focusing on the transition from conscious to unconscious awareness and validating the unconscious mind's superior knowledge.",
+      "reasoning": "- **Reasoning Trace (사고 과정):** To explain hypnosis in an Ericksonian style, I first use a transition phrase to focus the audience's attention. I define hypnosis not as a loss of consciousness, but as a shift in the 'use' of awareness. By framing it as 'ceasing' one function and 'beginning' another, I create a clear dissociation between the conscious and unconscious minds. I then reinforce this transition by providing a psychological justification: the truism that the unconscious mind possesses vast, untapped knowledge. This validates the listener's internal experience and encourages a positive expectation for the hypnotic state, effectively inducing a light trance through the explanation itself.",
+      "context": "- **Context:** Definition and mechanism of hypnosis\n\n"
+    }
+  },
+  {
+    "index": 280,
+    "header_line": "2 / 73",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Did you believe me?\"\n",
+      "context": "- **Context:** Validation of hypnotic suggestion regarding hand immobility\n\n"
+    }
+  },
+  {
+    "index": 281,
+    "header_line": "3 / 73",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"He kept on getting happy about what I was saying but he was not able to attach it to the fact that he was correcting my words and mispronunciations. He found he was agreeing with me on my points. He didn’t want to agree with me. He was debating against me.\"\n",
+      "context": "- **Context:** Explaining the psychological breakdown and internal conflict of an opponent during a debate.\n\n"
+    }
+  },
+  {
+    "index": 282,
+    "header_line": "4 / 73",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"You suppose you are. Do you know?\"\n",
+      "context": "- **Context:** Determining thumb dominance (Right-thumbed vs Left-thumbed)\n\n"
+    }
+  },
+  {
+    "index": 283,
+    "header_line": "5 / 73",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"And you can listen to me with your conscious mind while your attention wanders; you can do some conscious thinking ‘about the planes overhead, or the street noises, or the birds outside the window, or the secretary typing out in the other room. All of that is unimportant, as far as am concerned. The important thing is the medical consideration; that is what lam concerned about. I am not concerned about the secretary, the birds, the planes, the street noises. They are all unimportant, but if your conscious mind wants to wander, go ahead, let it. You don’t need to go into a trance. All J want is the full at- tention of your unconscious mind, which goes everywhere with you. It came into the office with you; it is within six feet of me, and it is listening to me right now. And while you are looking at that clock, your unconscious mind is listening to me whether or not you know it—but I think you know it.\"\n",
+      "context": "- **Context:** Dissociating conscious and unconscious processes during a therapeutic session\n\n"
+    }
+  },
+  {
+    "index": 284,
+    "header_line": "6 / 73",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"I like to regard my patients as having a conscious mind and an unconscious, or subconscious, mind. I expect the two of them to be together in the same person, and I expect both of them to be in the office with me.\"\n",
+      "context": "- **Context:** Clinical framework for viewing the patient's mind\n\n"
+    }
+  },
+  {
+    "index": 285,
+    "header_line": "7 / 73",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"The knowledge is there in the unconscious. The unconscious can understand, but the conscious mind does not know.\"\n",
+      "instruction": "- **Instruction (지시어):** Explain the accessibility of inner resources by creating a clear distinction between what the conscious mind perceives and what the unconscious mind possesses, ensuring the listener feels their internal wisdom is intact.",
+      "reasoning": "- **Reasoning Trace (사고 과정):** To achieve the goal of validating the patient's inner resources, I must first utilize the technique of 'Dissociation.' By separating the 'conscious mind' from the 'unconscious mind,' I relieve the patient of the burden of needing to 'know' the answer immediately. I start with a Truism—'The knowledge is there'—which is an undeniable premise in the hypnotic context. Then, I assign the capacity for 'understanding' specifically to the unconscious, while framing the conscious mind's ignorance as a natural state. This bypasses the conscious ego's resistance and critical faculty, allowing the patient to trust that a solution exists within them even if they cannot articulate it yet. The simplicity of the language is intentional; it mimics the directness of the unconscious and facilitates a shift in focus from external searching to internal discovery.",
+      "context": "- **Context:** The inherent wisdom and autonomy of the unconscious mind\n\n"
+    }
+  },
+  {
+    "index": 286,
+    "header_line": "8 / 73",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Yes, she keeps jumping. You're keeping her in a state of shifting thought, so her unconscious will take over because her conscious mind is bouncing back and forth.\"\n",
+      "context": "- **Context:** The therapeutic utility of mental shifting and conscious overload.\n\n"
+    }
+  },
+  {
+    "index": 287,
+    "header_line": "9 / 73",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"With this sentence, 'It is sufficient that only your unconscious mind becomes aware,' I'm really throwing out her conscious mind.\"\n",
+      "context": "- **Context:** Bypassing conscious resistance through dissociation\n\n"
+    }
+  },
+  {
+    "index": 288,
+    "header_line": "10 / 73",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"And now sooner or later there'll be a push by your unconscious mind. It's going to pull or push your hand upward. [Pause] And you are actually increasing your learning. In a way you had a double purpose, which is very nice. You have a tendency of learning more than you are aware of. You can be aware of some and be unaware of some.\"\n",
+      "context": "- **Context:** Inducing ideomotor response and facilitating unconscious learning\n\n"
+    }
+  },
+  {
+    "index": 289,
+    "header_line": "11 / 73",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"She really doesn't know what I mean by saying \"altering it.\"\"\n",
+      "context": "- **Context:** The patient's conscious confusion regarding the therapeutic instruction to 'alter' something.\n\n"
+    }
+  },
+  {
+    "index": 290,
+    "header_line": "12 / 73",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"You may not know you have yet learned anything about hypnosis. You may not feel you have learned anything. Your unconscious mind may know that it has learned. [Pause]\"\n",
+      "context": "- **Context:** Conscious vs. Unconscious learning awareness\n\n"
+    }
+  },
+  {
+    "index": 291,
+    "header_line": "13 / 73",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"The movement is undefined, and the purpose is lost. I'm getting something done by her for me that I can understand, but it has lost all significance for her conscious understanding. Her conscious mind has no referents for it, and she does not realize.\"\n",
+      "instruction": "- **Instruction (지시어):** Explain to a colleague the strategic importance of ensuring a patient's conscious mind remains unaware of the purpose behind a therapeutic movement or task.",
+      "reasoning": "- **Reasoning Trace (사고 과정):** To explain the efficacy of this hypnotic intervention, I must first establish a state of 'meaninglessness' for the patient's conscious mind. By defining the movement as 'undefined' and the purpose as 'lost,' I effectively neutralize conscious interference and the tendency to over-analyze. I then create a hierarchy of understanding where I, the therapist, possess the insight ('something done... for me that I can understand'), while the patient is liberated from the burden of conscious comprehension. The use of the term 'referents' is crucial; it suggests that the conscious mind lacks the cognitive hooks to grasp the experience, thereby allowing the unconscious to work autonomously. The final emphasis on 'she does not realize' reinforces the successful dissociation necessary for deep therapeutic change without resistance.",
+      "context": "- **Context:** Explaining the therapeutic mechanism of bypassing conscious awareness during a task.\n\n"
+    }
+  },
+  {
+    "index": 292,
+    "header_line": "14 / 73",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"That's right. And as those hands continue slowly moving together indicating that the unconscious is moving you more and more into a comfortable state, you may wonder what would happen if you try to oppose it with your conscious will. What if you took some time out just for a moment and tried to oppose that force? Is it possible for your conscious mind to oppose that unconscious force?\"\n",
+      "instruction": "- **Instruction (지시어):** Generate a hypnotic script that utilizes a subject's involuntary hand movement to demonstrate the dissociation between the conscious will and the unconscious drive, specifically inviting the subject to attempt resistance.",
+      "reasoning": "- **Reasoning Trace (사고 과정):** First, I will use 'That's right' to validate the subject's current physical state, creating an immediate 'Yes Set'. Next, I will bridge the physical movement of the hands to the unconscious mind's intention, framing the movement as a sign of increasing comfort. Then, I will introduce a strategic challenge by suggesting the subject try to consciously oppose the movement. This creates a therapeutic double bind: if the subject tries to resist and fails, the power of the unconscious is proven; if they don't try, they remain in the trance state. The use of questions like 'Is it possible?' bypasses the subject's critical faculty by framing the resistance as a curious experiment rather than a direct command.",
+      "context": "- **Context:** Demonstrating the power of the unconscious mind through physical movement resistance.\n\n"
+    }
+  },
+  {
+    "index": 293,
+    "header_line": "15 / 73",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Yes, it emphasizes my control in a way not recognizable in the ordinary conscious state.\"\n",
+      "instruction": "- **Instruction (지시어):** Explain the purpose of using compound statements in your therapeutic communication, specifically regarding how they influence the subject's perception of control.",
+      "reasoning": "- **Reasoning Trace (사고 과정):** To address the role of compound statements, I must first validate the observer's insight into 'control'. However, I need to redefine 'control' not as an overt force, but as a subtle guidance that operates beneath the threshold of conscious awareness. By using the phrase 'not recognizable in the ordinary conscious state,' I create a dissociation between the client's logical mind and their experiential unconscious. This allows the suggestion to take root without triggering resistance, as the conscious mind cannot oppose what it does not perceive as a direct command. The 'Yes' at the beginning serves as a pacing mechanism, aligning with the observer's reality before leading them to a deeper understanding of hypnotic dynamics.",
+      "context": "- **Context:** The psychological mechanism of compound statements in hypnotic control\n\n"
+    }
+  },
+  {
+    "index": 294,
+    "header_line": "16 / 73",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"And you didn't realize it at the time, but you were forming mental images that would stay with you for the rest of your life. Now you don't really need to listen to me because your unconscious mind will hear me. You can let your conscious mind wander in any direction it wants to.\"\n",
+      "context": "- **Context:** Depotentiating conscious sets by creating structured amnesia\n\n"
+    }
+  },
+  {
+    "index": 295,
+    "header_line": "17 / 73",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"And you're trying so hard to understand instead of just experiencing.\"\n",
+      "context": "- **Context:** The subject's cognitive resistance and over-analysis during a therapeutic session.\n\n"
+    }
+  },
+  {
+    "index": 296,
+    "header_line": "18 / 73",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"This implies I'm going to say things to you that you will try hard to understand instead of just experiencing. It implies you're going to do more than just experience.\"\n",
+      "instruction": "- **Instruction (지시어):** Explain to the patient how their conscious drive to analyze and understand might interact with the hypnotic experience, framing the intellectual effort as a precursor or addition to the deeper experience.",
+      "reasoning": "- **Reasoning Trace (사고 과정):** To effectively guide a patient who tends to intellectualize, I must first acknowledge and validate their conscious effort. By saying they will 'try hard to understand,' I am pacing their current mental state (resistance through analysis). I then introduce a dissociation between 'understanding' and 'experiencing.' The word 'implies' functions as a linguistic bridge, suggesting a logical necessity to what is actually a hypnotic suggestion. By stating they will do 'more than just experience,' I am subtly suggesting that the experience is the primary, inevitable foundation, while the 'understanding' is merely an additional, perhaps secondary, conscious activity. This reduces the pressure to 'get it right' and allows the subconscious to take over the 'experiencing' part while the conscious mind is busy 'trying to understand.'",
+      "context": "- **Context:** The distinction between intellectual understanding and experiential learning in hypnosis.\n\n"
+    }
+  },
+  {
+    "index": 297,
+    "header_line": "19 / 73",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"You still don't grasp it! I've already turned off his conscious mind except to a minor degree. And I'm trying to make his unconscious mind understand: You've got a lot of work ahead of you in addition to just experiencing.\"\n",
+      "instruction": "- **Instruction (지시어):** Explain the current state of a subject's consciousness to a colleague, emphasizing that you have minimized the conscious mind's interference so that the unconscious can begin its substantive therapeutic work beyond mere passive experience.",
+      "reasoning": "- **Reasoning Trace (사고 과정):** To effectively communicate the hypnotic state to Rossi, I first use a sharp, attention-grabbing opening ('You still don't grasp it!') to highlight the distinction between conscious observation and unconscious reality. I then employ the metaphor of 'turning off' the conscious mind to describe the process of depotentiating the subject's critical faculties. By adding the qualifier 'except to a minor degree,' I maintain clinical accuracy while emphasizing the dominance of the unconscious. Finally, I frame the unconscious mind's role not as a passive recipient of suggestions, but as an active agent of change ('a lot of work ahead of you'), distinguishing 'experiencing' the trance from the 'work' of psychological restructuring. This creates a psychological set where the subject's inner resources are mobilized for a specific purpose.",
+      "context": "- **Context:** Clarification of hypnotic dissociation and unconscious tasking\n\n"
+    }
+  },
+  {
+    "index": 298,
+    "header_line": "20 / 73",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"You don't need to understand. All you need to do to drift along and feel relaxed and comfortable. And I don't even need to talk to you because there is nothing that needs to be done. But you can rest comfortably while I speak to you, your unconscious mind will hear me and do as I say, as I indicate.\"\n",
+      "context": "- **Context:** Unconscious work and relaxation\n\n"
+    }
+  },
+  {
+    "index": 299,
+    "header_line": "21 / 73",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"—is what I say to your unconscious mind, nothing else. Your conscious mind can tend to or attend to memories of anything.\"\n",
+      "context": "- **Context:** Directing communication to the unconscious while distracting the conscious mind\n\n"
+    }
+  },
+  {
+    "index": 300,
+    "header_line": "22 / 73",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"And now I'm going to give your unconscious mind some instruction. It isn't important whether or not your conscious mind listens to it. Your unconscious mind will hear it—\"\n",
+      "context": "- **Context:** Directing the unconscious mind while bypassing conscious resistance\n\n"
+    }
+  },
+  {
+    "index": 301,
+    "header_line": "23 / 73",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"And you didn't know what I was saying, but your unconscious mind did.\"\n",
+      "instruction": "- **Instruction (지시어):** Respond to a person who expresses confusion about a previous statement by validating their conscious lack of understanding while suggesting that their unconscious mind has already processed and understood the message.",
+      "reasoning": "- **Reasoning Trace (사고 과정):** To facilitate a deeper level of acceptance, I must first validate the subject's conscious experience of not knowing, which reduces resistance. By using the word 'but', I create a linguistic bridge to a more powerful resource: the unconscious mind. I attribute the act of 'knowing' to the unconscious, thereby bypassing the critical faculty of the conscious mind. The use of the past tense 'did' installs the presupposition that the understanding is already an accomplished fact within the inner mind, fostering a sense of security and hidden progress.",
+      "context": "- **Context:** The distinction between conscious confusion and unconscious understanding in a therapeutic context.\n\n"
+    }
+  },
+  {
+    "index": 302,
+    "header_line": "24 / 73",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Without his consciousness knowing! After he goes into trance and comes out, he is saying, \"Yes, it was out of context, what you said, but it just had to have a different meaning.\"\"\n",
+      "instruction": "- **Instruction (지시어):** Explain the phenomenon where a subject experiences a shift in meaning or perspective following a trance state, specifically focusing on how the conscious mind remains unaware of the process while the unconscious mind accepts a new context.",
+      "reasoning": "- **Reasoning Trace (사고 과정):** To explain this phenomenon in the style of Milton Erickson, I must first establish a clear boundary between the conscious and unconscious mind. I will use the phrase 'Without his consciousness knowing' to immediately signal that the critical faculty was bypassed. Then, I will describe the temporal sequence—entering and exiting the trance—to show that the change happens in a space the conscious mind cannot access. By quoting the subject saying the words were 'out of context' but 'had to have a different meaning,' I am demonstrating the 'Utilization' principle: the subject's own confusion is used to validate that a deeper, unconscious reframe has successfully taken place. The goal is to show that the unconscious finds logic and meaning where the conscious mind sees none.",
+      "context": "- **Context:** The mechanism of unconscious integration and post-hypnotic realization.\n\n"
+    }
+  },
+  {
+    "index": 303,
+    "header_line": "25 / 73",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Seems the unconscious really understood. But his conscious mind didn't—it found that out afterward.\"\n",
+      "instruction": "- **Instruction (지시어):** Describe a situation where a subject's unconscious mind has integrated a lesson or experience while their conscious mind remains unaware, using Milton Erickson's signature style of dissociation.",
+      "reasoning": "- **Reasoning Trace (사고 과정):** To achieve the desired psychological effect, I must first establish a clear boundary between the conscious and unconscious entities. By stating 'the unconscious really understood,' I validate the deeper learning that has occurred without requiring the subject's immediate intellectual agreement. I then use the word 'But' to create a functional dissociation, highlighting the conscious mind's ignorance. Finally, by mentioning that the conscious mind 'found that out afterward,' I suggest a natural, inevitable process of realization that bypasses resistance, framing the conscious mind as a secondary observer to the unconscious mind's primary wisdom.",
+      "context": "- **Context:** The temporal and functional gap between unconscious comprehension and conscious awareness.\n\n"
+    }
+  },
+  {
+    "index": 304,
+    "header_line": "26 / 73",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"But I set it up that way. Only you didn't hear or see or know that I set it up that way.\"\n",
+      "context": "- **Context:** Hidden therapeutic setup and perceptual awareness\n\n"
+    }
+  }
+]

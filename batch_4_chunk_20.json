@@ -1,0 +1,102 @@
+[
+  {
+    "index": 586,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"You use it all in worrying.\" (당신은 그 모든 에너지를 걱정하는 데 사용하고 있습니다.)",
+      "context": "- **Context:** Managing obsessive worry and panic reactions through energy reframing (에너지 재구조화를 통한 강박적 걱정과 공황 반응 관리하기)"
+    }
+  },
+  {
+    "index": 588,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Confirmation of extreme time constraints for painless childbirth.\" (무통 분만을 위한 극한의 시간 제약 확인.)",
+      "context": "- **Context:** Painless childbirth with extreme time constraints (극한의 시간 제약 하에서의 무통 분만)"
+    }
+  },
+  {
+    "index": 589,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Oh, I think somewhere around ten minutes’ time, during which I helped her belabor me for my fee and I really should have done something!\" (오, 약 10분 정도의 시간 동안 나는 그녀가 내 수임료 문제로 나를 비난하는 것을 도와주었고, 정말이지 내가 무언가를 했어야만 했죠!)",
+      "context": "- **Context:** Handling resistance regarding fees through paradoxical facilitation (역설적 촉진을 통한 수임료 관련 저항 다루기)"
+    }
+  },
+  {
+    "index": 590,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Why not utilize that energy in some constructive way, because you use a lot of energy debating right shoe, left shoe, right shoe, left shoe. You can also use that energy in some other way.\" (그 에너지를 건설적인 방식으로 활용해보는 건 어떨까요? 당신은 오른쪽 신발, 왼쪽 신발, 오른쪽 신발, 왼쪽 신발을 두고 논쟁하느라 많은 에너지를 쓰고 있으니까요. 당신은 그 에너지를 다른 방식으로도 사용할 수 있습니다.)",
+      "context": "- **Context:** Redirecting obsessive-compulsive energy toward constructive behavior (강박적인 에너지를 건설적인 행동으로 재지향하기)"
+    }
+  },
+  {
+    "index": 591,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Now, you have rather a bad headache there. I think you ought to make some kind of use of it.\" (자, 지금 머리가 꽤 아프시군요. 그것을 어떤 방식으로든 활용해봐야 할 것 같습니다.)",
+      "context": "- **Context:** Symptom utilization instead of abolition (증상의 제거 대신 증상의 활용)"
+    }
+  },
+  {
+    "index": 592,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"That isn’t it at all.\" (그것은 전혀 아닙니다.)",
+      "context": "- **Context:** Correcting a patient's misunderstanding or resistance (환자의 오해나 저항 교정하기)"
+    }
+  },
+  {
+    "index": 593,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"And how straight a line would you walk?\" (그리고 당신은 얼마나 일직선으로 걸을 것인가요?)",
+      "context": "- **Context:** The sensory-motor specifics of a future action (미래 행동의 감각-운동 세부 사항)"
+    }
+  },
+  {
+    "index": 594,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"How much more easily did you learn English than German?\" (당신은 독일어보다 영어를 얼마나 더 쉽게 배웠나요?)",
+      "context": "- **Context:** Learning English vs. German (영어와 독일어 학습 비교)"
+    }
+  },
+  {
+    "index": 595,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"What other problem did you get over on your trip to Dallas?\" (댈러스 여행 중에 다른 어떤 문제를 극복했나요?)",
+      "context": "- **Context:** Post-trance integration and reinforcement of therapeutic gains (최면 후의 통합과 치료 효과 강화)"
+    }
+  },
+  {
+    "index": 596,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"How long would you anticipate treating her?\" (그녀를 얼마나 오랫동안 치료할 것으로 예상하시나요?)",
+      "context": "- **Context:** Duration of treatment and intervention planning (치료 기간 및 개입 계획)"
+    }
+  },
+  {
+    "index": 597,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"How long since you have thought about Eileen?\" (에일린에 대해 생각한 지 얼마나 되었나요?)",
+      "context": "- **Context:** Recalling a specific person after a period of unconscious processing (무의식적 처리 기간 후 특정 인물 회상하기)"
+    }
+  },
+  {
+    "index": 598,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"How long do you think it would take her to uncross her legs and close her eyes.\" (그녀가 다리를 풀고 눈을 감는 데 얼마나 걸릴 것이라고 생각하시나요?)",
+      "context": "- **Context:** Predicting the onset of a trance state through physical cues (신체적 단서를 통한 최면 상태 시작 예측)"
+    }
+  },
+  {
+    "index": 599,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"When?\" (언제요?)",
+      "instruction": "- **Instruction (지시어):** Ask Sarah about her plan to climb the peak using a presupposition that bypasses any doubt about whether she will do it, focusing only on the timing. (사라가 정상을 정복할 것인지에 대한 어떤 의구심도 우회하고, 오직 시점에만 집중하는 전제를 사용하여 그녀의 계획에 대해 질문하세요.)",
+      "reasoning": "- **Reasoning Trace (사고 과정):** To facilitate Sarah's movement toward her goal, I must bypass any conscious resistance or hesitation regarding the possibility of the climb. By stripping away all auxiliary verbs and focusing solely on the temporal aspect ('When?'), I employ a powerful presupposition: the climb is an inevitable fact. This minimalist approach forces Sarah's unconscious mind to search for a specific date and time, effectively shifting her focus from 'if' she can do it to 'how' she will schedule it. The brevity of the question also creates a therapeutic silence that she must fill with her own commitment, making the decision hers rather than mine. (사라가 목표를 향해 나아갈 수 있도록, 등반 가능성에 대한 의식적인 저항이나 망설임을 우회해야 합니다. 모든 조동사를 걷어내고 오직 시간적인 측면('언제요?')에만 집중함으로써, 나는 강력한 전제를 사용합니다. 즉 등반은 피할 수 없는 사실이라는 것입니다. 이러한 미니멀리즘적인 접근 방식은 사라의 무의식이 구체적인 날짜와 시간을 찾게 만들어, 그녀의 초점을 그녀가 '할 수 있는지'에서 '어떻게' 일정을 잡을 것인지로 효과적으로 전환합니다. 질문의 간결함은 또한 그녀가 스스로의 다짐으로 채워야만 하는 치료적 침묵을 만들어내어, 결정을 내가 아닌 그녀 자신의 것으로 만듭니다.)",
+      "context": "- **Context:** Commitment to future action (climbing the peak) (미래 행동에 대한 확약(정상 등반))"
+    }
+  },
+  {
+    "index": 600,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Enjoy your trip to Dallas. Enjoy your trip back, and tell me how much you enjoyed it.\" (댈러스 여행 즐겁게 다녀오세요. 돌아오는 여행도 즐기시고, 얼마나 즐거웠는지 나에게 이야기해 주세요.)",
+      "context": "- **Context:** Overcoming airplane phobia through behavioral prescription and future pacing (행동 처방과 미래 전이를 통한 비행 공포증 극복)"
+    }
+  }
+]

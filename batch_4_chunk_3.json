@@ -1,0 +1,120 @@
+[
+  {
+    "index": 331,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"At the present time you have a partially conscious and partially unconscious understanding, and we don't know where to place the emphasis.\" (현재 당신은 부분적으로 의식적인 이해와 부분적으로 무의식적인 이해를 갖고 있으며, 우리는 어디에 중점을 두어야 할지 모릅니다.)",
+      "context": "- **Context:** Subject's current understanding state (피험자의 현재 이해 상태)"
+    }
+  },
+  {
+    "index": 332,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Now there are many different ways in which the mind can function in which the unconscious can join with the conscious. Many different ways in which the unconscious can avoid the conscious mind without the conscious mind knowing that it has just received a gift.\" (이제 무의식이 의식과 결합할 수 있는, 마음이 기능하는 여러 가지 방식이 있습니다. 의식이 자신이 방금 선물을 받았다는 사실을 알지 못한 채 무의식이 의식을 피할 수 있는 여러 가지 방식이 있죠.)",
+      "context": "- **Context:** Depotentiating conscious sets through double binds and unconscious potency (이중 구속과 무의식적 효능을 통한 의식적 세트의 약화)"
+    }
+  },
+  {
+    "index": 333,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"It's not something you learn to do consciously, it happens spontaneously; you only know later that it happened.\" (그것은 의식적으로 배우는 것이 아니라 자발적으로 일어나는 것입니다. 나중에야 그것이 일어났음을 알게 됩니다.)",
+      "context": "- **Context:** Managing irritation through unconscious processing (무의식적 처리를 통한 짜증 관리)"
+    }
+  },
+  {
+    "index": 334,
+    "fields": {
+      "context": "- **Context:** The limitation of conscious understanding in therapeutic change (치료적 변화에서 의식적 이해의 한계)"
+    }
+  },
+  {
+    "index": 335,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"That's right. She wants to be clothed. That's a conscious thing. She puts her arms over her breasts: that's a conscious thing. But she is nude: that nude feeling is from her unconscious, she got nude unconsciously.\" (맞습니다. 그녀는 옷을 입고 싶어 합니다. 그것은 의식적인 일입니다. 그녀가 가슴 위에 팔을 올리는 것, 그것도 의식적인 일입니다. 하지만 그녀는 벌거벗었습니다. 그 벌거벗은 느낌은 그녀의 무의식에서 나온 것이며, 그녀는 무의식적으로 벌거벗은 것입니다.)",
+      "context": "- **Context:** Distinguishing between conscious defense and unconscious vulnerability (의식적 방어와 무의식적 취약성 사이의 구분)"
+    }
+  },
+  {
+    "index": 336,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Now there there you saw the conscious mind recognizing a word of significance. After a while she will let the drifting remain unconscious.\" (방금 당신은 의식이 중요한 단어를 인식하는 것을 보았습니다. 잠시 후 그녀는 그 표류(drifting)가 무의식 상태로 남게 할 것입니다.)",
+      "instruction": "- **Instruction (지시어):** Observe a patient's conscious reaction to a significant word and provide a hypnotic suggestion that this awareness will soon transition into an unconscious state, using the style of Milton Erickson. (환자가 중요한 단어에 대해 나타내는 의식적인 반응을 관찰하고, 이러한 인식이 곧 무의식 상태로 전이될 것이라는 최면 암시를 밀턴 에릭슨 스타일로 제공하세요.)",
+      "reasoning": "- **Reasoning Trace (사고 과정):** To achieve the hypnotic effect, I first employ 'pacing' by acknowledging the observable reality—the conscious mind's recognition of a word. This creates a 'yes-set' and validates the current experience. I then introduce a 'dissociation' by labeling the action as belonging specifically to the 'conscious mind,' implying there is another part (the unconscious) that operates differently. By using the temporal bridge 'After a while,' I suggest an inevitable and natural progression. Finally, I use the word 'drifting' to describe the mental activity, which is a soft, non-threatening verb that encourages the relinquishing of conscious control, leading the patient toward a state where the process 'remains unconscious.' (최면 효과를 얻기 위해 먼저 관찰 가능한 현실, 즉 의식이 단어를 인식하는 것을 인정함으로써 '보조(pacing)' 기법을 사용합니다. 이는 'yes-set'을 만들고 현재의 경험을 정당화합니다. 그런 다음 그 행위를 특정하여 '의식적인 마음'에 속하는 것으로 라벨링함으로써 '해리(dissociation)'를 도입하며, 이는 다르게 작동하는 다른 부분(무의식)이 있음을 암시합니다. '잠시 후'라는 시간적 다리를 사용하여 필연적이고 자연스러운 진행을 제안합니다. 마지막으로 정신적 활동을 묘사하기 위해 '표류(drifting)'라는 단어를 사용하는데, 이는 의식적인 통제를 내려놓도록 유도하는 부드럽고 위협적이지 않은 동사이며, 환자를 그 과정이 '무의식으로 남는' 상태로 이끕니다.)",
+      "context": "- **Context:** Transitioning from conscious awareness to unconscious processing (의식적 자각에서 무의식적 처리로의 전환)"
+    }
+  },
+  {
+    "index": 337,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"It doesn't have to have a cue that is nameable. The conscious mind tends to think it has to have identifiable cues, but you don't need specific cues to do things.\" (이름 붙일 수 있는 신호가 있을 필요는 없습니다. 의식은 식별 가능한 신호가 있어야 한다고 생각하는 경향이 있지만, 당신은 무언가를 하기 위해 특별한 신호가 필요하지 않습니다.)",
+      "instruction": "- **Instruction (지시어):** Explain to a client that their unconscious mind can function and achieve results without needing the conscious mind to identify or name the specific triggers or cues involved. (기명하거나 식별 가능한 특정 트리거 혹은 신호가 의식에 필요하지 않아도, 무의식은 스스로 기능을 수행하고 결과를 얻을 수 있음을 클라이언트에게 설명하세요.)",
+      "reasoning": "- **Reasoning Trace (사고 과정):** To bypass the client's need for analytical control, I must first acknowledge the conscious mind's habit of seeking labels. By framing this as a 'tendency' rather than a necessity, I create a subtle dissociation. I then pivot to the functional reality: that the person (the unconscious self) is capable of action without these labels. This reduces the pressure on the client to 'understand' the process, allowing the unconscious to work more freely. The use of the word 'nameable' targets the linguistic, analytical part of the brain, while the phrase 'you don't need' serves as a direct suggestion for letting go of conscious effort. (클라이언트의 분석적 통제 욕구를 우회하기 위해, 먼저 라벨을 찾으려는 의식의 습관을 인정해야 합니다. 이것을 필연성이 아닌 하나의 '경향'으로 프레이밍함으로써 미묘한 해리를 만듭니다. 그런 다음 기능적 현실로 화제를 전환합니다. 즉, 인간(무의식적 자아)은 이러한 라벨 없이도 행동할 수 있다는 것입니다. 이는 클라이언트가 과정을 '이해'해야 한다는 압박감을 줄여주어 무의식이 더 자유롭게 작동하게 합니다. '이름 붙일 수 있는'이라는 단어는 뇌의 언어적, 분석적 부분을 겨냥하며, '당신은 필요하지 않다'는 문구는 의식적인 노력을 내려놓으라는 직접적인 암시 역할을 합니다.)",
+      "context": "- **Context:** The autonomy of the unconscious mind and the irrelevance of conscious labeling. (무의식의 자율성과 의식적 라벨링의 무관함)"
+    }
+  },
+  {
+    "index": 338,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"When patients came in to stop smoking, they may say when in trance, 'I don't really want to stop smoking.' The therapist then sees physical alarm; they now know the truth about themselves. So you say to them, 'I don't think you should know that when you're awake yet.' You protect your patient. You're protecting the conscious mind by keeping that self-understanding unconscious.\" (결연을 위해 찾아온 환자들이 최면 상태에서 '사실은 담배를 끊고 싶지 않아요'라고 말할 때가 있습니다. 그때 치료사는 신체적인 경고 반응을 보게 되는데, 그들은 이제 자신에 대한 진실을 알게 된 것입니다. 그래서 당신은 그들에게 말합니다. '당신이 깨어 있을 때는 아직 그것을 몰라야 한다고 생각합니다.' 당신은 환자를 보호하는 것입니다. 그 자기 이해를 무의식에 머물게 함으로써 의식을 보호하고 있는 것입니다.)",
+      "instruction": "- **Instruction (지시어):** Explain how to handle a patient who admits in a trance that they do not want to stop smoking, focusing on the protection of the conscious mind. (최면 중에 담배를 끊고 싶지 않다고 고백하는 환자를 처리하는 방법을 의식의 보호에 초점을 맞추어 설명하세요.)",
+      "reasoning": "- **Reasoning Trace (사고 과정):** The therapist must first observe the physiological reaction of the patient when they reveal a truth that contradicts their conscious goals. This 'physical alarm' indicates that the conscious mind is not yet ready to integrate this information. To maintain the patient's psychological stability, I must create a barrier between the trance realization and the waking state. I use a direct suggestion that restricts this knowledge to the unconscious level. By stating that they 'should not know that when awake yet,' I am validating the unconscious truth while preventing it from causing immediate conscious conflict or shame. This allows the therapeutic process to continue without the ego becoming defensive or overwhelmed. (치료사는 환자가 의식적인 목표와 상충되는 진실을 드러낼 때 그들의 생리적 반응을 먼저 관찰해야 합니다. 이러한 '신체적 경보'는 의식이 아직 이 정보를 통합할 준비가 되지 않았음을 나타냅니다. 환자의 심리적 안정을 유지하기 위해 최면 중의 깨달음과 깨어 있는 상태 사이에 장벽을 만들어야 합니다. 나는 이 지식을 무의식 수준으로 제한하는 직접 암시를 사용합니다. '깨어 있을 때는 아직 몰라야 한다'고 언급함으로써, 무의식적 진실을 인정하는 동시에 그것이 즉각적인 의식적 갈등이나 수치심을 유발하는 것을 방지합니다. 이를 통해 자아가 방어적으로 변하거나 압도당하지 않고 치료 과정을 계속할 수 있게 됩니다.)",
+      "context": "- **Context:** Managing unconscious resistance and protecting the conscious ego during smoking cessation. (금연 과정에서의 무의식적 저항 관리와 의식적 자아 보호)"
+    }
+  },
+  {
+    "index": 339,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Yes. They may then talk about that \"Devils Tower\" in the Caribbean and have no idea of how you got that association across to them. But you know how you have done it. They can't consciously ever figure it out. Their consciousness corrected for their conscious mind, but their unconscious heard it.\" (네. 그러면 그들은 카리브해의 그 '데빌스 타워'에 대해 이야기할 수도 있고, 당신이 어떻게 그 연상을 전달했는지 전혀 알지 못할 것입니다. 하지만 당신은 어떻게 그것을 해냈는지 알고 있습니다. 그들은 의식적으로 그것을 결코 이해할 수 없습니다. 그들의 의식이 의식적인 마음에 맞춰 교정했지만, 그들의 무의식은 그것을 들었습니다.)",
+      "instruction": "- **Instruction (지시어):** Explain how indirect associations work in the unconscious mind, specifically addressing why the conscious mind cannot trace the origin of these associations, using the 'Devils Tower' example. (무의식에서 간접적인 연상이 어떻게 작동하는지 설명하고, 특히 '데빌스 타워' 사례를 사용하여 왜 의식이 이러한 연상의 기원을 추적할 수 없는지 다루세요.)",
+      "reasoning": "- **Reasoning Trace (사고 과정):** First, I will validate Rossi's observation to establish a shared theoretical ground. Then, I will introduce a specific, vivid example—'Devils Tower' in an unlikely location like the Caribbean—to demonstrate how the unconscious accepts and stores associations regardless of their logical consistency with reality. I must emphasize the asymmetry of knowledge: the therapist understands the mechanism while the subject remains in the dark. Finally, I will articulate the core Ericksonion principle: the conscious mind 'corrects' or filters information based on its own logic, but the unconscious mind is an unfiltered receiver that 'hears' and retains the underlying suggestion, thus allowing the association to manifest without conscious interference. (먼저 로시의 관찰을 인정하여 공유된 이론적 토대를 마련합니다. 그런 다음 카리브해와 같이 현실성 없는 장소에 있는 '데빌스 타워'라는 구체적이고 생생한 예를 도입하여, 무의식이 현실과의 논리적 일치 여부와 상관없이 연상을 받아들이고 저장하는 방식을 보여줍니다. 지식의 불균형을 강조해야 합니다. 치료사는 기제를 이해하지만 피험자는 모르는 상태로 남습니다. 마지막으로 에릭슨의 핵심 원칙을 명확히 설명합니다. 의식적인 마음은 자신의 논리에 따라 정보를 '교정'하거나 걸러내지만, 무의식은 근저에 깔린 암시를 '듣고' 보유하는 여과되지 않은 수신자이므로 의식적 간섭 없이 연상이 나타나게 됩니다.)",
+      "context": "- **Context:** The mechanism of unconscious association and the bypass of conscious awareness (무의식적 연상과 의식적 자각 우회의 메커니즘)"
+    }
+  },
+  {
+    "index": 340,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"This is the time for me to put up and make available to my conscious mind the knowledge that I have acquired unconsciously.\" (지금은 내가 무의식적으로 습득한 지식을 내놓고 의식이 활용할 수 있게 할 때입니다.)",
+      "context": "- **Context:** Integration of unconscious learning into conscious awareness (무의식적 학습의 의식적 자각으로의 통합)"
+    }
+  },
+  {
+    "index": 341,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Whatever it is you need to understand consciously or unconsciously, that is what I want you to understand. In other words, I want you to understand consciously whatever you need to; I want you to understand unconsciously whatever you need to.\" (그것이 의식적으로든 무의식적으로든 당신이 이해해야 할 필요가 있는 것이라면, 바로 그것을 당신이 이해하기를 바랍니다. 다시 말해, 당신이 필요로 하는 것이 무엇이든 의식적으로 이해하기를 바라고, 당신이 필요로 하는 것이 무엇이든 무의식적으로 이해하기를 바랍니다.)",
+      "context": "- **Context:** Memory and understanding during trance (최면 중의 기억과 이해)"
+    }
+  },
+  {
+    "index": 342,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Of course you can be interested consciously in what I say, but even though you may be intensely interested consciously, I would like to have you appreciate the fact that you are infinitely more interested on an unconscious level. And consciously you can just relax; you can close your eyes and let your mind wander at will, from my words, to thoughts of... Dr. H, to thoughts of the water, to thoughts of your daily work, to thoughts of what you had for breakfast today— every wandering thought that comes into your mind. There should be no effort on your part to try to listen to me, no effort whatsoever.\" (물론 당신은 내 말에 의식적으로 관심을 가질 수 있습니다. 하지만 설령 의식적으로 강렬하게 관심을 가질지라도, 당신이 무의식적인 수준에서 무한히 더 많은 관심을 갖고 있다는 사실을 인정했으면 합니다. 그리고 의식적으로는 그저 쉬면 됩니다. 눈을 감고 당신의 마음이 가고 싶은 대로 돌아다니게 하세요. 내 말에서부터... H 박사에 대한 생각, 물에 대한 생각, 일상 업무에 대한 생각, 오늘 아침에 무엇을 먹었는지에 대한 생각까지, 당신의 마음에 떠오르는 모든 방랑하는 생각들을 말이죠. 내 말을 들으려고 노력할 필요는 전혀 없으며, 어떤 노력도 필요하지 않습니다.)",
+      "instruction": "- **Instruction (지시어):** Induce a trance state by acknowledging the subject's conscious focus while suggesting that their unconscious mind is far more engaged, then provide explicit permission for their conscious mind to wander aimlessly without effort. (피험자의 의식적 집중을 인정하는 동시에 무의식이 훨씬 더 몰입해 있음을 암시하여 최면 상태를 유도하고, 의식적인 마음이 노력 없이 목적 없이 방황하도록 명시적인 허용을 제공하세요.)",
+      "reasoning": "- **Reasoning Trace (사고 과정):** First, I start by pacing the subject's current reality—their conscious interest in my words—to establish rapport and agreement. Then, I use a 'but even though' transition to introduce a subtle hierarchy, suggesting that the unconscious interest is 'infinitely' greater, which shifts the importance away from conscious control. I then provide a 'permissive command' to relax and close the eyes, which serves as a physical anchor for the trance. To prevent the conscious mind from trying too hard to 'help' or 'understand,' I explicitly encourage it to wander. I provide a series of mundane, non-threatening examples (Dr. H, water, breakfast) to demonstrate how easy it is to let go. Finally, I remove the burden of performance by stating there should be 'no effort' to listen, effectively allowing the unconscious to take over the processing of my suggestions while the conscious mind drifts away. (첫째, 라포를 형성하고 동의를 얻기 위해 피험자의 현재 실재, 즉 내 말에 대한 의식적인 관심을 보조(pacing)하며 시작합니다. 그런 다음 '하지만 ~일지라도'라는 전환을 사용하여 미묘한 위계를 도입하고, 무의식적 관심이 '무한히' 더 크다는 사실을 암시함으로써 의식적인 통제의 중요성을 희석시킵니다. 이어서 쉬고 눈을 감으라는 '허용적 명령'을 내리는데, 이는 최면을 위한 신체적 닻 역할을 합니다. 의식이 '돕거나' '이해'하려고 너무 애쓰는 것을 방지하기 위해 노골적으로 방황을 격려합니다. 내려놓는 것이 얼마나 쉬운지 보여주기 위해 일상적이고 위협적이지 않은 예(H 박사, 물, 아침 식사)를 나열합니다. 마지막으로 들으려는 '노력'이 없어야 한다고 명시하여 수행의 부담을 제거함으로써, 의식이 멀어지는 동안 무의식이 내 암시를 효과적으로 처리하게 합니다.)",
+      "context": "- **Context:** Naturalistic trance induction via comic-unconscious dissociation and permissive mind-wandering. (의식-무의식 해리와 허용적 방황을 통한 자연주의적 최면 유도)"
+    }
+  },
+  {
+    "index": 343,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Now I want you to go deeply into a trance, and very Not necessarily “deeply” as you consciously understand it, but as your unconscious mind can understand it. It might be interesting to you consciously to discover many things that your unconscious mind already knows and is willing to share with you.\" (이제 나는 당신이 최면에 깊이 들어가기를 원합니다. 아주 말이죠. 당신이 의식적으로 이해하는 '깊이'일 필요는 없고, 당신의 무의식이 이해할 수 있는 방식이어야 합니다. 당신의 무의식이 이미 알고 있고 당신과 공유할 준비가 된 많은 것들을 발견하는 것은 의식적으로도 흥미로울 것입니다.)",
+      "instruction": "- **Instruction (지시어):** Generate a trance induction script that utilizes the dissociation between the conscious and unconscious minds to bypass resistance regarding the 'depth' of the trance. (의식과 무의식 사이의 해리를 활용하여 최면의 '깊이'에 대한 저항을 우회하는 최면 유도 대본을 작성하세요.)",
+      "reasoning": "- **Reasoning Trace (사고 과정):** 1. Initiate with a direct suggestion for trance to establish the goal. 2. Immediately introduce a 'conscious-unconscious' dissociation to lower performance anxiety; by redefining 'deeply', the subject is freed from trying to achieve a specific conscious state. 3. Use a 'not necessarily' qualifier to soften the command and make it more acceptable to the conscious mind. 4. Shift the responsibility of understanding and experiencing to the unconscious mind, which is framed as more capable. 5. Utilize the 'curiosity' frame ('It might be interesting to you') to engage the conscious mind as a passive observer rather than a controller. 6. Use presupposition ('already knows') to imply that the resources for the trance and the solution are already present within the subject. (1. 목표를 설정하기 위해 최면 유도를 위한 직접 암시로 시작합니다. 2. 수행 불안을 낮추기 위해 즉시 '의식-무의식' 해리를 도입합니다. '깊이'를 재정의함으로써 피험자는 특정한 의식적 상태에 도달해야 한다는 부담에서 벗어납니다. 3. 명령을 부드럽게 하고 의식이 더 잘 받아들일 수 있도록 '반드시 ~일 필요는 없다'는 한정어를 사용합니다. 4. 이해와 경험의 책임을 더 유능한 것으로 프레이밍된 무의식에 넘깁니다. 5. 의식을 통제자가 아닌 수동적인 관찰자로 끌어들이기 위해 '호기심' 프레임('흥미로울 것이다')을 활용합니다. 6. 전제('이미 알고 있다')를 사용하여 최면과 해결책을 위한 자원이 이미 피험자 내부에 존재함을 암시합니다.)",
+      "context": "- **Context:** Trance induction and the redefinition of depth through dissociation (최면 유도와 해리를 통한 깊이의 재정의)"
+    }
+  },
+  {
+    "index": 344,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"In teaching you to be willing to learn how to go more and more deeply into trance, i think that your unconscious should have the privilege of letting you develop hand levitation. Whether you know what that means or not isn’t really important. Or perhaps your unconscious might want you to discover that your hands are numb and feelingless; or perhaps it might want to bring about a numb, feelingless condition in your hands and arms while you were consciously convinced that it did not exist. You see, consciously we learn to deal with concrete reality. Consciously we can shift a table: we put our hands on it and we move it across the floor, which we can feel with our feet and hands and see with our eyes. And we can lift the table. We can sense its hardness, its weight, and we can appreciate its color—all concrete realities. But in our mind’s eye we can still deal with that table, and in our mind’s eye we can close our eyes and see that table. We do not need to touch it. We can sense the feeling of that table in our hands; we can sense the feeling of movement in our feet even while sitting perfectly still. The unconscious mind deals with ideas, with memories, with understandings; and it is not important that the unconscious mind causes the body to get up and walk across the floor and pick up the table to move it, because the unconscious mind can deal with those thea anm those ideas are as concrete as the table itself.\" (최면에 점점 더 깊이 들어가는 법을 배우고자 하는 당신의 마음을 가르치는 데 있어, 당신의 무의식이 손 부양(hand levitation)을 발달하게 할 특권을 가져야 한다고 생각합니다. 그것이 무엇을 의미하는지 당신이 아는지 모르는지는 정말 중요하지 않습니다. 어쩌면 당신의 무의식은 당신의 손이 감각이 없고 무감각하다는 것을 당신이 발견하기를 원할 수도 있습니다. 혹은 당신이 의식적으로는 그것이 존재하지 않는다고 확신하는 동안 당신의 손과 팔에 감각이 없고 무감각한 상태를 불러오고 싶어 할지도 모릅니다. 아시다시피, 의식적으로 우리는 구체적인 현실을 다루는 법을 배웁니다. 의식적으로 우리는 테이블을 옮길 수 있습니다. 손을 얹고 바닥 위로 옮기면 발과 손으로 느낄 수 있고 눈으로 볼 수 있죠. 그리고 테이블을 들어 올릴 수도 있습니다. 테이블의 단단함과 무게를 느낄 수 있고 색깔을 감상할 수도 있습니다. 이 모든 것이 구체적인 현실입니다. 하지만 마음의 눈으로도 우리는 여전히 그 테이블을 다룰 수 있고, 마음의 눈으로 눈을 감고 그 테이블을 볼 수 있습니다. 만질 필요도 없습니다. 손에서 테이블의 느낌을 감지할 수 있고, 가만히 앉아 있으면서도 발에서 움직임의 느낌을 감지할 수 있습니다. 무의식은 아이디어와 기억, 이해를 다룹니다. 그리고 무의식이 몸을 일으켜 바닥을 가로질러 걸어가 테이블을 들어 옮기게 하는지는 중요하지 않습니다. 무의식은 그러한 아이디어들을 다룰 수 있고, 그 아이디어들은 테이블 그 자체만큼이나 구체적이기 때문입니다.)",
+      "instruction": "- **Instruction (지시어):** Explain the difference between conscious perception of physical objects and the unconscious mind's ability to manipulate ideas as concrete realities, while suggesting trance deepening through hand levitation and sensory alteration. (물리적 대상에 대한 의식적 지각과 아이디어를 구체적 현실로 조작하는 무의식의 능력 사이의 차이점을 설명하는 동시에, 손 부양과 감각 변화를 통한 최면 심화를 암시하세요.)",
+      "reasoning": "- **Reasoning Trace (사고 과정):** To achieve the goal of trance deepening, I first frame the experience as a 'privilege' and a 'willingness to learn,' which reduces conscious resistance. I then introduce the concept of hand levitation or numbness as choices for the unconscious mind, effectively bypassing the conscious ego by stating its understanding 'isn't really important.' To ground this abstract process, I use a 'truism'—the concrete reality of a table—which the conscious mind easily accepts. I then bridge this to the 'mind' eye,' showing that the internal representation of the table is just as vivid as the physical one. Finally, I conclude by validating the unconscious mind's power, asserting that its 'ideas' are just as concrete as physical objects, thereby authorizing the body to respond to these internal ideas through levitation or anesthesia without conscious effort. (최면 심화라는 목표를 달성하기 위해, 우선 최면 경험을 '특권'이자 '배우고자 하는 의지'로 프레이밍하여 의식적인 저항을 줄입니다. 그런 다음 손 부양이나 무감각의 개념을 무의식의 선택으로 도입하고, 의식의 이해는 '정말 중요하지 않다'고 언급함으로써 의식적인 자아를 효과적으로 우회합니다. 이 추상적인 과정을 견고하게 하기 위해 의식이 쉽게 수용하는 '테이블의 구체적 현실'이라는 진실(truism)을 사용합니다. 이어서 이를 '마음의 눈'으로 연결하여 테이블의 내적 표상이 물리적 테이블만큼이나 생생하다는 것을 보여줍니다. 마지막으로 무의식의 힘을 인정하며 그 '아이디어'가 실제 물체만큼이나 구체적이라고 단언함으로써, 신체가 의식적인 노력 없이도 부양이나 마취를 통해 이러한 내적 아이디어에 반응하도록 권한을 부여합니다.)",
+      "context": "- **Context:** Trance deepening through hand levitation and sensory dissociation using concrete metaphors. (구체적인 은유를 통한 손 부양과 감각 해리를 이용한 최면 심화)"
+    }
+  },
+  {
+    "index": 345,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Now consciously you will want to be honest and fair. You are not to deceive Dr. H or me. And consciously you will try to defend, when actually what is needed is the cooperation of your unconscious.\" (이제 의식적으로 당신은 정직하고 공정해지기를 원할 것입니다. 당신은 H 박사나 나를 속여서는 안 됩니다. 그리고 당신은 의식적으로 방어하려고 하겠지만, 실제로 필요한 것은 당신 무의식의 협력입니다.)",
+      "context": "- **Context:** Labeling and discharging the subject's conscious resistance (피험자의 의식적 저항 라벨링 및 배출)"
+    }
+  }
+]

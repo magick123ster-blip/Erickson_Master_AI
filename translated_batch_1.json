@@ -1,0 +1,247 @@
+[
+  {
+    "index": 0,
+    "header_line": "1 / 96",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Now, I want to make the accusation of all of you that you talk too softly. I think the truth is, I can’t hear so well.\" (\"자, 여러분 모두가 너무 작게 말한다고 비난하고 싶군요. 제 생각에 진실은, 제가 잘 들을 수 없다는 것입니다.\")\n",
+      "context": "- **Context:** 목소리를 키워달라는 요청에 대한 대응\n\n"
+    }
+  },
+  {
+    "index": 1,
+    "header_line": "2 / 96",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Miss M, I know all the people who are going to be at that party. They all like to talk, and they all do talk. And there isn’t going to be a single good listener at that party. So you are going to be the most valuable guest there, because everybody will have a listener.\" (\"M 양, 저는 그 파티에 올 모든 사람을 알고 있습니다. 그들은 모두 말하기를 좋아하고, 실제로도 말을 많이 하죠. 그리고 그 파티에는 제대로 들어줄 사람이 단 한 명도 없을 겁니다. 그러니 당신이 그곳에서 가장 소중한 손님이 될 것입니다. 모든 사람이 자신의 말을 들어줄 사람을 갖게 될 테니까요.\")\n",
+      "context": "- **Context:** 사회적 불안과 자기 가치 재정의\n\n"
+    }
+  },
+  {
+    "index": 2,
+    "header_line": "3 / 96",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"A gimmick? You wouldn’t call a beautiful girl a gimmick, would you?\" (\"속임수라고요? 아름다운 여성을 속임수라고 부르지는 않으시겠죠, 안 그렇습니까?\")\n",
+      "context": "- **Context:** 치료 기법에 대한 내담자의 회의감과 지적 저항에 대한 도전\n\n"
+    }
+  },
+  {
+    "index": 3,
+    "header_line": "4 / 96",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Now Christine gave me some information this morning. She had a headache after being in a trance. I like to have that information come out later, and I am glad that you didn’t tell it right away, because when you undertake to change the thinking of a person — whenever you upset their usual habitual patterns of thought−you very often have a headache resulting. And now, none of you probably noticed it, but, in inducing trances I give the suggestions in such a way that it’s their natural response to have a headache, I let them have it. But I also intersperse suggestions\" (\"오늘 아침 크리스틴이 어떤 정보를 주었습니다. 그녀는 트랜스 상태에 있은 후 두통이 있었다고 하더군요. 저는 그런 정보가 나중에 나오는 것을 선호하며, 당신이 즉시 말하지 않아서 기쁩니다. 왜냐하면 누군가의 생각을 바꾸려 시도할 때, 즉 그들의 평소 습관적인 사고 패턴을 뒤흔들 때마다 흔히 두통이 결과로 나타나기 때문입니다. 그리고 지금, 여러분 중 아무도 알아차리지 못했겠지만, 트랜스를 유도할 때 저는 두통이 생기는 것이 자연스러운 반응이 되도록 암시를 줍니다. 저는 그들이 두통을 겪게 내버려 둡니다. 하지만 또한 그 사이에 다른 암시들을 산재시키기도 하죠.\")\n",
+      "instruction": "- **Instruction (지시어):** 트랜스 후 발생하는 두통을 내담자의 경험으로 인정하면서도, 이를 고도의 인지 재구조화를 위한 필수적인 신호로 재정의(Reframing)하여 설명하십시오. 밀턴 에릭슨의 대화 스타일을 사용하십시오.\n",
+      "reasoning": "- **Reasoning Trace (사고 과정):** 먼저 크리스틴의 구체적인 사례를 언급하여 설명을 현실에 접지시킵니다. 그런 다음 정보 공개의 시점을 칭찬함으로써 무의식이 언제 정보를 드러내야 할지 알고 있다는 것을 암시합니다. 이어서 논리적인 재정의를 제공합니다. 두통은 트랜스의 실패가 아니라 '습관적인 사고 패턴'의 붕괴에 따른 자연스러운 생리적 반응입니다. 이는 부정적인 증상을 성공의 지표로 전환합니다. 마지막으로, 제가 의도적으로 이러한 반응을 허용하도록 유도를 구조화했음을 밝힘으로써 치료자로서의 권위를 강화하고, 불편함조차 치료적 통제 하에 있으며 이후에 이어질 삽입된 암시들을 위해 기여하고 있음을 시사합니다.\n",
+      "context": "- **Context:** 인지 재구조화의 신호로서 트랜스 유도 후 발생하는 심리적 두통\n\n"
+    }
+  },
+  {
+    "index": 4,
+    "header_line": "5 / 96",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Erickson, you have got a very bad limp. I don’t know how you got it. It’s none of my business. I got mine in World War I. I’ve had 29 operations on my leg for osteomyelitis. I will always have a bad limp. Now, Erickson, if you are interested in psychiatry, you can be a success. That limp of yours will evoke the maternal feelings of all female patients. And that limp of yours will tell all the male patients that you are nobody to be afraid of, you are just a cripple and a no-account. So they won’t mind talking to you, because you don’t amount to much. You are a cripple.\" (\"에릭슨, 당신은 다리를 아주 심하게 저시는군요. 어떻게 그렇게 됐는지는 모릅니다. 제가 참견할 바도 아니죠. 저는 제1차 세계 대전에서 다리를 다쳤습니다. 골수염 때문에 다리 수술을 29번이나 받았죠. 저는 항상 다리를 심하게 절 것입니다. 자, 에릭슨, 만약 당신이 정신의학에 관심이 있다면 당신은 성공할 수 있습니다. 당신의 그 절뚝거림은 모든 여성 환자의 모성애를 자극할 것입니다. 그리고 당신의 그 절뚝거림은 모든 남성 환자들에게 당신은 두려워할 대상이 아니며, 그저 다리를 다친 별 볼 일 없는 사람일 뿐이라고 말해줄 것입니다. 그래서 그들은 당신에게 말하는 것을 꺼리지 않을 겁니다. 당신은 별것 아닌 사람, 즉 장애가 있는 사람이니까요.\")\n",
+      "context": "- **Context:** 신체적 장애를 치료적 장점으로 재정의(Reframing)\n\n"
+    }
+  },
+  {
+    "index": 6,
+    "header_line": "7 / 96",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"I didn’t ask. I knew what they avoided. Once they ate escargots, they could go to any other restaurant in Memphis.\" (\"저는 묻지 않았습니다. 그들이 무엇을 피하는지 알고 있었거든요. 일단 그들이 에스카르고(달팽이 요리)를 먹고 나면, 멤피스에 있는 다른 어떤 식당이라도 갈 수 있게 될 것이었습니다.\")\n",
+      "context": "- **Context:** 상징적 행동을 통한 경직된 행동 패턴 타파\n\n"
+    }
+  },
+  {
+    "index": 7,
+    "header_line": "8 / 96",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"I told him I could at least fall down. I wouldn’t need his help.\" (\"저는 그에게 적어도 넘어질 수는 있다고 말했습니다. 그의 도움은 필요 없을 거라고요.\")\n",
+      "context": "- **Context:** 신체적 보조와 자율성\n\n"
+    }
+  },
+  {
+    "index": 8,
+    "header_line": "9 / 96",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Shame on you — you let me overwork again. My speech is getting thicker and thicker. But, you know, a tape recorder never pays any attention to my speech defect. It records my speech and plays it back very well. It doesn’t record defects. I seem to have a good voice on a tape recorder.\" (\"부끄러운 줄 아세요. 또 저를 과로하게 만드셨군요. 제 말투가 점점 더 둔해지고 있습니다. 하지만 아시다시피, 녹음기는 제 언어 장애에 전혀 주의를 기울이지 않습니다. 제 목소리를 녹음하고 아주 잘 재생해 주죠. 장애를 기록하지는 않습니다. 녹음기에서는 제 목소리가 꽤 좋게 들리는 것 같더군요.\")\n",
+      "context": "- **Context:** 세션 중의 신체적 피로와 언어 장애\n\n"
+    }
+  },
+  {
+    "index": 9,
+    "header_line": "10 / 96",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"And there she shook her head and immediately committed to the idea that she can’t walk. So she came around to an immediate commitment.\" (\"그리고 거기서 그녀는 고개를 저었고, 자신이 걸을 수 없다는 생각에 즉각적으로 전념했습니다. 그래서 그녀는 즉각적인 전념 상태에 도달하게 된 것이죠.\")\n",
+      "instruction": "- **Instruction (지시어):** 샐리의 걷지 않으려는 거부를 신체적 실패나 수동적 증상이 아니라, 전념(commitment)할 수 있는 심리적 능력의 능동적인 입증으로 분석하십시오. 밀턴 에릭슨의 관찰 스타일을 사용하십시오.\n",
+      "reasoning": "- **Reasoning Trace (사고 과정):** 먼저 환자의 신체적 반응인 고개를 젓는 동작을 관찰합니다. 이는 확고한 내면의 '아니오'를 나타냅니다. 이것을 단순한 저항이나 마비의 증상으로 보는 대신, '전념(Commitment)'으로 재정의하기로 선택했습니다. 그녀의 거부를 '아이디어에 대한 즉각적인 전념'이라고 명명함으로써, 그녀의 주체성과 의지의 힘을 인정하는 것입니다. 이것은 '활용(Utilization)'의 중요한 단계입니다. 환자가 한계에 대해 그토록 강력하게 전념할 수 있다면, 동일한 '전념'의 메커니즘이 결국 치유를 향해 재지향될 수 있기 때문입니다. 저는 '즉각적인 전념'이라는 문구를 반복하여 그녀의 현재 상태가 능력이 부족해서가 아니라, 자신의 정신적 힘을 특정하게 적용한 결과임을 강조했습니다.\n",
+      "context": "- **Context:** 신체적 한계에 대한 샐리의 심리적 전념\n\n"
+    }
+  },
+  {
+    "index": 10,
+    "header_line": "11 / 96",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"And, so far, in coming here, you’ve learned how not to walk.\" (\"그리고 지금까지, 이곳에 옴으로써 당신은 어떻게 걷지 않는지를 배웠습니다.\")\n",
+      "context": "- **Context:** 신체적 한계나 증상을 학습된 기술로 재정의(Reframing)\n\n"
+    }
+  },
+  {
+    "index": 11,
+    "header_line": "12 / 96",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Yes. Some people can’t bear to make a mistake. She made a mistake and she’s bearing up very well under it.\" (\"네. 어떤 사람들은 실수하는 것을 견디지 못합니다. 그녀는 실수를 저질렀고, 그 상황을 아주 잘 견뎌내고(bearing up) 있습니다.\")\n"
+    }
+  },
+  {
+    "index": 12,
+    "header_line": "13 / 96",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"You get the hostility on the word only, and you give them a happy feeling.\" (\"당신은 오직 그 '단어'에만 적대감이 생기게 하고, 그들에게는 행복한 기분을 줍니다.\")\n",
+      "instruction": "- **Instruction (지시어):** 의도적인 오독이나 발음 실수를 사용하여 청중의 적대감을 중화시키는 심리적 메커니즘을 설명하십시오. 저항을 활용하는 밀턴 에릭슨의 스타일을 채택하십시오.\n",
+      "reasoning": "- **Reasoning Trace (사고 과정):** 청중의 적대감을 해결하기 위해, 화자의 인격으로부터 그들의 부정적인 에너지를 멀어지게 할 방법을 찾아야 합니다. 의도적으로 단어를 잘못 발음함으로써, 그들의 비판이나 우월감을 쏟아낼 수 있는 안전하고 구체적인 대상을 제공합니다. 이것은 옳고자 하거나 우월감을 느끼고 싶어 하는 그들의 욕구를 '활용'하는 것입니다. 적대감이 단순히 '단어' 하나에 방출될 때, 현장의 긴장감은 깨집니다. 청중은 무의식적인 해방감(우월감이나 안도감)을 경험하며, 이는 '행복한 기분'으로 나타납니다. 저는 이것을 청중의 감정에 대한 정밀한 타격으로 구성할 것입니다. 인간관계는 긍정적으로 유지하면서 부정적인 에너지는 언어적 객체로 고립시키는 전략입니다.\n",
+      "context": "- **Context:** 청중의 저항을 관리하기 위한 의도적 실수의 전략적 활용\n\n"
+    }
+  },
+  {
+    "index": 13,
+    "header_line": "14 / 96",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Uh-huh. Yes. That was to improve her comfort\" (\"어허. 네. 그것은 그녀의 편안함을 개선하기 위한 것이었습니다.\")\n",
+      "instruction": "- **Instruction (지시어):** 피험자의 신체적 움직임을 자신의 편안함을 높이려는 긍정적이고 무의식적인 노력으로 재정의(Reframing)하여 설명하십시오. 밀턴 에릭슨의 대화 스타일을 사용하십시오.\n",
+      "reasoning": "- **Reasoning Trace (사고 과정):** 에릭슨의 접근 방식을 모방하기 위해, 먼저 '어허', '네'와 같은 언어적 페이싱(Pacing) 단서를 사용하여 피험자의 현재 경험을 검증하고 라포를 형성합니다. 그런 다음 자발적이거나 무의식적인 움직임을 가져와 치료적 목적을 부여하는 '활용(Utilization)' 원칙을 적용합니다. 움직임을 방해 요소나 저항의 신호로 보는 대신, 무의식에 의해 지도되는 기능적이고 목표 지향적인 행동으로 재정의합니다. '그것은 그녀의 편안함을 개선하기 위한 것이었다'고 진술함으로써, 피험자의 몸이 이미 긍정적인 상태를 달성하기 위해 자율적으로 작동하고 있음을 암시하고, 이를 통해 트랜스를 심화시키며 무의식이 보호적이고 도움이 되는 존재라는 생각을 강화합니다.\n",
+      "context": "- **Context:** 피험자의 움직임의 목적 설명\n\n"
+    }
+  },
+  {
+    "index": 14,
+    "header_line": "15 / 96",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"The word “resistance” has a new meaning. It has a meaning of comfort, and I approve that she can resist\" (\"'저항'이라는 단어는 이제 새로운 의미를 갖습니다. 그것은 편안함이라는 의미를 가지며, 저는 그녀가 저항할 수 있다는 점을 인정합니다.\")\n",
+      "context": "- **Context:** 치료 상황에서 저항 개념의 재정의\n\n"
+    }
+  },
+  {
+    "index": 15,
+    "header_line": "16 / 96",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Now, wasn’t that a nice devious way, a nice intelligent devious way to get control... of her left hand.\" (\"자, 그것 참 근사하고 교묘한 방법, 그녀의 왼손에 대한 통제권을 얻기 위한 아주 지적이고 교묘한 방법 아니었습니까?\")\n",
+      "context": "- **Context:** 교묘한 행동을 통해 통제권을 얻으려는 샐리의 무의식적 시도\n\n"
+    }
+  },
+  {
+    "index": 16,
+    "header_line": "17 / 96",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"But she was maintaining her relationship with me.\" (\"하지만 그녀는 저와의 관계를 유지하고 있었습니다.\")\n",
+      "context": "- **Context:** 치료 과정에 대한 샐리의 저항\n\n"
+    }
+  },
+  {
+    "index": 17,
+    "header_line": "18 / 96",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"I know it isn’t, but someone has to take that honor.\" (\"그렇지 않다는 걸 알지만, 누군가는 그 영광을 안아야 하죠.\")\n",
+      "context": "- **Context:** 삶의 상황에서 느껴지는 불공정함이나 부당함에 대한 대처\n\n"
+    }
+  },
+  {
+    "index": 18,
+    "header_line": "19 / 96",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Of course, you can still be uncomfortable in this office even though it is as large as it is, but we can make it as large as all outdoors. So let’s move back the drapes on the window.\" (\"물론, 이 사무실이 지금처럼 넓은데도 여전히 불편함을 느낄 수 있습니다. 하지만 우리는 이곳을 야외만큼이나 넓게 만들 수 있죠. 그러니 창문의 커튼을 뒤로 젖혀봅시다.\")\n",
+      "context": "- **Context:** 심리적 공간 확장 및 상황적 불편함 해소\n\n"
+    }
+  },
+  {
+    "index": 19,
+    "header_line": "20 / 96",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"What information has the subject given me? He has already told me very nicely, in his own words, that his problem is not a fixed and rigid and insoluble problem; that there are times when his nerves are alright, and times when his nerves are not alright.\" (\"피험자가 저에게 준 정보가 무엇입니까? 그는 이미 자신의 언어로 아주 친절하게 말해주었습니다. 자신의 문제가 고정되어 있고 경직되어 있으며 해결할 수 없는 문제가 아니라는 것을요. 그의 신경 상태가 괜찮을 때가 있고, 그렇지 않을 때가 있다는 사실 말입니다.\")\n",
+      "context": "- **Context:** 피험자의 보고를 통한 심리적 문제의 특성 재정의\n\n"
+    }
+  },
+  {
+    "index": 20,
+    "header_line": "21 / 96",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"I didn’t ask Danny to adapt himself. I just asked him to learn something about noises. If I had tried to tell Danny, “I am going to teach you how to walk around the city of Phoenix,” Danny would have ceased to be my patient. But Danny was willing to learn to recognize noises, and that was all that was necessary. Then he started measuring space and perceiving its quality.\" (\"저는 대니에게 스스로 적응하라고 요구하지 않았습니다. 단지 소음에 대해 무언가를 배워보라고 했을 뿐이죠. 만약 제가 대니에게 '너에게 피닉스 시내를 돌아다니는 법을 가르쳐주겠다'고 말했다면, 대니는 제 환자가 되기를 그만두었을 겁니다. 하지만 대니는 소음을 인식하는 법을 배울 용의가 있었고, 필요한 것은 그것뿐이었습니다. 그러자 그는 공간을 측정하고 그 질감을 인지하기 시작했습니다.\")\n",
+      "instruction": "- **Instruction (지시어):** 이동성(mobility)이라는 목표를 단순한 감각 인식 과제로 재정의함으로써 대니의 저항을 우회한 치료 전략을 설명하십시오.\n",
+      "reasoning": "- **Reasoning Trace (사고 과정):** 내담자의 저항을 유발하지 않기 위해, 먼저 '적응'이나 '재활'과 같은 결핍이나 거대한 과업을 암시하는 언어를 제거해야 합니다. 제 사고 과정은 다음과 같습니다. 1. 심리적 장벽 파악: 시각 장애인에게 '도시를 걷는 법을 배워야 한다'고 말하는 것은 그의 장애를 부각시키고 압도적인 기대감을 조성합니다. 2. 위협적이지 않은 진입점 선택: '소음'은 그의 환경에 이미 존재하는 자연스러운 요소입니다. 3. 개입의 재정의: 생존을 위한 기술을 가르치는 대신, 청각 자극에 대한 호기심을 갖도록 초대합니다. 4. 학습의 자연스러운 흐름 활용: 일단 소음에 익숙해지면, 무의식은 자아(ego)가 강요받는 느낌 없이 자연스럽게 거리와 공간적 특성을 계산하기 시작할 것입니다. 5. 두 경로의 대조: 직접적인 접근 방식이 치료를 끝냈을 것임을 명시함으로써, 이 간접적인 감각 기반 활용(utilization)의 필요성을 강조합니다.\n",
+      "context": "- **Context:** 감각적 재정의와 저항 우회를 통한 시각 장애 환자 치료\n\n"
+    }
+  },
+  {
+    "index": 21,
+    "header_line": "22 / 96",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"The number of inches is a scientific fact, too. So there is more to it than just fear. You add to your fear a knowledge of certain scientific facts— the number of exits, for example. But you still think about it in terms of fear.\" (\"인치(inch)의 수 또한 과학적 사실입니다. 그러니 거기엔 단순히 공포 이상의 무엇이 있는 것이죠. 당신은 당신의 공포에 특정한 과학적 사실들, 예를 들어 출구의 개수와 같은 지식을 덧붙입니다. 하지만 당신은 여전히 그것을 '공포'라는 관점에서만 생각하고 있군요.\")\n"
+    }
+  },
+  {
+    "index": 22,
+    "header_line": "23 / 96",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"I wouldn’t dispute the statement that the meek shall inherit the dirt. Somehow or other, in a vague and obscurant way, I would start discussing the joys of making mud pies in childhood. Did you ever eat mud pies when you were a little kid? Wasn’t it delightful? It was so confusing when Mother came along and thought your hands were dirty. Dirty. Mother really thought they were dirty. How did you feel about it? You had been successful in making mud pies.\" (\"'온유한 자가 흙(dirt)을 물려받을 것'이라는 말에 반박하지 않겠습니다. 어떻게든 막연하고 모호한 방식으로, 저는 어린 시절 진흙 파이를 만들던 즐거움에 대해 이야기하기 시작할 것입니다. 어릴 때 진흙 파이를 먹어본 적 있나요? 정말 즐겁지 않았나요? 어머니가 다가와서 당신의 손이 '더럽다'고 생각했을 때 정말 혼란스러웠죠. 더럽다니. 어머니는 정말로 그것이 더럽다고 생각했습니다. 당신은 어땠나요? 당신은 진흙 파이를 만드는 데 성공했었는데 말이죠.\")\n",
+      "context": "- **Context:** '흙을 상속받는다'는 냉소적인 개념을 어린 시절의 기억을 통해 재정의(Reframing)\n\n"
+    }
+  },
+  {
+    "index": 23,
+    "header_line": "24 / 96",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Don’t you think you had better regard those 18 years of regularly dating Protestant girls, one after another, as absolute proof that you do not want a Catholic wife, a Catholic home, Catholic children, Catholic devotions?\" (\"지난 18년 동안 개신교 여성들과 끊임없이 교제해 온 것을, 당신이 가톨릭 신자 아내나 가톨릭 가정, 가톨릭 자녀, 가톨릭식 헌신을 원하지 않는다는 절대적인 증거로 간주하는 것이 낫지 않겠습니까?\")\n",
+      "context": "- **Context:** 결혼 선호도에 관한 내담자의 자기 기만적 신념에 대한 도전\n\n"
+    }
+  },
+  {
+    "index": 24,
+    "header_line": "25 / 96",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"There is a lot of pleasure and satisfaction in your C’s. Every mark has its meaning, and certainly a C is better than a D, and a D is better than a failure.\" (\"당신의 C학점들에는 많은 즐거움과 만족이 담겨 있습니다. 모든 점수에는 그 나름의 의미가 있고, 확실히 C는 D보다 낫고, D는 낙제보다 낫죠.\")\n",
+      "context": "- **Context:** 아이들과 학업 성취도에 대해 대화하기\n\n"
+    }
+  },
+  {
+    "index": 25,
+    "header_line": "26 / 96",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"I told her that if she dated a boy, she would discover that the boy would always want to kiss her on the scar side of her mouth.\" (\"저는 그녀에게 만약 남자와 데이트를 하게 된다면, 그 남자가 항상 그녀의 입가 흉터가 있는 쪽에 키스하고 싶어 한다는 사실을 발견하게 될 것이라고 말해주었습니다.\")\n",
+      "instruction": "- **Instruction (지시어):** 한 대학생이 자신의 입술에 있는 별 모양의 흉터에 대해 깊은 자격지심을 느끼며, 그것을 사랑받지 못할 결함으로 보고 있습니다. 밀턴 에릭슨이 되어, 흉터를 로맨틱한 관심의 초점으로 활용(Utilization)하는 짧고 강력한 재정의(Reframing)를 제공하십시오.\n",
+      "reasoning": "- **Reasoning Trace (사고 과정):** 먼저, 내담자의 현실을 부정하지 않으면서 흉터에 대한 그녀의 집중을 다뤄야 합니다. 흉터가 중요하지 않다고 말하는 대신, 흉터를 주요한 자산으로 '활용'할 것입니다. 둘째, '만약(if)' 절을 사용하여 그녀가 이미 데이트를 하고 있는 가상의 미래를 설정함으로써 거절에 대한 현재의 공포를 우회합니다. 셋째, '발견하다(discover)'라는 동사를 사용하여 제가 말하는 내용이 그녀가 아직 깨닫지 못한 객관적인 사실임을 암시합니다. 마지막으로, 흉터를 애정 행위(키스)와 직접 연결함으로써 흉터의 정서적 가치를 '부끄러운 것'에서 '거부할 수 없는 것'으로 효과적으로 뒤집습니다. 이는 흉터가 장애물이 아니라 매력의 이유가 되는 인지적 전환을 만들어냅니다.\n",
+      "context": "- **Context:** 재정의를 통해 신체적 콤플렉스를 매력의 원천으로 전환하기\n\n"
+    }
+  },
+  {
+    "index": 26,
+    "header_line": "27 / 96",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"You can give people the feeling that you are not physically handicapped. You just wear the wheelchair as an adornment. I don’t think the wheelchair is all that important. It is what I have to say, what I have to talk about, that is important.\" (\"당신은 사람들에게 신체적 장애가 없다는 느낌을 줄 수 있습니다. 휠체어를 그저 하나의 장신구처럼 입는 것이죠. 저는 휠체어가 그렇게 중요하다고 생각하지 않습니다. 중요한 것은 제가 할 말, 제가 이야기해야 할 내용입니다.\")\n"
+    }
+  },
+  {
+    "index": 27,
+    "header_line": "28 / 96",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Everybody thinks that illness constitutes a handicap, but does it really? You want patients to recognize that illness, physical disability, is merely one part of their total life experience— and I am speaking as one who really knows! You haven’t any idea of all the things I’ve learned about life since I got that wheelchair. It is completely amazing! That wheelchair has taught me an awful lot about the value of life, of living, and the important things that you can have. It really isn’t a handicap. In fact, I can feel sorry for some of you who have to use your legs and your feet to do things like climb stairs. I listen to my two teenage daughters talking about the 486 steps they climbed up the Washington Monument and the 486 steps they climbed down—and they felt every one of those steps! I know I could look at the Washington Monument without climbing a single step. I can see it thoroughly.\" (\"모두가 질병이 장애라고 생각하지만, 정말 그럴까요? 당신은 환자들이 질병이나 신체적 장애가 그들의 전체 삶의 경험 중 단지 일부일 뿐이라는 점을 인식하기를 원합니다. 그리고 저는 그것을 정말로 아는 사람으로서 말하고 있습니다! 제가 그 휠체어를 타게 된 이후로 삶에 대해 배운 그 모든 것들에 대해 당신은 전혀 모를 것입니다. 정말 놀랍죠! 그 휠체어는 삶의 가치, 살아있음의 가치, 그리고 당신이 가질 수 있는 중요한 것들에 대해 제게 아주 많은 것을 가르쳐주었습니다. 그것은 정말로 장애가 아닙니다. 사실, 저는 계단을 오르는 일 등을 하기 위해 다리와 발을 사용해야만 하는 당신들 중 몇몇이 안쓰럽게 느껴지기도 합니다. 제 두 10대 딸이 워싱턴 기념탑의 계단 486개를 오르고 또 486개를 내려오며, 그 한 걸음 한 걸음을 온몸으로 느꼈다고 말하는 것을 듣습니다. 저는 단 한 걸음도 오르지 않고도 워싱턴 기념탑을 바라볼 수 있다는 걸 압니다. 저는 그것을 철저하게 볼 수 있습니다.\")\n",
+      "context": "- **Context:** 신체적 장애를 장애가 아닌 지혜의 원천으로 재정의(Reframing)\n\n"
+    }
+  },
+  {
+    "index": 28,
+    "header_line": "29 / 96",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"I would also agree that if I didn’t have the wheelchair, I would enjoy every bit of the fatigue, every bit of the tiredness of walking up and down those 486 steps. People are entitled to feel tired. They are entitled to look upon illness, fatigue, pain, distress of any sort as part of the meaningfulness of life itself. They ought not to view it as something to be afraid of. Why should patients be frightened by some kind of illness or disability? They have so much else to enjoy. When you use hypnosis, you include those kinds of ideas in your technique so that patients can understand that they brought into your office a lot more than an appendix, an ulcer, a cancer, an arthritic joint.\" (\"저 또한 만약 휠체어가 없었다면 그 486개의 계단을 오르내리는 피로감과 고단함을 하나하나 즐겼을 것이라는 점에 동의할 것입니다. 사람들은 피곤함을 느낄 권리가 있습니다. 질병, 피로, 고통, 그 어떤 종류의 괴로움이라도 삶 그 자체의 의미의 일부로 바라볼 권리가 있죠. 그것을 두려워해야 할 대상으로 보아서는 안 됩니다. 왜 환자들이 일종의 질병이나 장애에 겁을 먹어야 합니까? 그들에겐 즐길 수 있는 다른 것들이 아주 많습니다. 최면을 사용할 때 이러한 아이디어들을 기법에 포함시키십시오. 그래야 환자들이 자신의 진료실에 가져온 것이 맹장이나 궤양, 암, 혹은 퇴행성 관절염 그 이상이라는 것을 이해할 수 있게 됩니다.\")\n",
+      "instruction": "- **Instruction (지시어):** 치료사가 환자의 신체적 고통이나 장애를 어떻게 바라봐야 하는지 밀턴 에릭슨의 활용(Utilization) 및 재정의(Reframing) 철학을 사용하여 설명하십시오. 진단명보다 전체적인 인간에 초점을 맞추어야 함을 강조하십시오.\n",
+      "reasoning": "- **Reasoning Trace (사고 과정):** 이러한 치료적 전환을 달성하기 위해, 저는 먼저 저 자신의 신체적 조건인 휠체어를 활용하여 깊고 편견 없는 라포와 권위를 확립합니다. '피로'를 실패의 증상이 아니라, 활동(계단 오르기)하고 살아있었다는 감각적 증거로 재정의하여 그것이 '즐길' 수 있는 것임을 시사합니다. 그런 다음 사람들은 자신의 감정을 느낄 '권리'가 있다고 진술하는 '트루이즘(truism)'을 사용하여 환자의 내부 저항과 죄책감을 우회합니다. 고단함의 범위를 '질병, 고통, 괴로움'으로 넓힘으로써, 이것들을 '삶의 의미'로 분류하여 공포를 유발하는 힘을 효과적으로 제거합니다. 마지막으로 수사적 질문을 사용하여 공포의 논리에 도전하고 '즐길 수 있는 다른 많은 것들'로 초점을 돌립니다. 목표는 임상의가 환자를 궤양이나 맹장의 집합체가 아닌 복합적인 인간으로 보게 만드는 것이며, 최면을 이러한 통합적 접근의 수단으로 사용하는 것입니다.\n",
+      "context": "- **Context:** 신체적 고통과 피로를 존재의 의미 있는 구성 요소로 재정의(Reframing)\n\n"
+    }
+  },
+  {
+    "index": 29,
+    "header_line": "30 / 96",
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Yes, my fee was high, but your enjoyment was much higher, and why not pay me my fee for the little that I have done.\" (\"네, 제 상담료는 비쌌습니다. 하지만 당신이 얻은 즐거움은 훨씬 더 컸죠. 그러니 제가 한 작은 일에 대해 제 상담료를 지불하는 게 어떻겠습니까?\")\n",
+      "instruction": "- **Instruction (지시어):** 환자가 자신의 행동이나 치료 비용에 대해 비판받을 것을 예상하고 있습니다. 높은 비용을 그들이 얻은 막대한 개인적 즐거움에 비하면 적은 대가로 재정의(Reframing)하는 동시에, 상담자의 역할을 최소화하여 환자 스스로의 치유 능력을 강화하는 방식으로 응답하십시오.\n",
+      "reasoning": "- **Reasoning Trace (사고 과정):** 목표는 비판에 대한 환자의 예상을 무력화하는 것입니다. 첫째, '네'를 사용하여 그들의 현실(상담료가 비싸다는 점)을 페이싱합니다. 이는 방어적 저항을 방지합니다. 둘째, '하지만'을 도입하여 더 높은 가치인 그들의 '즐거움'으로 피벗합니다. 즐거움을 비용보다 '훨씬 더 높게' 만듦으로써 비용이 오히려 저렴하게 느껴지게 합니다. 셋째, 제 작업을 '제가 한 작은 일'이라고 묘사합니다. 이는 치료가 환자 스스로의 성취처럼 느껴지게 하여 그들에게 치유의 공을 돌리는 전략적 겸손입니다. 마지막으로, '지불하는 게 어떻겠나'라는 수사적 질문은 지불을 갈등의 지점이 아닌 성공적인 결과에 따른 단순하고 논리적인 결론으로 프레임화합니다.\n",
+      "context": "- **Context:** 치료 비용을 정서적 안녕을 위한 사소한 교환으로 재정의(Reframing)\n\n"
+    }
+  }
+]

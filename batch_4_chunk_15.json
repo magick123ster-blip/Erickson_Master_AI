@@ -1,0 +1,111 @@
+[
+  {
+    "index": 511,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"And the conscious mind can be more comfortable because it isn't pressured to do it at an exact moment. A small child always asks, Can I do it when I want to? The feeling of comfort and freedom is very important. You don't have to know the exact time.\" (의식적인 마음은 정확한 순간에 그것을 해야 한다는 압박을 받지 않기 때문에 더 편안해질 수 있습니다. 어린아이는 항상 묻죠, '내가 원할 때 해도 돼요?'라고요. 안락함과 자유의 느낌은 매우 중요합니다. 정확한 시간을 알 필요는 없습니다.)",
+      "context": "- **Context:** Comfort and freedom from pressure for the conscious mind (의식을 위한 안락함과 압박으로부터의 자유)"
+    }
+  },
+  {
+    "index": 512,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"They are warmer. Let's let them keep on being warmer and warmer.\" (당신의 손이 더 따뜻해졌군요. 계속해서 점점 더 따뜻해지게 내버려 둡시다.)",
+      "context": "- **Context:** Hand warming through hypnotic suggestion (최면 암시를 통한 손의 온열감 유도)"
+    }
+  },
+  {
+    "index": 513,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"You can lean back in the chair.\" (의자에 등을 기대도 됩니다.)",
+      "context": "- **Context:** Inducing physical relaxation and posture adjustment (신체적 이완 및 자세 조절 유도)"
+    }
+  },
+  {
+    "index": 514,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"And nothing can prevent it from feeling hair and a vagina for as long as you want.\" (그리고 당신이 원하는 만큼 머리카락과 질감의 감각을 느끼는 것을 그 무엇도 막을 수 없습니다.)",
+      "context": "- **Context:** Sensory suggestion regarding tactile hallucinations (촉각적 환각에 관한 감각적 암시)"
+    }
+  },
+  {
+    "index": 515,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Would you like to see the world's largest private collection of iron wood carvings?\" (세계 최대의 개인 철목 조각품 컬렉션을 보시겠습니까?)",
+      "context": "- **Context:** Invitation to view a personal collection (개인 소장품 구경으로의 초대)"
+    }
+  },
+  {
+    "index": 516,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"You don't need to look. Just talk to me about it.\" (볼 필요는 없습니다. 그냥 그것에 대해 나에게 이야기만 하세요.)",
+      "context": "- **Context:** Encouraging verbalization without external visual focus (외부 시각적 집중 없이 언어화 장려하기)"
+    }
+  },
+  {
+    "index": 517,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"It is a state similar to the hypnotic, and you can rest, you can be comfortable. You can paint. You can trust your unconscious mind.\" (그것은 최면과 유사한 상태이며, 당신은 휴식을 취하고 편안해질 수 있습니다. 당신은 그림을 그릴 수 있고, 당신의 무의식을 신뢰할 수 있습니다.)",
+      "context": "- **Context:** Creative expression and unconscious trust in trance-like states (최면과 유사한 상태에서의 창의적 표현과 무의식적 신뢰)"
+    }
+  },
+  {
+    "index": 518,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Only tell us what you wish to share with strangers.\" (낯선 사람들과 공유하고 싶은 것만 우리에게 말하세요.)",
+      "context": "- **Context:** Establishing therapeutic boundaries and patient autonomy (치료적 경계 설정과 환자의 자율성)"
+    }
+  },
+  {
+    "index": 519,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Maybe it's automatic writing.\" (어쩌면 그것은 자동기술(automatic writing)일지도 모릅니다.)",
+      "instruction": "- **Instruction (지시어):** Suggest the possibility of automatic writing to a client in a way that bypasses conscious resistance and invites unconscious exploration, using Milton Erickson's permissive style. (의식적인 저항을 우회하고 무의식적인 탐구를 유도하는 방식으로, 밀턴 에릭슨의 허용적인 스타일을 사용하여 내담자에게 자동기술의 가능성을 제안하세요.)",
+      "reasoning": "- **Reasoning Trace (사고 과정):** 1. Goal Identification: The objective is to label a client's experience as 'automatic writing' to facilitate a deeper trance state or dissociative process. 2. Resistance Management: Direct assertions like 'This is automatic writing' can trigger the conscious mind's critical faculty, leading to denial or doubt. 3. Linguistic Softening: By using the word 'Maybe', I shift the statement from a factual claim to a mere possibility. This makes the suggestion 'ego-distant' and non-threatening. 4. Seeding: This brief statement plants a seed in the unconscious mind. If the client's hand is moving or about to move, the label 'automatic writing' provides a psychological framework for that movement to occur without conscious effort. 5. Minimalism: Keeping the utterance extremely brief prevents over-analysis and allows the client's own unconscious processes to fill in the meaning and expand upon the suggestion. (1. 목표 식별: 목표는 내담자의 경험을 '자동기술'로 지칭하여 더 깊은 최면 상태나 해리 과정을 촉진하는 것입니다. 2. 저항 관리: '이것은 자동기술이다'와 같은 직접적인 주장은 의식적인 마음의 비판적 기능을 자극하여 심리적 거부나 의구심을 유발할 수 있습니다. 3. 언어적 완화: '어쩌면'이라는 단어를 사용함으로써, 진술을 사실적인 주장에서 단순한 가능성으로 전환합니다. 이는 암시를 '자아와 거리가 멀게' 하고 위협적이지 않게 만듭니다. 4. 씨앗 뿌리기: 이 짧은 진술은 무의식에 씨앗을 뿌립니다. 만약 내담자의 손이 움직이고 있거나 움직이려 한다면, '자동기술'이라는 명칭은 그 움직임이 의식적인 노력 없이 일어날 수 있는 심리적 틀을 제공합니다. 5. 미니멀리즘: 발화를 매우 짧게 유지함으로써 과도한 분석을 방지하고 내담자 자신의 무의식적 과정이 의미를 채우고 암시를 확장할 수 있도록 합니다.)",
+      "context": "- **Context:** Introducing the concept of automatic writing as a dissociative phenomenon (해리 현상으로서의 자동기술 개념 도입)"
+    }
+  },
+  {
+    "index": 520,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Your eyes can now close,\" (이제 당신의 눈이 감길 수 있습니다.)",
+      "context": "- **Context:** Inducing eye closure for trance induction (최면 유도를 위한 눈 감기 유도)"
+    }
+  },
+  {
+    "index": 521,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"I'm not asking her to do anything she doesn't want to. It could be a friend, relative, anyone known.\" (나는 그녀가 원하지 않는 일을 하라고 요구하는 것이 아닙니다. 그것은 친구일 수도 있고, 친척일 수도 있으며, 아는 사람 누구라도 될 수 있습니다.)",
+      "context": "- **Context:** Clarifying non-coercion and autonomy in the therapeutic process (치료 과정에서의 비강제성 및 자율성 명시)"
+    }
+  },
+  {
+    "index": 522,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"I think you might like to include hypnosis in your future.\" (당신의 미래에 최면을 포함시키는 것이 좋을 것 같군요.)",
+      "context": "- **Context:** Future integration of hypnosis (최면의 미래 통합)"
+    }
+  },
+  {
+    "index": 523,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"And even that you could do without terrifying emotions.\" (그리고 심지어 그것조차 공포스러운 감정 없이 해낼 수 있을 것입니다.)",
+      "context": "- **Context:** Managing fear associated with the sensation of height or tallness (높이나 키와 관련된 감각적 공포 관리하기)"
+    }
+  },
+  {
+    "index": 524,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"It's well to let them experience this state of wonderment in the trance.\" (그들이 최면 속에서 이러한 경이로운 상태를 경험하게 하는 것이 좋습니다.)",
+      "context": "- **Context:** The state of wonderment in a trance (최면 상태에서의 경이로운 감각)"
+    }
+  },
+  {
+    "index": 525,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Only what you want to tell us.\" (우리에게 말하고 싶은 것만 말씀하시면 됩니다.)",
+      "instruction": "- **Instruction (지시어):** Generate a brief response to a patient waking from a trance that emphasizes their autonomy and control over what information they choose to share. (최면에서 깨어난 환자에게 그들이 공유하기로 선택한 정보에 대한 자율성과 통제권을 강조하는 짧은 응답을 생성하세요.)",
+      "reasoning": "- **Reasoning Trace (사고 과정):** When a patient emerges from a trance, they often feel a sense of vulnerability or uncertainty about the boundaries of their disclosure. To facilitate a safe transition and maintain rapport, I must utilize a permissive frame. By stating 'Only what you want to tell us,' I am doing several things: First, I am validating their right to privacy. Second, I am reducing any potential resistance by removing the pressure to perform or explain. Third, the word 'only' acts as a linguistic filter that simplifies their task, making the act of sharing feel manageable and entirely within their control. This empowers the patient's ego while maintaining the therapeutic alliance established during the trance state. (환자가 최면에서 깨어날 때, 그들은 종종 자신의 폭로 범위에 대해 취약함이나 불확실함을 느낍니다. 안전한 전환을 돕고 라포를 유지하기 위해 허용적 프레임을 활용해야 합니다. '말하고 싶은 것만 말하라'고 함으로써 몇 가지 효과를 노립니다. 첫째, 그들의 프라이버시에 대한 권리를 인정합니다. 둘째, 수행이나 설명에 대한 압박을 제거함으로써 잠재적인 저항을 줄입니다. 셋째, '만(~만)'이라는 단어는 전달 과제를 단순화하는 언어적 필터로 작용하여, 공유 행위가 관리 가능하고 전적으로 자신의 통제 하에 있는 것처럼 느끼게 합니다. 이는 최면 상태 동안 형성된 치료적 동맹을 유지하면서 환자의 자아에 권한을 부여합니다.)",
+      "context": "- **Context:** Post-trance re-orientation and privacy protection (최면 후 재지향 및 사생활 보호)"
+    }
+  }
+]

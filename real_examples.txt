@@ -1,0 +1,25 @@
+[ERICKSON_PACING_INTERNAL_STATE -> ERICKSON_NEGATIVE_SUGGESTION]
+Script: A Teaching Seminar with Milton H Erickson
+1: Are you feeling comfortable?
+2: You are not feeling self-conscious?
+----------------------------------------
+[ERICKSON_CHALLENGE_CONSCIOUSNESS -> ERICKSON_PATTERN_INTERRUPT]
+Script: A Teaching Seminar with Milton H Erickson
+1: You’re sure of it?
+2: What?
+----------------------------------------
+[ERICKSON_INTERNAL_FOCUS -> ERICKSON_CONSCIOUS_UNCONSCIOUS_DISSOCIATION]
+Script: Experiencing Hypnosis - Thrapeutic Approches to Altered States - Milton Erickson
+1: "Attend to memories"—that is, not external realities.
+2: And now I'm going to give your unconscious mind some instruction. It isn't important whether or not your conscious mind listens to it. Your unconscious mind will hear it—
+----------------------------------------
+[ERICKSON_CONTINGENT_SUGGESTION -> ERICKSON_CONTINGENT_SUGGESTION]
+Script: Hypnotherapy - An Exploratory Casebook - Milton H. Erickson
+1: With each breath you take you can become aware of the natural rhythms of your body and feelings of comfort that develop.
+2: As you continue sitting there, you will find yourself becoming more relaxed and comfortable.
+----------------------------------------
+[ERICKSON_APPOSITION_OPPOSITES -> ERICKSON_APPOSITION_OPPOSITES]
+Script: Hypnotic Realities - Milton Erickson
+1: As your hand lifts, your eyelids will feel heavy.
+2: You can remain comfortable immobile until the urge to move takes your hand across the page writing automatically.
+----------------------------------------

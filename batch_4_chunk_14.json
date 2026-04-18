@@ -1,0 +1,109 @@
+[
+  {
+    "index": 496,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"In exactly the same way, I do not like this matter of telling a patient, 'I want you to get tired and sleepy, and to get tired and sleepier.' That is an effort to force your wishes upon the patient. That is an effort to dominate the patient. It is much better to suggest that they can get tired, that they can get sleepy, that they can go into a trance. For it is always a matter of offering them the opportunity of responding to an idea.\" (정확히 같은 이유로, 나는 환자에게 '피곤하고 졸려지길 바랍니다, 그리고 점점 더 피곤하고 졸려지길 바랍니다'라고 말하고 싶지 않습니다. 그것은 당신의 바람을 환자에게 강요하려는 시도입니다. 환자를 지배하려는 시도죠. 그들이 피곤해질 수 있고, 졸려질 수 있으며, 최면에 빠질 수 있다고 제안하는 것이 훨씬 낫습니다. 그것은 항상 그들에게 아이디어에 반응할 기회를 제공하는 문제이기 때문입니다.)",
+      "context": "- **Context:** The methodology of trance induction and the importance of patient autonomy (최면 유도 방법론과 환자 자율성의 중요성)"
+    }
+  },
+  {
+    "index": 497,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"If you would like to, let's see your right hand lift up.\" (원하신다면, 당신의 오른손이 들리는 것을 지켜봅시다.)",
+      "context": "- **Context:** Ideomotor response induction through hand levitation (손 부양을 통한 관념운동 반응 유도)"
+    }
+  },
+  {
+    "index": 498,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Yes, but could you have had a feeling there for a little while that you were actually sitting in a chair or lying on a couch at home?\" (네, 하지만 잠시 동안 당신이 실제로 집에 있는 의자에 앉아 있거나 소파에 누워 있다는 기분을 느낄 수 있었나요?)",
+      "context": "- **Context:** Inducing relaxation through environmental visualization (환경 시각화를 통한 이완 유도)"
+    }
+  },
+  {
+    "index": 499,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"He obviously wants to learn. And you can take your own time in awakening.\" (그는 분명히 배우고 싶어 합니다. 그리고 당신은 편한 시간에 맞춰 깨어나셔도 됩니다.)",
+      "context": "- **Context:** The transition from trance to awakening while validating learning motivation. (학습 동기를 인정하면서 최면에서 깨어나는 과정으로의 전이)"
+    }
+  },
+  {
+    "index": 500,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"I suppose you ought to dictate into the record what you have observed. Go ahead.\" (당신이 관찰한 것을 기록에 남겨야 할 것 같군요. 계속하세요.)",
+      "context": "- **Context:** Dictating observations of a trance procedure (최면 과정의 관찰 내용 기록하기)"
+    }
+  },
+  {
+    "index": 501,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"But you don’t need to be worried about it.\" (하지만 그것에 대해 걱정할 필요는 없습니다.)",
+      "context": "- **Context:** Reassuring a patient about physical symptoms (shaking) (신체적 증상(떨림)에 대해 환자 안심시키기)"
+    }
+  },
+  {
+    "index": 502,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Maybe the pain will go away in a minute or two.\" (어쩌면 1~2분 안에 통증이 사라질지도 모릅니다.)",
+      "context": "- **Context:** Pain management and psychological hope (통증 관리와 심리적 희망)"
+    }
+  },
+  {
+    "index": 503,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"I would like to have you enjoy a deeper and deeper feeling of comfort as you go into hypnosis.\" (당신이 최면에 들어가면서 점점 더 깊은 안락함을 즐겼으면 좋겠습니다.)",
+      "instruction": "- **Instruction (지시어):** Create a hypnotic suggestion that facilitates a trance state by focusing on the patient's comfort, using indirect phrasing to minimize psychological resistance. (심리적 저항을 최소화하기 위해 간접적인 표현을 사용하여 환자의 안락함에 집중함으로써 최면 상태를 촉진하는 암시를 만드세요.)",
+      "reasoning": "- **Reasoning Trace (사고 과정):** To achieve the goal of inducing a trance while maintaining patient comfort, I must avoid direct commands which might trigger the conscious mind's resistance. Instead, I will use the phrase 'I would like to have you...', which frames the suggestion as a personal preference or a collaborative invitation rather than a rigid instruction. I will employ the repetition of 'deeper and deeper' to create a rhythmic, progressive sensation of sinking into a state. By using the conjunction 'as', I link the inevitable process of 'going into hypnosis' with the positive sensation of 'comfort'. This creates a presupposition that as one happens, the other must also occur, guiding the patient's focus toward their internal experience of ease. (환자의 안락함을 유지하면서 최면을 유도한다는 목표를 달성하기 위해, 의식의 저항을 유발할 수 있는 직접적인 명령은 피해야 합니다. 대신 '당신이 ~했으면 좋겠습니다'라는 문구를 사용하여 암시를 경직된 지시가 아닌 개인적인 선호나 협력적인 초대처럼 프레이밍합니다. 상태로 빠져드는 리드미컬하고 점진적인 감각을 만들기 위해 '점점 더 깊은'이라는 표현을 반복적으로 사용합니다. '함께(~함에 따라)'라는 접속사를 사용함으로써 '최면에 들어가는' 필연적인 과정과 '안락함'이라는 긍정적인 감흥을 연결합니다. 이는 하나가 일어나면 다른 하나도 반드시 일어난다는 전제를 형성하여, 환자의 초점을 편안함이라는 내면의 경험으로 안내합니다.)",
+      "context": "- **Context:** Hypnotic induction and patient comfort (최면 유도와 환자의 안락함)"
+    }
+  },
+  {
+    "index": 504,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"You can describe those feelings as freely as you wish.\" (당신은 그 느낌들을 원하는 만큼 자유롭게 묘사할 수 있습니다.)",
+      "context": "- **Context:** Pain relief and comfort through conversational interspersal (대화식 산재 기법을 통한 통증 완화와 안락함)"
+    }
+  },
+  {
+    "index": 505,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Is it agreeable to you to keep that hungry tiger around?\" (저 배고픈 호랑이를 곁에 두는 것이 당신에게 괜찮은가요?)",
+      "context": "- **Context:** Pain management through visualization and resource anchoring (시각화와 자원 앵커링을 통한 통증 관리)"
+    }
+  },
+  {
+    "index": 506,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"May I ask you to think of a highly emotional matter?\" (매우 감정적인 문제에 대해 생각해보라고 요청해도 될까요?)",
+      "context": "- **Context:** Initiating focus on an emotional internal state (정서적인 내면 상태에 대한 집중 시작하기)"
+    }
+  },
+  {
+    "index": 507,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"You can even watch to see which one is going to lift.\" (어느 쪽이 들리는지 지켜볼 수도 있습니다.)",
+      "context": "- **Context:** Hand levitation and conscious observation during trance induction (최면 유도 중 손 부양과 의식적 관찰)"
+    }
+  },
+  {
+    "index": 508,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Then you can stand up.\" (그럼 일어서셔도 됩니다.)",
+      "context": "- **Context:** Inducing physical movement (standing up) (신체적 움직임(일어서기) 유도)"
+    }
+  },
+  {
+    "index": 509,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"You can close your eyes now.\" (이제 눈을 감아도 됩니다.)",
+      "context": "- **Context:** Inducing eye closure for trance entry (최면 진입을 위한 눈 감기 유도)"
+    }
+  },
+  {
+    "index": 510,
+    "fields": {
+      "output": "> **Output (에릭슨 발화):** \"Go deeply in trance. And now awaken at your convenience.\" (최면 깊숙이 들어가세요. 그리고 이제 편하실 때 깨어나세요.)",
+      "context": "- **Context:** Trance induction and reorientation (최면 유도와 재지향)"
+    }
+  }
+]

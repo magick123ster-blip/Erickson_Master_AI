@@ -3,3 +3,5 @@ pandas
 chromadb
 openai
 sentence-transformers
+pysqlite3-binary
+protobuf==4.25.1
